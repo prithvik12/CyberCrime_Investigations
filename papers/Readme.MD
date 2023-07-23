@@ -41,5 +41,5 @@ IDS STANDALONE.
 
 
 IDS APPLICATION.
-
+1. Y. Dun and G. Liu, "A Fine-Resolution Frequency Estimator in the Odd-DFT Domain," in IEEE Signal Processing Letters, vol. 22, no. 12, pp. 2489-2493, Dec. 2015, doi: 10.1109/LSP.2015.2496276.
 
