@@ -1,4 +1,4 @@
-This Below consists of the paper's citations to be surveyed.
+This Below consists of the SHORTLISTED paper's citations to be surveyed PLEASE UPDATE THE FINAL PAPERS IN THE MAIN README.
 
 IDS and Machine Learning.
 
