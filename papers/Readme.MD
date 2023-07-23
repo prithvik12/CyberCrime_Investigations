@@ -1,5 +1,6 @@
-This folder consists of paper's citations to be surveyed.
+This Below consists of the paper's citations to be surveyed.
 
+IDS and Machine Learning.
 
 1.M. D. Rokade and Y. K. Sharma, "MLIDS: A Machine Learning Approach for Intrusion Detection for Real Time Network Dataset," 2021 International Conference on Emerging Smart Computing and Informatics (ESCI), Pune, India, 2021, pp. 533-536, doi: 10.1109/ESCI50559.2021.9396829.
 
@@ -33,5 +34,12 @@ This folder consists of paper's citations to be surveyed.
 
 
 11.BOROLE Prajakta, SHARMA Yogesh Kumar and NEMADE Santosh, "6G Network Access and Edge-Assisted Congestion Rule Mechanism using Software-Defined Networking", International Journal of Future Generation Communication and Networking, vol. 13.1s, pp. 107-112, 2020.
+
+
+IDS STANDALONE.
+
+
+
+IDS APPLICATION.
 
 
