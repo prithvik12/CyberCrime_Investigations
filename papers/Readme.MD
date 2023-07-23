@@ -43,3 +43,5 @@ IDS STANDALONE.
 IDS APPLICATION.
 1. Y. Dun and G. Liu, "A Fine-Resolution Frequency Estimator in the Odd-DFT Domain," in IEEE Signal Processing Letters, vol. 22, no. 12, pp. 2489-2493, Dec. 2015, doi: 10.1109/LSP.2015.2496276.
 
+2. Lata, S. and Singh, D. (2022) ‘Intrusion detection system in cloud environment: Literature survey &amp; future research directions’, International Journal of Information Management Data Insights, 2(2), p. 100134. doi:10.1016/j.jjimei.2022.100134. 
+
