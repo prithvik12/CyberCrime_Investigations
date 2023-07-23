@@ -45,3 +45,4 @@ IDS APPLICATION.
 
 2. Lata, S. and Singh, D. (2022) ‘Intrusion detection system in cloud environment: Literature survey &amp; future research directions’, International Journal of Information Management Data Insights, 2(2), p. 100134. doi:10.1016/j.jjimei.2022.100134. 
 
+3. H. Mohamed, L. Adil, T. Saida and M. Hicham, "A collaborative intrusion detection and Prevention System in Cloud Computing," 2013 Africon, Pointe aux Piments, Mauritius, 2013, pp. 1-5, doi: 10.1109/AFRCON.2013.6757727.
