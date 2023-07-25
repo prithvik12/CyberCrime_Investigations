@@ -40,5 +40,7 @@ PRITHVIK'S PAPERS:-
 
 2.   Karuna S. Bhosale, Maria Nenova and Georgi Iliev, "Modified Naive Bayes Intrusion Detection System (MNBIDS)", 2018 International Conference on Computational Techniques Electronics and Mechanical Systems (CTEMS), 2018.
 
-3.   
+3.   Dimitra Chamou et al., "Intrusion Detection System Based on Network Traffic Using Deep Neural Networks", 2019 IEEE 24th International Workshop on Computer Aided Modeling and Design of Communication Links and Networks (CAMAD), 2019.
+
+4.   
 
