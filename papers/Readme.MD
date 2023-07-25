@@ -40,6 +40,10 @@ IDS and Machine Learning.
 
 13.  B. N. Kagara and M. Md Siraj, “A Review on Network Intrusion Detection System Using Machine Learning,” Int. J. Innov. Comput., vol. 10, no. 1, pp. 27–34, 2020, doi:10.11113/ijic.v10n1.252.
 
+14.  Siriporn Chimphlee and Witcha Chimphlee, "Machine learning to improve the performance of anomaly-based network intrusion detection in big data",Indonesian Journal of Electrical Engineering and Computer Science Vol. 30, No. 2, May 2023, pp. 1106~1119 ISSN: 2502-4752, DOI: 10.11591/ijeecs.v30.i2.pp1106-1119.
+
+15. U. S. Musa, S. Chakraborty, M. M. Abdullahi and T. Maini, "A Review on Intrusion Detection System using Machine Learning Techniques," 2021 International Conference on Computing, Communication, and Intelligent Systems (ICCCIS), Greater Noida, India, 2021, pp. 541-549, doi: 10.1109/ICCCIS51004.2021.9397121.
+
 
 IDS STANDALONE.
 
