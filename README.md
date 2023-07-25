@@ -38,5 +38,7 @@ PRITHVIK'S PAPERS:-
 
 1.   M. D. Rokade and Y. K. Sharma, "MLIDS: A Machine Learning Approach for Intrusion Detection for Real-Time Network Dataset," 2021 International Conference on Emerging Smart Computing and Informatics (ESCI), Pune, India, 2021, pp. 533-536, doi: 10.1109/ESCI50559.2021.9396829.
 
-2.   
+2.   Karuna S. Bhosale, Maria Nenova and Georgi Iliev, "Modified Naive Bayes Intrusion Detection System (MNBIDS)", 2018 International Conference on Computational Techniques Electronics and Mechanical Systems (CTEMS), 2018.
+
+3.   
 
