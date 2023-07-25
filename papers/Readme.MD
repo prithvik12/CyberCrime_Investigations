@@ -35,6 +35,11 @@ IDS and Machine Learning.
 
 11.BOROLE Prajakta, SHARMA Yogesh Kumar and NEMADE Santosh, "6G Network Access and Edge-Assisted Congestion Rule Mechanism using Software-Defined Networking", International Journal of Future Generation Communication and Networking, vol. 13.1s, pp. 107-112, 2020.
 
+12.  Yogendra Kumar Jain and Upendra, “An Efficient Intrusion Detection Based on Decision Tree Classifier Using Feature Reduction”, International Journal of Engineering Research and Development e-ISSN: 2278-067X, p-ISSN: 2278-800X, www.ijerd.com Volume 8, Issue 2
+(August 2013), PP. 23-38.
+
+13.  B. N. Kagara and M. Md Siraj, “A Review on Network Intrusion Detection System Using Machine Learning,” Int. J. Innov. Comput., vol. 10, no. 1, pp. 27–34, 2020, doi:10.11113/ijic.v10n1.252.
+
 
 IDS STANDALONE.
 
