@@ -47,3 +47,7 @@ PRITHVIK'S PAPERS:-
 
 5.   Siriporn Chimphlee and Witcha Chimphlee, "Machine learning to improve the performance of anomaly-based network intrusion detection in big data",Indonesian Journal of Electrical Engineering and Computer Science Vol. 30, No. 2, May 2023, pp. 1106~1119 ISSN: 2502-4752, DOI: 10.11591/ijeecs.v30.i2.pp1106-1119.
 
+6.   U. S. Musa, S. Chakraborty, M. M. Abdullahi and T. Maini, "A Review on Intrusion Detection System using Machine Learning Techniques," 2021 International Conference on Computing, Communication, and Intelligent Systems (ICCCIS), Greater Noida, India, 2021, pp. 541-549, doi: 10.1109/ICCCIS51004.2021.9397121.
+
+7.   J. A. Abraham and V. R. Bindu, "Intrusion Detection and Prevention in Networks Using Machine Learning and Deep Learning Approaches: A Review," 2021 International Conference on Advancements in Electrical, Electronics, Communication, Computing and Automation (ICAECA), Coimbatore, India, 2021, pp. 1-4, doi: 10.1109/ICAECA52838.2021.9675595.
+
