@@ -48,6 +48,10 @@ IDS and Machine Learning.
 
 17.  Alex Shenfield, David Day, Aladdin Ayesh, Intelligent intrusion detection systems using artificial neural networks, ICT Express, Volume 4, Issue 2, 2018, Pages 95-99,ISSN 2405-9595, https://doi.org/10.1016/j.icte.2018.04.003.
 
+18.  Ahmad Z, Shahid Khan A, Wai Shiang C, Abdullah J, Ahmad F. 2021. Network intrusion detection system: a systematic study of machine learning and deep learning approaches. Transactions on Emerging Telecommunications Technologies 32(1):e4150
+
+19.  
+
 
 IDS STANDALONE.
 
