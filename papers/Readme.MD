@@ -50,7 +50,9 @@ IDS and Machine Learning.
 
 18.  Ahmad Z, Shahid Khan A, Wai Shiang C, Abdullah J, Ahmad F. 2021. Network intrusion detection system: a systematic study of machine learning and deep learning approaches. Transactions on Emerging Telecommunications Technologies 32(1):e4150
 
-19.  
+19.  A. A. Yilmaz, "Intrusion Detection in Computer Networks using Optimized Machine Learning Algorithms," 2022 3rd International Informatics and Software Engineering Conference (IISEC), Ankara, Turkey, 2022, pp. 1-5, doi: 10.1109/IISEC56263.2022.9998258.
+
+20.  H. Du, S. Teng, M. Yang and Q. Zhu, "Intrusion Detection System Based on Improved SVM Incremental Learning," 2009 International Conference on Artificial Intelligence and Computational Intelligence, Shanghai, China, 2009, pp. 23-28, doi: 10.1109/AICI.2009.254.
 
 
 IDS STANDALONE.
