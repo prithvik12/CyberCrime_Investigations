@@ -46,6 +46,8 @@ IDS and Machine Learning.
 
 16.  J. A. Abraham and V. R. Bindu, "Intrusion Detection and Prevention in Networks Using Machine Learning and Deep Learning Approaches: A Review," 2021 International Conference on Advancements in Electrical, Electronics, Communication, Computing and Automation (ICAECA), Coimbatore, India, 2021, pp. 1-4, doi: 10.1109/ICAECA52838.2021.9675595.
 
+17.  Alex Shenfield, David Day, Aladdin Ayesh, Intelligent intrusion detection systems using artificial neural networks, ICT Express, Volume 4, Issue 2, 2018, Pages 95-99,ISSN 2405-9595, https://doi.org/10.1016/j.icte.2018.04.003.
+
 
 IDS STANDALONE.
 
