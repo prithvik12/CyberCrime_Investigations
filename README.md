@@ -96,6 +96,8 @@ Gurpreet's Papers
    
 7. Xinzhou Qin, Wenke Lee, L. Lewis and J. B. D. Cabrera, "Integrating intrusion detection and network management," NOMS 2002. IEEE/IFIP Network Operations and Management Symposium. ' Management Solutions for the New Communications World'(Cat. No.02CH37327), Florence, Italy, 2002, pp. 329-344, doi: 10.1109/NOMS.2002.1015591.
 
+8. A. Abubakar and B. Pranggono, "Machine learning based intrusion detection system for software defined networks," 2017 Seventh International Conference on Emerging Security Technologies (EST), Canterbury, UK, 2017, pp. 138-143, doi: 10.1109/EST.2017.8090413.
+
 **. H. Mohamed, L. Adil, T. Saida and M. Hicham, "A collaborative intrusion detection and Prevention System in Cloud Computing," 2013 Africon, Pointe aux Piments, Mauritius, 2013, pp. 1-5, doi: 10.1109/AFRCON.2013.6757727.
 
 Arundhathi's Papers
