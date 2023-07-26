@@ -89,3 +89,17 @@ Gurpreet's Papers
 3) H. Mohamed, L. Adil, T. Saida and M. Hicham, "A collaborative intrusion detection and Prevention System in Cloud Computing," 2013 Africon, Pointe aux Piments, Mauritius, 2013, pp. 1-5, doi: 10.1109/AFRCON.2013.6757727.
 
 4) Z. A. Haddad, M. Hanoune and A. Mamouni, "A collaborative framework for intrusion detection (C-NIDS) in Cloud computing," 2016 2nd International Conference on Cloud Computing Technologies and Applications (CloudTech), Marrakech, Morocco, 2016, pp. 261-265, doi: 10.1109/CloudTech.2016.7847708.
+
+Yaswanth's Papers
+
+1. I. Mukhopadhyay, K. S. Gupta, D. Sen and P. Gupta, "Heuristic Intrusion Detection and Prevention System," 2015 International Conference and Workshop on Computing and Communication (IEMCON), Vancouver, BC, Canada, 2015, pp. 1-7, doi: 10.1109/IEMCON.2015.7344479.
+
+2. Jyothsna, V.V.R.P.V., Prasad, R. and Prasad, K.M., 2011. A review of anomaly based intrusion detection systems. International Journal of Computer Applications, 28(7), pp.26-35.
+
+3. Wang, Z. and Li, X., 2013. Intrusion prevention system design. In Proceedings of the International Conference on Information Engineering and Applications (IEA) 2012: Volume 3 (pp. 375-382). Springer London.
+
+4. R. Samrin and D. Vasumathi, "Review on anomaly based network intrusion detection system," 2017 International Conference on Electrical, Electronics, Communication, Computer, and Optimization Techniques (ICEECCOT), Mysuru, India, 2017, pp. 141-147, doi: 10.1109/ICEECCOT.2017.8284655.
+
+5. R. Lalduhsaka, A. Khan and A. K. Roy, "Issues and Challenges in Building a Model for Intrusion Detection System," 2021 5th International Conference on Information Systems and Computer Networks (ISCON), Mathura, India, 2021, pp. 1-5, doi: 10.1109/ISCON52037.2021.9702322.
+
+6. Hubballi, Neminath & Suryanarayanan, Vinoth. (2014). False Alarm Minimization Techniques in Signature-Based Intrusion Detection Systems: A Survey. Computer Communications. 49. 10.1016/j.comcom.2014.04.012. 
