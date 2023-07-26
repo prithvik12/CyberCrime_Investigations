@@ -59,3 +59,23 @@ PRITHVIK'S PAPERS:-
 
 10.   H. Du, S. Teng, M. Yang and Q. Zhu, "Intrusion Detection System Based on Improved SVM Incremental Learning," 2009 International Conference on Artificial Intelligence and Computational Intelligence, Shanghai, China, 2009, pp. 23-28, doi: 10.1109/AICI.2009.254.
 
+Shivendra's Papers 
+1. H. Saadat, A. Aboumadi, A. Mohamed, A. Erbad and M. Guizani, "Hierarchical Federated Learning for Collaborative IDS in IoT Applications," 2021 10th Mediterranean Conference on Embedded Computing (MECO), Budva, Montenegro, 2021, pp. 1-6, doi: 10.1109/MECO52532.2021.9460304.
+
+2. L. Wirz, A. Ketphet, N. Chiewnawintawat, R. Tanthanathewin and S. Fugkeaw, "OWADIS: Rapid Discovery of OWASP10 Vulnerability based on Hybrid IDS," 2023 15th International Conference on Knowledge and Smart Technology (KST), Phuket, Thailand, 2023, pp. 1-6, doi: 10.1109/KST57286.2023.10086878.
+
+3. D. D. Priya, A. Kiran and P. Purushotham, "Lightweight Intrusion Detection System(L-IDS) for the Internet of Things," 2022 International Conference on Advancements in Smart, Secure and Intelligent Computing (ASSIC), Bhubaneswar, India, 2022, pp. 1-4, doi: 10.1109/ASSIC55218.2022.10088328.
+
+4. D. D. Priya, A. Kiran and P. Purushotham, "Lightweight Intrusion Detection System(L-IDS) for the Internet of Things," 2022 International Conference on Advancements in Smart, Secure and Intelligent Computing (ASSIC), Bhubaneswar, India, 2022, pp. 1-4, doi: 10.1109/ASSIC55218.2022.10088328.
+
+5. Robert Bronte, Hossain Shahriar, and Hisham M. Haddad. 2016. A Signature-Based Intrusion Detection System for Web Applications based on Genetic Algorithm. In Proceedings of the 9th International Conference on Security of Information and Networks (SIN '16). Association for Computing Machinery, New York, NY, USA, 32–39. https://doi-org.lib-ezproxy.concordia.ca/10.1145/2947626.2951964
+
+6. Robert Bronte, Hossain Shahriar, and Hisham M. Haddad. 2016. A Signature-Based Intrusion Detection System for Web Applications based on Genetic Algorithm. In Proceedings of the 9th International Conference on Security of Information and Networks (SIN '16). Association for Computing Machinery, New York, NY, USA, 32–39. https://doi-org.lib-ezproxy.concordia.ca/10.1145/2947626.2951964
+
+7. Robert Mitchell and Ing-Ray Chen. 2012. Specification based intrusion detection for unmanned aircraft systems. In Proceedings of the first ACM MobiHoc workshop on Airborne Networks and Communications (Airborne '12). Association for Computing Machinery, New York, NY, USA, 31–36. https://doi-org.lib-ezproxy.concordia.ca/10.1145/2248326.2248334
+
+8. Ming Liu, Zhi Xue, Xianghua Xu, Changmin Zhong, and Jinjun Chen. 2018. Host-Based Intrusion Detection System with System Calls: Review and Future Trends. ACM Comput. Surv. 51, 5, Article 98 (September 2019), 36 pages. https://doi-org.lib-ezproxy.concordia.ca/10.1145/3214304
+
+9. Safa Otoum, Burak Kantarci, and Hussein Mouftah. 2021. A Comparative Study of AI-Based Intrusion Detection Techniques in Critical Infrastructures. ACM Trans. Internet Technol. 21, 4, Article 81 (November 2021), 22 pages. https://doi-org.lib-ezproxy.concordia.ca/10.1145/3406093
+
+10. Salam Khanji and Asad Khattak. 2021. Towards a Novel Intrusion Detection Architecture using Artificial Intelligence. In Proceedings of the 9th International Conference on Software and Information Engineering (ICSIE '20). Association for Computing Machinery, New York, NY, USA, 185–189. https://doi-org.lib-ezproxy.concordia.ca/10.1145/3436829.3436842
