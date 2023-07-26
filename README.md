@@ -66,11 +66,11 @@ Shivendra's Papers
 
 3. D. D. Priya, A. Kiran and P. Purushotham, "Lightweight Intrusion Detection System(L-IDS) for the Internet of Things," 2022 International Conference on Advancements in Smart, Secure and Intelligent Computing (ASSIC), Bhubaneswar, India, 2022, pp. 1-4, doi: 10.1109/ASSIC55218.2022.10088328.
 
-4. D. D. Priya, A. Kiran and P. Purushotham, "Lightweight Intrusion Detection System(L-IDS) for the Internet of Things," 2022 International Conference on Advancements in Smart, Secure and Intelligent Computing (ASSIC), Bhubaneswar, India, 2022, pp. 1-4, doi: 10.1109/ASSIC55218.2022.10088328.
+4. Bela Shah and Kinjal Dave. 2016. SIP Based Intrusion Detection System for VoIP based Applications. In Proceedings of the Second International Conference on Information and Communication Technology for Competitive Strategies (ICTCS '16). Association for Computing Machinery, New York, NY, USA, Article 28, 1–5. https://doi-org.lib-ezproxy.concordia.ca/10.1145/2905055.2905086
 
 5. Robert Bronte, Hossain Shahriar, and Hisham M. Haddad. 2016. A Signature-Based Intrusion Detection System for Web Applications based on Genetic Algorithm. In Proceedings of the 9th International Conference on Security of Information and Networks (SIN '16). Association for Computing Machinery, New York, NY, USA, 32–39. https://doi-org.lib-ezproxy.concordia.ca/10.1145/2947626.2951964
 
-6. Robert Bronte, Hossain Shahriar, and Hisham M. Haddad. 2016. A Signature-Based Intrusion Detection System for Web Applications based on Genetic Algorithm. In Proceedings of the 9th International Conference on Security of Information and Networks (SIN '16). Association for Computing Machinery, New York, NY, USA, 32–39. https://doi-org.lib-ezproxy.concordia.ca/10.1145/2947626.2951964
+6. Shengjie Li, Zhaopeng Liu, Yue Zhang, Xiaopeng Niu, Leye Wang, and Daqing Zhang. 2019. A real-time and robust intrusion detection system with commodity wi-fi. In Adjunct Proceedings of the 2019 ACM International Joint Conference on Pervasive and Ubiquitous Computing and Proceedings of the 2019 ACM International Symposium on Wearable Computers (UbiComp/ISWC '19 Adjunct). Association for Computing Machinery, New York, NY, USA, 316–319. https://doi-org.lib-ezproxy.concordia.ca/10.1145/3341162.3343789
 
 7. Robert Mitchell and Ing-Ray Chen. 2012. Specification based intrusion detection for unmanned aircraft systems. In Proceedings of the first ACM MobiHoc workshop on Airborne Networks and Communications (Airborne '12). Association for Computing Machinery, New York, NY, USA, 31–36. https://doi-org.lib-ezproxy.concordia.ca/10.1145/2248326.2248334
 
