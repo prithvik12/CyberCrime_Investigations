@@ -100,6 +100,8 @@ Gurpreet's Papers
 
 9. S. Bose, S. Bharathimurugan and A. Kannan, "Multi-Layer Integrated Anomaly Intrusion Detection System for Mobile Adhoc Networks," 2007 International Conference on Signal Processing, Communications and Networking, Chennai, India, 2007, pp. 360-365, doi: 10.1109/ICSCN.2007.350763.
 
+10. Xin-You Zhang, Cheng-Zhong Li and Qing-Gui Hu, "The network management design integrated with the intrusion detection system," Proceedings of 2004 International Conference on Machine Learning and Cybernetics (IEEE Cat. No.04EX826), Shanghai, China, 2004, pp. 257-262 vol.1, doi: 10.1109/ICMLC.2004.1380672.
+
 **. H. Mohamed, L. Adil, T. Saida and M. Hicham, "A collaborative intrusion detection and Prevention System in Cloud Computing," 2013 Africon, Pointe aux Piments, Mauritius, 2013, pp. 1-5, doi: 10.1109/AFRCON.2013.6757727.
 
 Arundhathi's Papers
