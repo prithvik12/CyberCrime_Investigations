@@ -102,4 +102,20 @@ Yaswanth's Papers
 
 5. R. Lalduhsaka, A. Khan and A. K. Roy, "Issues and Challenges in Building a Model for Intrusion Detection System," 2021 5th International Conference on Information Systems and Computer Networks (ISCON), Mathura, India, 2021, pp. 1-5, doi: 10.1109/ISCON52037.2021.9702322.
 
-6. Hubballi, Neminath & Suryanarayanan, Vinoth. (2014). False Alarm Minimization Techniques in Signature-Based Intrusion Detection Systems: A Survey. Computer Communications. 49. 10.1016/j.comcom.2014.04.012. 
+6. Hubballi, Neminath & Suryanarayanan, Vinoth. (2014). False Alarm Minimization Techniques in Signature-Based Intrusion Detection Systems: A Survey. Computer Communications. 49. 10.1016/j.comcom.2014.04.012.
+
+Chris' Papers
+
+1. Liao, H. J., Richard Lin, C. H., Lin, Y. C., & Tung, K. Y. (2013, January). Intrusion detection system: A comprehensive review. Journal of Network and Computer Applications, 36(1), 16–24. https://doi.org/10.1016/j.jnca.2012.09.004
+   
+2. Mohamed, A. B., Idris, N. B., & Shanmugum, B. (n.d.). A Brief Introduction to Intrusion Detection System. A Brief Introduction to Intrusion Detection System | SpringerLink. https://doi.org/10.1007/978-3-642-35197-6_29
+
+3. Thakare, S., Ingle, P., & Meshram, B. (2012). IDS : Intrusion Detection System the Survey of Information Security. International Journal of Emerging Technology and Advanced Engineering Website: Www.ijetae.com, 2(8), 2250–2459. https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=6f575bdb4ce1ccff7cd48a89639c4de2cb61ed5f
+
+‌4. J. R. Yost, "The March of IDES: Early History of Intrusion-Detection Expert Systems," in IEEE Annals of the History of Computing, vol. 38, no. 4, pp. 42-54, Oct.-Dec. 2016, doi: 10.1109/MAHC.2015.41.
+
+5. Uppal, H. A. M., Javed, M., & Arshad, M. (2014). An overview of intrusion detection system (IDS) along with its commonly used techniques and classifications. International Journal of Computer Science and Telecommunications, 5(2), 20-24.
+
+6. Ashoor, Asmaa Shaker, and Sharad Gore. "Importance of intrusion detection system (IDS)." International Journal of Scientific and Engineering Research 2, no. 1 (2011): 1-4.
+
+7. Pradhan, M., Nayak, C. K., & Pradhan, S. K. (2020). Intrusion detection system (IDS) and their types. In Securing the internet of things: Concepts, methodologies, tools, and applications (pp. 481-497). IGI Global.
