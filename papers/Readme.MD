@@ -57,7 +57,15 @@ IDS and Machine Learning.
 
 IDS STANDALONE.
 
+1. I. Mukhopadhyay, K. S. Gupta, D. Sen and P. Gupta, "Heuristic Intrusion Detection and Prevention System," 2015 International Conference and Workshop on Computing and Communication (IEMCON), Vancouver, BC, Canada, 2015, pp. 1-7, doi: 10.1109/IEMCON.2015.7344479.
 
+2. Jyothsna, V.V.R.P.V., Prasad, R. and Prasad, K.M., 2011. A review of anomaly based intrusion detection systems. International Journal of Computer Applications, 28(7), pp.26-35.
+
+3. Wang, Z. and Li, X., 2013. Intrusion prevention system design. In Proceedings of the International Conference on Information Engineering and Applications (IEA) 2012: Volume 3 (pp. 375-382). Springer London.
+
+4. R. Samrin and D. Vasumathi, "Review on anomaly based network intrusion detection system," 2017 International Conference on Electrical, Electronics, Communication, Computer, and Optimization Techniques (ICEECCOT), Mysuru, India, 2017, pp. 141-147, doi: 10.1109/ICEECCOT.2017.8284655.
+
+5. 
 
 IDS APPLICATION.
 1. Y. Dun and G. Liu, "A Fine-Resolution Frequency Estimator in the Odd-DFT Domain," in IEEE Signal Processing Letters, vol. 22, no. 12, pp. 2489-2493, Dec. 2015, doi: 10.1109/LSP.2015.2496276.
