@@ -65,7 +65,7 @@ IDS STANDALONE.
 
 4. R. Samrin and D. Vasumathi, "Review on anomaly based network intrusion detection system," 2017 International Conference on Electrical, Electronics, Communication, Computer, and Optimization Techniques (ICEECCOT), Mysuru, India, 2017, pp. 141-147, doi: 10.1109/ICEECCOT.2017.8284655.
 
-5. 
+5. R. Lalduhsaka, A. Khan and A. K. Roy, "Issues and Challenges in Building a Model for Intrusion Detection System," 2021 5th International Conference on Information Systems and Computer Networks (ISCON), Mathura, India, 2021, pp. 1-5, doi: 10.1109/ISCON52037.2021.9702322.
 
 IDS APPLICATION.
 1. Y. Dun and G. Liu, "A Fine-Resolution Frequency Estimator in the Odd-DFT Domain," in IEEE Signal Processing Letters, vol. 22, no. 12, pp. 2489-2493, Dec. 2015, doi: 10.1109/LSP.2015.2496276.
