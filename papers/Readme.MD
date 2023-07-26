@@ -92,4 +92,6 @@ IDS APPLICATION.
 
 4. Z. A. Haddad, M. Hanoune and A. Mamouni, "A collaborative framework for intrusion detection (C-NIDS) in Cloud computing," 2016 2nd International Conference on Cloud Computing Technologies and Applications (CloudTech), Marrakech, Morocco, 2016, pp. 261-265, doi: 10.1109/CloudTech.2016.7847708.
 
+5. Y. Mehmood, M. A. Shibli, U. Habiba and R. Masood, "Intrusion Detection System in Cloud Computing: Challenges and opportunities," 2013 2nd National Conference on Information Assurance (NCIA), Rawalpindi, Pakistan, 2013, pp. 59-66, doi: 10.1109/NCIA.2013.6725325.
+
 **. H. Mohamed, L. Adil, T. Saida and M. Hicham, "A collaborative intrusion detection and Prevention System in Cloud Computing," 2013 Africon, Pointe aux Piments, Mauritius, 2013, pp. 1-5, doi: 10.1109/AFRCON.2013.6757727.
