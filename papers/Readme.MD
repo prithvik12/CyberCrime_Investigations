@@ -67,6 +67,8 @@ IDS STANDALONE.
 
 5. R. Lalduhsaka, A. Khan and A. K. Roy, "Issues and Challenges in Building a Model for Intrusion Detection System," 2021 5th International Conference on Information Systems and Computer Networks (ISCON), Mathura, India, 2021, pp. 1-5, doi: 10.1109/ISCON52037.2021.9702322.
 
+6. Hubballi, Neminath & Suryanarayanan, Vinoth. (2014). False Alarm Minimization Techniques in Signature-Based Intrusion Detection Systems: A Survey. Computer Communications. 49. 10.1016/j.comcom.2014.04.012.
+
 IDS APPLICATION.
 1. Y. Dun and G. Liu, "A Fine-Resolution Frequency Estimator in the Odd-DFT Domain," in IEEE Signal Processing Letters, vol. 22, no. 12, pp. 2489-2493, Dec. 2015, doi: 10.1109/LSP.2015.2496276.
 
