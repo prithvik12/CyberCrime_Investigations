@@ -90,6 +90,30 @@ Gurpreet's Papers
 
 4) Z. A. Haddad, M. Hanoune and A. Mamouni, "A collaborative framework for intrusion detection (C-NIDS) in Cloud computing," 2016 2nd International Conference on Cloud Computing Technologies and Applications (CloudTech), Marrakech, Morocco, 2016, pp. 261-265, doi: 10.1109/CloudTech.2016.7847708.
 
+Arundhathi's Papers
+
+1) R. Zhao, Y. Mu, L. Zou and X. Wen, "A Hybrid Intrusion Detection System Based on Feature Selection and Weighted Stacking Classifier," in IEEE Access, vol. 10, pp. 71414-71426, 2022, doi: 10.1109/ACCESS.2022.3186975.
+
+2) Kumar, Amit, Harish Chandra Maurya, and Rahul Misra. "A research paper on hybrid intrusion detection system." International Journal of Engineering and Advanced Technology (IJEAT) Vol 2 (2013).
+
+3) Grimmer, Martin, et al. "A modern and sophisticated host based intrusion detection data set." IT-Sicherheit als Voraussetzung für eine erfolgreiche Digitalisierung 11 (2019): 135-145.
+
+4) Wasicek, Armin, et al. "Context-aware intrusion detection in automotive control systems." Proc. 5th ESCAR USA Conf. 2017.
+
+5) Hu, Yan, et al. "A survey of intrusion detection on industrial control systems." International Journal of Distributed Sensor Networks 14.8 (2018): 1550147718794615.
+
+6) Yang, Kai, et al. "iFinger: Intrusion detection in industrial control systems via register-based fingerprinting." IEEE Journal on Selected Areas in Communications 38.5 (2020): 955-967.
+
+7) Singh, Amrit Pal, and Manik Deep Singh. "Analysis of host-based and network-based intrusion detection system." International Journal of Computer Network and Information Security 6.8 (2014): 41-47.
+
+8) Gao, Wei, and Thomas H. Morris. "On cyber attacks and signature based intrusion detection for modbus based industrial control systems." Journal of Digital Forensics, Security and Law 9.1 (2014): 3.
+
+9) Zhu, Bonnie, and Shankar Sastry. "SCADA-specific intrusion detection/prevention systems: a survey and taxonomy." Proceedings of the 1st workshop on secure control systems (SCS). Vol. 11. 2010.
+
+10) Caselli, Marco, Emmanuele Zambon, and Frank Kargl. "Sequence-aware intrusion detection in industrial control systems." Proceedings of the 1st ACM Workshop on Cyber-Physical System Security. 2015.
+
+11) Agarwal, Nancy, and Syed Zeeshan Hussain. "A closer look at intrusion detection system for web applications." Security and Communication Networks 2018 (2018).
+
 Yaswanth's Papers
 
 1. I. Mukhopadhyay, K. S. Gupta, D. Sen and P. Gupta, "Heuristic Intrusion Detection and Prevention System," 2015 International Conference and Workshop on Computing and Communication (IEMCON), Vancouver, BC, Canada, 2015, pp. 1-7, doi: 10.1109/IEMCON.2015.7344479.
