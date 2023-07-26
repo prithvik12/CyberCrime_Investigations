@@ -70,10 +70,10 @@ IDS STANDALONE.
 6. Hubballi, Neminath & Suryanarayanan, Vinoth. (2014). False Alarm Minimization Techniques in Signature-Based Intrusion Detection Systems: A Survey. Computer Communications. 49. 10.1016/j.comcom.2014.04.012.
 
 IDS APPLICATION.
-1. Y. Dun and G. Liu, "A Fine-Resolution Frequency Estimator in the Odd-DFT Domain," in IEEE Signal Processing Letters, vol. 22, no. 12, pp. 2489-2493, Dec. 2015, doi: 10.1109/LSP.2015.2496276.
+1. Lata, S. and Singh, D. (2022) ‘Intrusion detection system in cloud environment: Literature survey &amp; future research directions’, International Journal of Information Management Data Insights, 2(2), p. 100134. doi:10.1016/j.jjimei.2022.100134. 
 
-2. Lata, S. and Singh, D. (2022) ‘Intrusion detection system in cloud environment: Literature survey &amp; future research directions’, International Journal of Information Management Data Insights, 2(2), p. 100134. doi:10.1016/j.jjimei.2022.100134. 
+2. H. Mohamed, L. Adil, T. Saida and M. Hicham, "A collaborative intrusion detection and Prevention System in Cloud Computing," 2013 Africon, Pointe aux Piments, Mauritius, 2013, pp. 1-5, doi: 10.1109/AFRCON.2013.6757727.
 
-3. H. Mohamed, L. Adil, T. Saida and M. Hicham, "A collaborative intrusion detection and Prevention System in Cloud Computing," 2013 Africon, Pointe aux Piments, Mauritius, 2013, pp. 1-5, doi: 10.1109/AFRCON.2013.6757727.
+3.S. Kumar, S. Gupta and S. Arora, "Research Trends in Network-Based Intrusion Detection Systems: A Review," in IEEE Access, vol. 9, pp. 157761-157779, 2021, doi: 10.1109/ACCESS.2021.3129775.
 
 4. Z. A. Haddad, M. Hanoune and A. Mamouni, "A collaborative framework for intrusion detection (C-NIDS) in Cloud computing," 2016 2nd International Conference on Cloud Computing Technologies and Applications (CloudTech), Marrakech, Morocco, 2016, pp. 261-265, doi: 10.1109/CloudTech.2016.7847708.
