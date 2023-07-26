@@ -82,13 +82,21 @@ Shivendra's Papers
 
 Gurpreet's Papers 
 
-1) Y. Dun and G. Liu, "A Fine-Resolution Frequency Estimator in the Odd-DFT Domain," in IEEE Signal Processing Letters, vol. 22, no. 12, pp. 2489-2493, Dec. 2015, doi: 10.1109/LSP.2015.2496276.
+   1. Lata, S. and Singh, D. (2022) ‘Intrusion detection system in cloud environment: Literature survey &amp; future research directions’, International Journal of Information Management Data Insights, 2(2), p. 100134. doi:10.1016/j.jjimei.2022.100134. 
 
-2) Lata, S. and Singh, D. (2022) ‘Intrusion detection system in cloud environment: Literature survey & future research directions’, International Journal of Information Management Data Insights, 2(2), p. 100134. doi:10.1016/j.jjimei.2022.100134.
+2. Jayakumar, Naveenkumar & Angral, Sheetal & Sharma, Rohan. (2014). Integrating Intrusion Detection System with Network monitoring. International Journal of Scientific and Research Publications,. 4. 1-4. 
 
-3) H. Mohamed, L. Adil, T. Saida and M. Hicham, "A collaborative intrusion detection and Prevention System in Cloud Computing," 2013 Africon, Pointe aux Piments, Mauritius, 2013, pp. 1-5, doi: 10.1109/AFRCON.2013.6757727.
+3.S. Kumar, S. Gupta and S. Arora, "Research Trends in Network-Based Intrusion Detection Systems: A Review," in IEEE Access, vol. 9, pp. 157761-157779, 2021, doi: 10.1109/ACCESS.2021.3129775.
 
-4) Z. A. Haddad, M. Hanoune and A. Mamouni, "A collaborative framework for intrusion detection (C-NIDS) in Cloud computing," 2016 2nd International Conference on Cloud Computing Technologies and Applications (CloudTech), Marrakech, Morocco, 2016, pp. 261-265, doi: 10.1109/CloudTech.2016.7847708.
+4. Z. A. Haddad, M. Hanoune and A. Mamouni, "A collaborative framework for intrusion detection (C-NIDS) in Cloud computing," 2016 2nd International Conference on Cloud Computing Technologies and Applications (CloudTech), Marrakech, Morocco, 2016, pp. 261-265, doi: 10.1109/CloudTech.2016.7847708.
+
+5. Y. Mehmood, M. A. Shibli, U. Habiba and R. Masood, "Intrusion Detection System in Cloud Computing: Challenges and opportunities," 2013 2nd National Conference on Information Assurance (NCIA), Rawalpindi, Pakistan, 2013, pp. 59-66, doi: 10.1109/NCIA.2013.6725325.
+
+6. C. N. Modi and D. Patel, "A novel hybrid-network intrusion detection system (H-NIDS) in cloud computing," 2013 IEEE Symposium on Computational Intelligence in Cyber Security (CICS), Singapore, 2013, pp. 23-30, doi: 10.1109/CICYBS.2013.6597201.
+   
+7. Xinzhou Qin, Wenke Lee, L. Lewis and J. B. D. Cabrera, "Integrating intrusion detection and network management," NOMS 2002. IEEE/IFIP Network Operations and Management Symposium. ' Management Solutions for the New Communications World'(Cat. No.02CH37327), Florence, Italy, 2002, pp. 329-344, doi: 10.1109/NOMS.2002.1015591.
+
+**. H. Mohamed, L. Adil, T. Saida and M. Hicham, "A collaborative intrusion detection and Prevention System in Cloud Computing," 2013 Africon, Pointe aux Piments, Mauritius, 2013, pp. 1-5, doi: 10.1109/AFRCON.2013.6757727.
 
 Arundhathi's Papers
 
