@@ -79,3 +79,13 @@ Shivendra's Papers
 9. Safa Otoum, Burak Kantarci, and Hussein Mouftah. 2021. A Comparative Study of AI-Based Intrusion Detection Techniques in Critical Infrastructures. ACM Trans. Internet Technol. 21, 4, Article 81 (November 2021), 22 pages. https://doi-org.lib-ezproxy.concordia.ca/10.1145/3406093
 
 10. Salam Khanji and Asad Khattak. 2021. Towards a Novel Intrusion Detection Architecture using Artificial Intelligence. In Proceedings of the 9th International Conference on Software and Information Engineering (ICSIE '20). Association for Computing Machinery, New York, NY, USA, 185–189. https://doi-org.lib-ezproxy.concordia.ca/10.1145/3436829.3436842
+
+Gurpreet's Papers 
+
+1) Y. Dun and G. Liu, "A Fine-Resolution Frequency Estimator in the Odd-DFT Domain," in IEEE Signal Processing Letters, vol. 22, no. 12, pp. 2489-2493, Dec. 2015, doi: 10.1109/LSP.2015.2496276.
+
+2) Lata, S. and Singh, D. (2022) ‘Intrusion detection system in cloud environment: Literature survey & future research directions’, International Journal of Information Management Data Insights, 2(2), p. 100134. doi:10.1016/j.jjimei.2022.100134.
+
+3) H. Mohamed, L. Adil, T. Saida and M. Hicham, "A collaborative intrusion detection and Prevention System in Cloud Computing," 2013 Africon, Pointe aux Piments, Mauritius, 2013, pp. 1-5, doi: 10.1109/AFRCON.2013.6757727.
+
+4) Z. A. Haddad, M. Hanoune and A. Mamouni, "A collaborative framework for intrusion detection (C-NIDS) in Cloud computing," 2016 2nd International Conference on Cloud Computing Technologies and Applications (CloudTech), Marrakech, Morocco, 2016, pp. 261-265, doi: 10.1109/CloudTech.2016.7847708.
