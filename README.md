@@ -157,3 +157,12 @@ Chris' Papers
 6. Ashoor, Asmaa Shaker, and Sharad Gore. "Importance of intrusion detection system (IDS)." International Journal of Scientific and Engineering Research 2, no. 1 (2011): 1-4.
 
 7. Pradhan, M., Nayak, C. K., & Pradhan, S. K. (2020). Intrusion detection system (IDS) and their types. In Securing the internet of things: Concepts, methodologies, tools, and applications (pp. 481-497). IGI Global.
+
+ADNAAN'S PAPERS
+
+1.  Li Xiangmei   Qin Zhi “The Application of Hybrid Neural Network Algorithms in Intrusion Detection System “978-1-4244-8694-6/11 ©2011 IEEE.
+2.  R. Patgiri, U. Varshney, T. Akutota and R. Kunde, "An Investigation on Intrusion Detection System Using Machine Learning," 2018 IEEE Symposium Series on Computational Intelligence (SSCI), Bangalore, India, 2018, pp. 1684-1691, doi: 10.1109/SSCI.2018.8628676.
+3.  U. S. K. Perera Miriya Thanthrige, J. Samarabandu and X. Wang, "Machine learning techniques for intrusion detection on public dataset," 2016 IEEE Canadian Conference on Electrical and Computer Engineering (CCECE), Vancouver, BC, Canada, 2016, pp. 1-4, doi: 10.1109/CCECE.2016.7726677.
+4.  K. Alrawashdeh and C. Purdy, "Toward an Online Anomaly Intrusion Detection System Based on Deep Learning," 2016 15th IEEE International Conference on Machine Learning and Applications (ICMLA), Anaheim, CA, USA, 2016, pp. 195-200, doi: 10.1109/ICMLA.2016.0040.
+5.  U. S. K. P. M. Thanthrige, J. Samarabandu and X. Wang, "Machine learning techniques for intrusion detection on public dataset", 2016 IEEE Canadian Conference on Electrical and Computer Engineering (CCECE), pp. 1-4, May 2016.
+6.  M. J. Fadaeieslam, B. Minaei-Bidgoli, M. Fathy and M. Soryani, "Comparison of two feature selection methods in intrusion detection systems", Computer and Information Technology 2007. CIT 2007. 7th IEEE International Conference on, pp. 83-86, 2007.
