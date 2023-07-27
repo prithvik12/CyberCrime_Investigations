@@ -60,6 +60,8 @@ IDS and Machine Learning.
 
 23. R. Vinayakumar, M. Alazab, K. P. Soman, P. Poornachandran, A. Al-Nemrat and S. Venkatraman, "Deep Learning Approach for Intelligent Intrusion Detection System," in IEEE Access, vol. 7, pp. 41525-41550, 2019, doi: 10.1109/ACCESS.2019.2895334.
 
+24. Y. Xin et al., "Machine Learning and Deep Learning Methods for Cybersecurity," in IEEE Access, vol. 6, pp. 35365-35381, 2018, doi: 10.1109/ACCESS.2018.2836950.
+
 IDS STANDALONE.
 
 1. I. Mukhopadhyay, K. S. Gupta, D. Sen and P. Gupta, "Heuristic Intrusion Detection and Prevention System," 2015 International Conference and Workshop on Computing and Communication (IEMCON), Vancouver, BC, Canada, 2015, pp. 1-7, doi: 10.1109/IEMCON.2015.7344479.
