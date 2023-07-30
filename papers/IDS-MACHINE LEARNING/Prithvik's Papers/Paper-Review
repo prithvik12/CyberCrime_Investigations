@@ -132,3 +132,42 @@ The performance evaluation of the intelligent IDS is carried out using real-worl
 The paper also discusses the practical implications of implementing intelligent intrusion detection systems based on ANNs in real-world network environments. The adaptive nature of ANNs enables them to continuously learn and adapt to new types of cyber threats, making them well-suited for dynamic and rapidly evolving network infrastructures.
 
 In conclusion, the paper introduces the concept of Intelligent Intrusion Detection Systems using Artificial Neural Networks. By leveraging the capabilities of ANNs, the proposed approach offers a powerful and efficient solution for network security. The research highlights the significance of ANNs in enhancing the accuracy and adaptability of intrusion detection systems. Furthermore, it emphasizes the potential of ANNs in advancing the field of network security and protecting against sophisticated cyber threats. The findings provide valuable insights for researchers and practitioners seeking to implement intelligent IDS solutions in their network environments. Overall, the paper contributes to the advancement of artificial intelligence-driven network security and showcases the potential of ANNs in fortifying network infrastructures against modern cyber-attacks.
+
+*** Network intrusion detection system: A systematic study of machine learning and deep learning approaches ***
+
+Summary:-
+
+The paper presents a comprehensive and systematic study of Network Intrusion Detection Systems (IDS) that utilize both Machine Learning and Deep Learning approaches. The primary objective of the research is to explore and analyze various machine learning and deep learning techniques employed in intrusion detection to enhance network security.
+
+The paper begins by providing an overview of the challenges posed by network intrusions and the importance of developing effective IDS solutions to safeguard network infrastructures. The authors emphasize the need for advanced and adaptive approaches to detect and prevent evolving cyber threats.
+
+The systematic study covers a wide range of machine learning algorithms, such as Decision Trees, Random Forests, Support Vector Machines (SVM), k-Nearest Neighbors (k-NN), Naive Bayes, and more. Additionally, it delves into the application of deep learning models, including Neural Networks, Convolutional Neural Networks (CNN), Recurrent Neural Networks (RNN), and Long Short-Term Memory (LSTM) networks.
+
+For each approach, the authors analyze the underlying principles, advantages, and limitations, providing valuable insights into the suitability of each technique for intrusion detection tasks.
+
+The paper explores the process of training and evaluating these machine learning and deep learning models using diverse datasets comprising normal and malicious network activities. The authors conduct a rigorous performance analysis, assessing key metrics such as accuracy, precision, recall, F1-score, and computational efficiency to gauge the effectiveness of the IDS solutions.
+
+The results demonstrate that both machine learning and deep learning approaches exhibit promising performance in detecting network intrusions. The research highlights the significance of the ensemble methods that combine multiple algorithms to achieve superior detection accuracy and robustness.
+
+The practical implications of the systematic study are discussed, emphasizing the importance of selecting appropriate machine learning or deep learning techniques based on the specific characteristics and requirements of the network environment. The adaptive nature of deep learning models allows them to continually learn and adapt to new and emerging cyber threats, making them particularly suitable for dynamic network infrastructures.
+
+In conclusion, the paper contributes to the advancement of Network Intrusion Detection Systems through a comprehensive and systematic study of machine learning and deep learning approaches. The comparative analysis of various algorithms provides valuable guidance for researchers and practitioners seeking to implement effective IDS solutions. The research underscores the significance of adopting advanced and adaptive techniques to strengthen network security and protect against modern cyber threats. Overall, the findings highlight the potential of machine learning and deep learning in advancing the field of intrusion detection and fostering proactive network defence mechanisms.
+
+*** Intrusion_Detection_System_Based_on_Improved_SVM_Incremental_Learning ***
+
+Summary:-
+
+The paper introduces an Intrusion Detection System (IDS) that utilizes an improved Support Vector Machine (SVM) incremental learning approach to enhance network security. The primary objective of the research is to develop a more efficient and adaptive IDS that can continuously learn from incoming data and promptly detect network intrusions in real time.
+
+The improved SVM incremental learning method aims to overcome the limitations of traditional SVM algorithms when dealing with large and dynamic datasets. The authors propose enhancements to the SVM model, enabling it to update its knowledge incrementally as new data streams in, without requiring a complete retraining process.
+
+The paper outlines the methodology used to implement the IDS, starting with the training of the improved SVM model on historical network traffic data, containing both normal and intrusive behavior. The incremental learning process is then applied to continuously update the model as new data arrives, ensuring its adaptability to changing network patterns and emerging cyber threats.
+
+The performance evaluation of the IDS is conducted using real-world network datasets. The authors analyze key metrics, including accuracy, precision, recall, F1-score, and computational efficiency, to assess the effectiveness of the improved SVM incremental learning approach in detecting and preventing network intrusions.
+
+The results demonstrate that the proposed IDS achieves high accuracy and real-time intrusion detection capabilities, making it a practical and robust solution for dynamic network environments. The efficiency of the incremental learning approach significantly reduces the computational overhead, enabling the system to process large volumes of data efficiently.
+
+The paper also discusses the practical implications of implementing the improved SVM incremental learning-based IDS in real-world network infrastructures. The system's adaptability allows it to continuously learn from new data, making it well-suited for scenarios where network traffic patterns change frequently, such as in cloud-based or IoT (Internet of Things) environments.
+
+In conclusion, the paper introduces an innovative Intrusion Detection System based on an improved SVM incremental learning approach. The research showcases the significance of incremental learning in creating more adaptive and efficient IDS solutions. The findings highlight the potential of the proposed approach in enhancing network security, ensuring timely detection and mitigation of network intrusions. The paper's contributions offer valuable insights for researchers and practitioners seeking to implement dynamic and adaptive IDS solutions in their network environments. Overall, the improved SVM incremental learning-based IDS represents a promising advancement in intrusion detection technology, paving the way for more proactive and robust network defence mechanisms.
+
