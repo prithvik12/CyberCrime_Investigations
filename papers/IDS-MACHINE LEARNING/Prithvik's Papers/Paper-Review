@@ -79,3 +79,19 @@ The paper also discusses the practical implications of employing machine learnin
 
 In conclusion, the paper emphasizes the significance of machine learning in augmenting the performance of anomaly-based network intrusion detection in big data environments. The research showcases the potential of various machine learning techniques to efficiently process and analyze vast amounts of network data, leading to improved accuracy and real-time detection of anomalies. The findings highlight the relevance of machine learning in enhancing network security and fostering a proactive approach to mitigating cyber threats. The integration of machine learning with anomaly-based intrusion detection opens new possibilities for future research and practical applications in the field of network security and big data analytics.
 
+*** A_Review_on_Intrusion_Detection_System_using_Machine_Learning_Techniques ***
+
+Summary:-
+
+The paper provides an in-depth review of Intrusion Detection Systems (IDS) that employ Machine Learning Techniques for enhancing network security. The main objective of the review is to assess the effectiveness and advancements of various machine learning approaches in the field of intrusion detection. The authors systematically analyze and compare a wide range of machine learning techniques utilized in IDS, focusing on their strengths, weaknesses, and applicability in different network environments.
+
+The review covers prominent machine learning algorithms such as Decision Trees, Random Forests, Support Vector Machines (SVM), Naive Bayes, k-Nearest Neighbors (k-NN), Neural Networks, and Deep Learning models. For each technique, the authors delve into their underlying principles and how they are utilized for intrusion detection. Additionally, the paper examines how feature selection and extraction methods are applied to optimize the performance of these machine learning-based IDS.
+
+The review incorporates a comprehensive analysis of the experimental studies and evaluations conducted on various datasets. By comparing the performance metrics, such as accuracy, precision, recall, F1-score, and detection rate, the authors aim to identify the most suitable machine-learning approaches for different types of network intrusions.
+
+The findings of the review indicate that machine learning-based IDS have exhibited significant advancements in accurately detecting network intrusions compared to traditional rule-based approaches. The ability of machine learning models to learn intricate patterns in network data and adapt to dynamic cyber threats makes them a preferred choice in modern network security.
+
+Moreover, the review highlights the importance of continuous research and development in the field of intrusion detection using machine learning. The authors identify areas for improvement, such as model interpretability, handling class imbalance, and dealing with noisy data, to further enhance the performance and reliability of IDS.
+
+In conclusion, the paper presents a comprehensive review of Intrusion Detection Systems employing Machine Learning Techniques. The analysis of various machine learning algorithms and their performance on different datasets offers valuable insights into the strengths and limitations of each approach. The review serves as a valuable resource for researchers and practitioners seeking to implement effective intrusion detection solutions and lays the groundwork for future advancements in machine learning-based IDS. Overall, the paper underscores the significance of machine learning in bolstering network security and its potential to proactively protect against evolving cyber threats.
+
