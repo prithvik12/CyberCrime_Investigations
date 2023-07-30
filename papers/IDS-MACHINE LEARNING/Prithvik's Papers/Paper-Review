@@ -95,3 +95,24 @@ Moreover, the review highlights the importance of continuous research and develo
 
 In conclusion, the paper presents a comprehensive review of Intrusion Detection Systems employing Machine Learning Techniques. The analysis of various machine learning algorithms and their performance on different datasets offers valuable insights into the strengths and limitations of each approach. The review serves as a valuable resource for researchers and practitioners seeking to implement effective intrusion detection solutions and lays the groundwork for future advancements in machine learning-based IDS. Overall, the paper underscores the significance of machine learning in bolstering network security and its potential to proactively protect against evolving cyber threats.
 
+
+*** Intrusion_Detection_and_Prevention_in_Networks_Using_Machine_Learning_and_Deep_Learning_Approaches_A_Review. ***
+
+Summary:-
+
+The paper presents a comprehensive review of Intrusion Detection and Prevention in networks through the utilization of Machine Learning and Deep Learning approaches. The main objective of the review is to evaluate the effectiveness and advancements of these techniques in enhancing network security and mitigating potential cyber threats. The authors systematically analyze a wide range of studies and research works that have employed machine learning and deep learning models for intrusion detection and prevention.
+
+The review encompasses an overview of various machine learning algorithms, such as Decision Trees, Random Forests, Support Vector Machines (SVM), k-Nearest Neighbors (k-NN), and Naive Bayes, as well as deep learning models, including Neural Networks and Deep Neural Networks. For each approach, the authors examine their respective strengths, limitations, and practical implications in real-world network environments.
+
+In addition to assessing the performance of individual algorithms, the paper investigates the effectiveness of ensemble methods and feature engineering techniques that further enhance the accuracy and efficiency of intrusion detection and prevention systems.
+
+The review evaluates the studies based on their experimental evaluations using diverse datasets, encompassing both normal and malicious network activities. The authors compare the performance metrics, such as accuracy, precision, recall, F1-score, and false positive rates, to identify the most suitable approaches for different types of network intrusions.
+
+The findings of the review demonstrate the significant progress made in the field of intrusion detection and prevention through the application of machine learning and deep learning approaches. These advanced techniques have showcased superior capabilities in accurately identifying and thwarting various cyber threats compared to traditional rule-based methods.
+
+Furthermore, the review emphasizes the potential of combining multiple machine learning and deep learning models to create robust ensemble-based intrusion detection systems. The ability of these systems to adapt to evolving threats and detect anomalies in real time strengthens network security and minimizes potential damages from cyber-attacks.
+
+In conclusion, the paper offers an extensive review of Intrusion Detection and Prevention in networks using Machine Learning and Deep Learning approaches. The analysis of various algorithms and their performance on diverse datasets provides valuable insights into the effectiveness of each technique. The review serves as a valuable resource for researchers and practitioners seeking to implement state-of-the-art intrusion detection and prevention systems. The paper also highlights the significance of continued research and development in this domain, paving the way for innovative solutions to safeguard network infrastructures against evolving cyber threats.
+
+
+*** Intelligent Intrusion Detection Systems Using Artificial Neural Networks ***
