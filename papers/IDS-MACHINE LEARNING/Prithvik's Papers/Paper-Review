@@ -47,3 +47,19 @@ The paper also discusses the practical implications of implementing the DNN-base
 
 In conclusion, the paper introduces a state-of-the-art Intrusion Detection System that harnesses the power of Deep Neural Networks to effectively detect and prevent network intrusions. The utilization of DNNs allows the system to learn complex patterns in network traffic data, resulting in enhanced accuracy and efficiency in identifying anomalies. The findings from the performance evaluation underscore the significance of the proposed approach in bolstering network security. The paper's contributions offer valuable insights into the application of Deep Neural Networks in the field of intrusion detection, opening new avenues for advanced research and practical deployment of IDS solutions.
 
+*** An Efficient Intrusion Detection Based on Decision Tree Classifier Using Feature Reduction ***
+
+Summary:-
+
+The paper presents an efficient Intrusion Detection System (IDS) that utilizes a Decision Tree Classifier with feature reduction techniques to enhance the accuracy and efficiency of intrusion detection. The main objective of the research is to develop a robust and effective IDS that can promptly identify and prevent network intrusions, thereby enhancing overall network security.
+
+The proposed IDS leverages the Decision Tree Classifier, a popular machine-learning algorithm known for its interpretability and simplicity. To improve the performance and reduce computation overhead, the authors employ feature reduction techniques. Feature reduction involves selecting the most relevant attributes from the dataset while eliminating redundant or irrelevant ones. This process helps to enhance the efficiency of the decision tree and optimize the intrusion detection process.
+
+The research evaluates the performance of the IDS using a comprehensive dataset containing various network traffic samples, including normal and intrusive behaviour. The authors conduct a thorough performance analysis, measuring key metrics such as accuracy, precision, recall, and F1-score, to assess the effectiveness of the proposed system.
+
+The results demonstrate that the Decision Tree-based IDS, with feature reduction, achieves high accuracy in detecting and classifying network intrusions. The combination of the decision tree classifier and feature reduction techniques not only enhances the detection accuracy but also significantly reduces computational resources, making it a practical and efficient solution for real-time intrusion detection.
+
+The paper concludes by discussing the practical implications of the proposed IDS in real-world network environments. The efficient and accurate nature of the system makes it well-suited for deployment in various network infrastructures, where timely detection of intrusions is critical to prevent potential data breaches and cyber-attacks.
+
+In conclusion, the paper introduces an effective Intrusion Detection System based on a Decision Tree Classifier with feature reduction techniques. The system showcases high accuracy in detecting network intrusions while optimizing computational resources. The research contributes to the field of intrusion detection by providing a practical and efficient solution that can be deployed in real-world scenarios. The findings highlight the significance of feature reduction in improving the performance of IDS, paving the way for further research and advancements in network security.
+
