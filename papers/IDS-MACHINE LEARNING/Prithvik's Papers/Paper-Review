@@ -1,0 +1,49 @@
+*** MLIDS: A Machine Learning Approach for Intrusion Detection for Real-Time Network Dataset ***
+
+Summary:-
+
+The paper titled "MLIDS: A Machine Learning Approach for Intrusion Detection for Real-Time Network Dataset" by M. D. Rokade and Y. K. Sharma, presented at the 2021 International Conference on Emerging Smart Computing and Informatics (ESCI) in Pune, India, introduces a novel Intrusion Detection System (IDS) that leverages machine learning techniques for real-time network intrusion detection. The authors emphasize the importance of timely detection and prevention of network intrusions to safeguard against evolving cyber threats. They curate an extensive real-time network dataset containing diverse network traffic data, including normal and malicious behaviour, to train and evaluate the proposed MLIDS models.
+
+The study explores various machine learning algorithms, such as Decision Trees, Random Forests, Support Vector Machines, Neural Networks, and Gradient Boosting, among others, to assess their effectiveness in intrusion detection. The authors meticulously conduct feature selection to identify the most relevant attributes that significantly impact the system's accuracy.
+The performance evaluation of MLIDS is thorough, involving comprehensive metrics such as accuracy, precision, recall, and F1-score. The results demonstrate the system's ability to achieve high accuracy and reliability in real-time intrusion detection, showcasing its potential to proactively detect and mitigate various types of network intrusions.
+
+The paper highlights the practical implications of implementing MLIDS in real-world network environments. The proposed system has the capability to address the immediate nature of cyber threats, responding promptly to potential intrusions and minimizing the risk of data breaches and damages.
+
+In conclusion, the paper successfully introduces MLIDS as an effective and efficient real-time Intrusion Detection System using machine learning. It provides valuable insights into the system's performance by utilizing a well-curated real-time network dataset and employing a range of machine-learning algorithms. The proposed approach demonstrates significant potential in enhancing network security and protecting against dynamic cyber threats. The findings contribute to the field of intrusion detection, offering valuable guidance for future research and practical applications in network security.
+
+
+*** Modified Naive Bayes Intrusion Detection System (MNBIDS) ***
+
+Summary:-
+
+The paper titled "Modified Naive Bayes Intrusion Detection System (MNBIDS)" by Karuna S. Bhosale, Maria Nenova, and Georgi Iliev, presented at the 2018 International Conference on Computational Techniques Electronics and Mechanical Systems (CTEMS), introduces a novel Intrusion Detection System (IDS) called MNBIDS, which is based on a modified version of the Naive Bayes algorithm. The authors focus on enhancing the accuracy and efficiency of intrusion detection in computer networks.
+
+The paper begins by discussing the limitations of traditional Naive Bayes algorithms in handling network intrusion detection. To address these limitations, the authors propose modifications to the algorithm, incorporating additional features and refining the attribute selection process.
+
+MNBIDS is evaluated using a real-world dataset containing diverse network traffic data, both normal and intrusive. The authors present a comprehensive performance analysis of the system, including accuracy, precision, recall, and F1-score metrics, to assess its effectiveness.
+
+The findings reveal that MNBIDS achieves promising results in terms of accuracy and efficiency, outperforming the traditional Naive Bayes algorithm and showcasing its potential as an effective intrusion detection solution.
+
+The paper also discusses the practical implications of MNBIDS implementation in real-world network environments. It highlights the system's capability to detect and prevent various types of network intrusions promptly, contributing to improved network security and minimized data breaches.
+
+In conclusion, the paper introduces MNBIDS, a Modified Naive Bayes-based Intrusion Detection System, designed to enhance the accuracy and efficiency of intrusion detection in computer networks. By incorporating modifications to the traditional Naive Bayes algorithm and evaluating its performance on a real-world dataset, the authors demonstrate the system's potential to effectively detect network intrusions. The proposed approach offers valuable insights into the field of intrusion detection and may pave the way for future research and practical applications in network security.
+
+
+*** Intrusion Detection System Based on Network Traffic Using Deep Neural Networks ***
+
+Summary:-
+
+The paper titled "Intrusion Detection System Based on Network Traffic Using Deep Neural Networks" by Dimitra Chamou and colleagues, presented at the 2019 IEEE 24th International Workshop on Computer Aided Modeling and Design of Communication Links and Networks (CAMAD), introduces a cutting-edge Intrusion Detection System (IDS) that utilizes Deep Neural Networks (DNNs) for detecting and preventing network intrusions.
+
+The main focus of the paper is to address the challenges posed by complex and evolving cyber threats by leveraging the capabilities of DNNs in processing and analyzing large-scale network traffic data effectively.
+
+The authors describe the architecture of the proposed IDS, which involves multiple layers of DNNs that can automatically learn intricate patterns and features from the network traffic data. The system is designed to detect anomalous activities and classify them as potential intrusions.
+
+To evaluate the performance of the IDS, the authors use a comprehensive dataset consisting of diverse network traffic samples, encompassing both normal and malicious behaviour. The paper presents a rigorous performance analysis, utilizing standard metrics such as accuracy, precision, recall, and F1-score, to showcase the effectiveness of the system in identifying and preventing network intrusions.
+
+The results demonstrate that the DNN-based IDS achieves high accuracy and reliability in detecting various types of intrusions, making it a robust and promising solution for real-time network security.
+
+The paper also discusses the practical implications of implementing the DNN-based IDS in real-world network environments. It highlights the system's ability to adapt to emerging cyber threats and its potential to enhance network security by swiftly detecting and mitigating intrusions.
+
+In conclusion, the paper introduces a state-of-the-art Intrusion Detection System that harnesses the power of Deep Neural Networks to effectively detect and prevent network intrusions. The utilization of DNNs allows the system to learn complex patterns in network traffic data, resulting in enhanced accuracy and efficiency in identifying anomalies. The findings from the performance evaluation underscore the significance of the proposed approach in bolstering network security. The paper's contributions offer valuable insights into the application of Deep Neural Networks in the field of intrusion detection, opening new avenues for advanced research and practical deployment of IDS solutions.
+
