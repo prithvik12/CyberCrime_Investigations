@@ -1,3 +1,4 @@
+1.
 Title: Hierarchical Federated Learning for Collaborative IDS in IoT Applications
 
 Authors: H. Saadat, A. Aboumadi, A. Mohamed, A. Erbad, M. Guizani
@@ -36,4 +37,41 @@ However, the paper could benefit from additional discussions regarding the poten
 
 In conclusion, "Hierarchical Federated Learning for Collaborative IDS in IoT Applications" offers a valuable contribution to the realm of IoT security. By combining the strengths of hierarchical organization and federated learning, the proposed method offers a promising approach to fortify IoT networks against emerging threats while respecting the privacy of individual devices. The research paves the way for further exploration in the domain of collaborative machine learning for secure IoT deployments.
 
+2.
+Title: OWADIS: Rapid Discovery of OWASP10 Vulnerability based on Hybrid IDS
 
+Authors: L. Wirz, A. Ketphet, N. Chiewnawintawat, R. Tanthanathewin, S. Fugkeaw
+
+Conference: 2023 15th International Conference on Knowledge and Smart Technology (KST), Phuket, Thailand
+
+Published Year: 2023
+
+DOI: 10.1109/KST57286.2023.10086878
+
+Summary:
+
+The research paper titled "OWADIS: Rapid Discovery of OWASP10 Vulnerability based on Hybrid IDS" presents a novel approach to quickly identify vulnerabilities listed in the OWASP Top 10, which are the ten most critical web application security risks. The proposed method employs a Hybrid Intrusion Detection System (IDS) that combines both signature-based and anomaly-based detection techniques, enhancing the system's ability to detect and mitigate potential threats effectively.
+
+The key features of the paper are as follows:
+
+OWASP Top 10 Vulnerabilities: The paper focuses on addressing the OWASP Top 10 vulnerabilities, which include commonly exploited weaknesses in web applications. These vulnerabilities range from injection attacks, such as SQL injection and Cross-Site Scripting (XSS), to authentication and authorization flaws and sensitive data exposure issues.
+
+Hybrid Intrusion Detection System: The authors introduce a Hybrid IDS, which synergistically combines signature-based and anomaly-based detection methods. Signature-based detection involves the use of predefined patterns or signatures to identify known threats, while anomaly-based detection identifies deviations from normal behavior. By integrating both techniques, the proposed system improves the accuracy and efficiency of vulnerability detection.
+
+Rapid Vulnerability Discovery: The primary goal of the proposed system is to expedite the discovery of vulnerabilities, enabling prompt mitigation before potential attacks occur. The use of a hybrid approach allows for quicker identification of known patterns (signature-based) and the detection of novel or zero-day threats (anomaly-based) that may not be covered by existing signatures.
+
+Experimental Evaluation: To assess the effectiveness of OWADIS, the authors conducted experiments using real-world web application data and a diverse set of OWASP Top 10 vulnerabilities. The evaluation compared the performance of the Hybrid IDS with standalone signature-based and anomaly-based systems, demonstrating its superior ability to detect and classify vulnerabilities accurately.
+
+Analysis:
+
+The paper addresses a crucial aspect of web application security by focusing on the OWASP Top 10 vulnerabilities, which are known to be prevalent and pose significant risks to applications and users. By targeting these specific vulnerabilities, the proposed system aims to provide practical and effective solutions to enhance overall web application security.
+
+The use of a Hybrid IDS is a notable strength of the research. Integrating signature-based and anomaly-based detection techniques allows the system to leverage the advantages of both approaches. Signature-based detection is effective in identifying known vulnerabilities and established attack patterns, while anomaly-based detection can detect emerging or previously unknown threats, providing a proactive defense mechanism.
+
+The emphasis on rapid vulnerability discovery is highly valuable in the context of web application security. With the increasing frequency and sophistication of cyber-attacks, quick identification and mitigation of vulnerabilities are critical to preventing potential data breaches and service disruptions.
+
+The experimental evaluation is an essential aspect of the paper, as it provides empirical evidence to support the effectiveness of the proposed OWADIS system. By using real-world web application data, the authors demonstrate the system's ability to accurately detect and classify OWASP Top 10 vulnerabilities. The comparison with standalone detection systems underscores the superiority of the Hybrid IDS approach.
+
+However, the paper could be further improved by providing more details on the implementation of the Hybrid IDS and discussing potential challenges or limitations faced during the experiments. Additionally, offering insights into how the proposed method compares to other state-of-the-art vulnerability detection techniques would strengthen the paper's contribution to the field.
+
+In conclusion, "OWADIS: Rapid Discovery of OWASP10 Vulnerability based on Hybrid IDS" presents a valuable contribution to web application security. By combining signature-based and anomaly-based detection methods, the proposed Hybrid IDS offers an efficient and effective solution for identifying critical vulnerabilities quickly. The paper's practical approach and experimental evaluation make it a relevant and promising addition to the field of web application security research.
