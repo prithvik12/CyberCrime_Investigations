@@ -352,3 +352,42 @@ The use of multiple evaluation metrics allows for a comprehensive assessment of 
 However, the paper could be further improved by providing more specific details about the datasets and scenarios used in the comparative study. Additionally, discussing the challenges and limitations of AI-based intrusion detection in the context of critical infrastructures would strengthen the paper's contribution to the field.
 
 In conclusion, "A Comparative Study of AI-Based Intrusion Detection Techniques in Critical Infrastructures" offers a significant contribution to the domain of intrusion detection and cybersecurity. The focus on AI-based approaches and the comprehensive comparative study provide valuable insights for researchers and practitioners seeking effective solutions to safeguard critical infrastructures against security threats. The paper serves as a valuable resource for understanding the benefits and challenges of utilizing AI techniques in intrusion detection for critical infrastructures.
+
+10.
+Title: Towards a Novel Intrusion Detection Architecture using Artificial Intelligence
+
+Authors: Salam Khanji and Asad Khattak
+
+Conference: Proceedings of the 9th International Conference on Software and Information Engineering (ICSIE '20)
+
+Published Year: 2021
+
+DOI: https://doi-org.lib-ezproxy.concordia.ca/10.1145/3436829.3436842
+
+Summary:
+
+The research paper titled "Towards a Novel Intrusion Detection Architecture using Artificial Intelligence" introduces a novel architecture for Intrusion Detection Systems (IDS) that leverages Artificial Intelligence (AI) techniques. The paper aims to enhance the efficiency and accuracy of intrusion detection by proposing an innovative IDS architecture that employs AI algorithms for identifying and mitigating security threats in computer networks and systems.
+
+Key Features of the Paper:
+
+Novel Intrusion Detection Architecture: The paper presents a new IDS architecture designed to address the limitations of traditional intrusion detection approaches. By incorporating AI techniques, the proposed architecture seeks to improve the system's ability to detect sophisticated and evolving security threats.
+
+Utilization of Artificial Intelligence: The paper emphasizes the importance of AI algorithms in intrusion detection. AI techniques, such as machine learning and deep learning, enable the IDS to analyze network traffic and system behavior, facilitating the detection of anomalous activities and potential intrusions.
+
+Improved Efficiency and Accuracy: The proposed IDS architecture aims to enhance the efficiency and accuracy of intrusion detection. By leveraging AI algorithms, the system can learn from historical data and adapt to new threats, leading to improved detection capabilities and reduced false positives.
+
+Practical Implementation: While the paper focuses on the conceptual framework of the novel IDS architecture, it also discusses the potential practical implementation of the proposed approach. This suggests the authors' intent to bring their novel idea to real-world deployment.
+
+Analysis:
+
+The paper addresses a significant concern in cybersecurity by proposing a novel Intrusion Detection Architecture using Artificial Intelligence. The focus on leveraging AI techniques to improve intrusion detection is highly relevant, as AI algorithms have demonstrated exceptional capabilities in handling complex and evolving security threats.
+
+The emphasis on a new IDS architecture indicates the authors' innovative approach to addressing the limitations of conventional intrusion detection systems. By designing a system that incorporates AI algorithms, the proposed architecture aims to overcome traditional IDS challenges and enhance the overall security posture of computer networks and systems.
+
+The utilization of AI algorithms, such as machine learning and deep learning, is a key strength of the research. AI techniques provide the IDS with the ability to analyze vast amounts of data, recognize patterns, and detect anomalies, making it a powerful tool for identifying both known and unknown security threats.
+
+While the paper primarily presents a conceptual framework, the mention of potential practical implementation indicates the authors' intent to translate their research into real-world applications. This practical approach is commendable, as it shows the authors' consideration of the feasibility and applicability of their proposed IDS architecture.
+
+However, the paper could be further improved by providing more detailed insights into the specific AI algorithms and techniques proposed for intrusion detection within the novel architecture. Additionally, discussing potential challenges and limitations in implementing the AI-based IDS would strengthen the paper's contribution to the field.
+
+In conclusion, "Towards a Novel Intrusion Detection Architecture using Artificial Intelligence" offers a significant contribution to the domain of intrusion detection and cybersecurity. The novel IDS architecture, incorporating AI techniques, presents an innovative approach to enhancing intrusion detection efficiency and accuracy. The paper's potential for practical implementation demonstrates the authors' intention to make a tangible impact in the field. The research serves as a valuable resource for researchers and practitioners seeking to leverage AI for robust intrusion detection solutions.
