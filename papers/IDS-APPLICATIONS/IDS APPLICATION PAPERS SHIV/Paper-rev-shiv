@@ -311,3 +311,44 @@ The exploration of future trends and challenges provides valuable guidance for r
 However, the paper could be further improved by providing more specific examples and case studies of successful system call-based intrusion detection in real-world scenarios. Additionally, discussing potential limitations and obstacles faced by HIDS with system call analysis would strengthen the paper's contribution to the field.
 
 In conclusion, "Host-Based Intrusion Detection System with System Calls: Review and Future Trends" offers a significant contribution to the field of intrusion detection and cybersecurity. The in-depth review of HIDS techniques and methodologies, with a focus on system call analysis, provides a comprehensive overview of current research efforts. The exploration of future trends and challenges underscores the importance of continuous research and innovation in developing effective intrusion detection systems. The paper serves as a valuable resource for researchers and practitioners in the domain of host-based intrusion detection.
+
+9.
+Title: A Comparative Study of AI-Based Intrusion Detection Techniques in Critical Infrastructures
+
+Authors: Safa Otoum, Burak Kantarci, and Hussein Mouftah
+
+Journal: ACM Transactions on Internet Technology
+
+Volume: 21, Issue 4
+
+Published Year: November 2021
+
+DOI: https://doi-org.lib-ezproxy.concordia.ca/10.1145/3406093
+
+Summary:
+
+The research paper titled "A Comparative Study of AI-Based Intrusion Detection Techniques in Critical Infrastructures" presents a comprehensive comparison of various Artificial Intelligence (AI)-based intrusion detection techniques employed in critical infrastructures. The paper conducts an in-depth evaluation and analysis of different AI approaches, such as machine learning and deep learning, applied in the context of intrusion detection for safeguarding critical infrastructures against security threats.
+
+Key Features of the Paper:
+
+Focus on Critical Infrastructures: The paper centers on the security concerns associated with critical infrastructures, which include essential systems and networks vital for the functioning of modern societies, such as power grids, transportation networks, and communication systems.
+
+AI-Based Intrusion Detection Techniques: The paper investigates a range of AI-based intrusion detection techniques, with a focus on machine learning and deep learning methods. These AI approaches are increasingly adopted to enhance the accuracy and efficiency of intrusion detection systems.
+
+Comparative Study: The authors conduct a comparative study to evaluate the performance and effectiveness of different AI techniques in detecting and mitigating security threats in critical infrastructures. The study involves benchmarking the approaches against various performance metrics.
+
+Evaluation Metrics: The paper employs multiple evaluation metrics, such as detection accuracy, false-positive rate, and resource consumption, to assess the performance of the AI-based intrusion detection techniques. These metrics provide a comprehensive understanding of each technique's strengths and limitations.
+
+Analysis:
+
+The paper addresses a crucial aspect of cybersecurity by focusing on intrusion detection in critical infrastructures. The focus on safeguarding essential systems and networks is highly relevant, as any security breach in critical infrastructures can have severe consequences on public safety and the economy.
+
+The exploration of AI-based intrusion detection techniques is a key strength of the research. AI approaches offer advanced capabilities for detecting sophisticated and evolving threats, making them increasingly important in enhancing intrusion detection systems' efficacy.
+
+The comparative study of different AI techniques is valuable for understanding their respective strengths and weaknesses in the context of intrusion detection. By benchmarking the techniques against various performance metrics, the paper provides insights into the trade-offs between accuracy and resource consumption for each method.
+
+The use of multiple evaluation metrics allows for a comprehensive assessment of the AI-based intrusion detection techniques. Considering detection accuracy, false-positive rate, and resource consumption helps in identifying the most suitable approach based on specific deployment scenarios and requirements.
+
+However, the paper could be further improved by providing more specific details about the datasets and scenarios used in the comparative study. Additionally, discussing the challenges and limitations of AI-based intrusion detection in the context of critical infrastructures would strengthen the paper's contribution to the field.
+
+In conclusion, "A Comparative Study of AI-Based Intrusion Detection Techniques in Critical Infrastructures" offers a significant contribution to the domain of intrusion detection and cybersecurity. The focus on AI-based approaches and the comprehensive comparative study provide valuable insights for researchers and practitioners seeking effective solutions to safeguard critical infrastructures against security threats. The paper serves as a valuable resource for understanding the benefits and challenges of utilizing AI techniques in intrusion detection for critical infrastructures.
