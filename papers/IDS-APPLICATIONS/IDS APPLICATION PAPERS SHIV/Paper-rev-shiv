@@ -153,3 +153,42 @@ The experimental validation provides valuable empirical evidence supporting the 
 However, the paper could be further improved by providing more detailed insights into the implementation of the SIP-based IDS and discussing the system's scalability and performance in handling large-scale VoIP networks. Additionally, exploring the system's ability to handle emerging or novel VoIP-specific threats would strengthen the paper's contribution to the field.
 
 In conclusion, "SIP Based Intrusion Detection System for VoIP based Applications" offers a significant contribution to VoIP security by introducing a tailored approach to intrusion detection in VoIP environments. The SIP-based IDS, with its real-time detection capabilities and focus on VoIP-specific threats, provides a promising solution for safeguarding VoIP-based applications. The experimental validation further confirms the paper's findings, reinforcing its relevance and potential impact in the domain of VoIP security research.
+
+5.
+Title: A Signature-Based Intrusion Detection System for Web Applications based on Genetic Algorithm
+
+Authors: Robert Bronte, Hossain Shahriar, Hisham M. Haddad
+
+Conference: 9th International Conference on Security of Information and Networks (SIN '16)
+
+Published Year: 2016
+
+DOI: https://doi-org.lib-ezproxy.concordia.ca/10.1145/2947626.2951964
+
+Summary:
+
+The research paper titled "A Signature-Based Intrusion Detection System for Web Applications based on Genetic Algorithm" proposes a novel approach to enhance the security of web applications by introducing a Signature-Based Intrusion Detection System (IDS) powered by Genetic Algorithms (GA). The primary goal of the proposed system is to detect and prevent potential intrusion attempts and security breaches in web applications by dynamically generating and updating signatures using GA, which enables the detection of novel and evolving threats.
+
+Key Features of the Paper:
+
+Signature-Based Intrusion Detection: The paper emphasizes the use of signature-based detection techniques for identifying known attack patterns and vulnerabilities in web applications. Signatures are essentially patterns of malicious behavior or characteristics that indicate potential intrusions.
+
+Genetic Algorithm for Signature Generation: The proposed IDS utilizes Genetic Algorithms (GA) to generate and evolve signatures dynamically. GA is a search and optimization technique inspired by the process of natural selection, allowing the system to adapt and update its signatures based on the evolving nature of web application threats.
+
+Web Application-Specific Threat Detection: The IDS is specifically designed to address security challenges unique to web applications. It focuses on detecting threats such as SQL injection, Cross-Site Scripting (XSS), and other common web application attacks that can compromise data integrity and user privacy.
+
+Evaluation and Performance Analysis: The authors conducted evaluations and performance analyses to assess the effectiveness of the Signature-Based IDS using real-world web application datasets. The evaluation includes measuring the system's detection accuracy, false-positive rate, and the ability to adapt to new threats through GA signature updates.
+
+Analysis:
+
+The paper addresses a critical concern in web application security by proposing a Signature-Based Intrusion Detection System powered by Genetic Algorithms. The use of signature-based detection allows the system to identify known attack patterns efficiently, while the application of GA enhances the system's adaptability and ability to detect new and evolving threats.
+
+The genetic algorithm's role in dynamically generating and updating signatures is a key strength of the research. By continuously evolving the signatures, the IDS can keep up with emerging threats, ensuring a proactive approach to web application security.
+
+The focus on web application-specific threat detection recognizes the unique security challenges faced by web applications. Common attacks like SQL injection and XSS pose significant risks to sensitive data and user privacy. The proposed system's ability to detect and prevent these specific threats contributes to the overall robustness of web application security.
+
+The evaluation and performance analysis provide valuable empirical evidence supporting the effectiveness of the Signature-Based IDS. The use of real-world web application datasets enhances the credibility of the results, demonstrating the system's accuracy in detecting intrusions and its capability to adapt to new threats through GA-driven signature updates.
+
+However, the paper could be further improved by providing more comprehensive details about the implementation of the Signature-Based IDS and discussing potential challenges or limitations faced during the experiments. Additionally, comparing the proposed system's performance with other state-of-the-art intrusion detection techniques would strengthen the paper's contribution to the field.
+
+In conclusion, "A Signature-Based Intrusion Detection System for Web Applications based on Genetic Algorithm" offers a significant contribution to web application security. The combination of signature-based detection with the adaptability of Genetic Algorithms provides a promising solution for detecting and preventing security breaches in web applications. The experimental validation further reinforces the paper's findings, confirming its relevance and potential impact in the domain of web application security research.
