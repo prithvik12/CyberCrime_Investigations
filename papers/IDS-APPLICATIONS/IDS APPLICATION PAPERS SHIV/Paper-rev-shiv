@@ -192,3 +192,42 @@ The evaluation and performance analysis provide valuable empirical evidence supp
 However, the paper could be further improved by providing more comprehensive details about the implementation of the Signature-Based IDS and discussing potential challenges or limitations faced during the experiments. Additionally, comparing the proposed system's performance with other state-of-the-art intrusion detection techniques would strengthen the paper's contribution to the field.
 
 In conclusion, "A Signature-Based Intrusion Detection System for Web Applications based on Genetic Algorithm" offers a significant contribution to web application security. The combination of signature-based detection with the adaptability of Genetic Algorithms provides a promising solution for detecting and preventing security breaches in web applications. The experimental validation further reinforces the paper's findings, confirming its relevance and potential impact in the domain of web application security research.
+
+6.
+Title: A Real-time and Robust Intrusion Detection System with Commodity Wi-Fi
+
+Authors: Shengjie Li, Zhaopeng Liu, Yue Zhang, Xiaopeng Niu, Leye Wang, Daqing Zhang
+
+Conference: Adjunct Proceedings of the 2019 ACM International Joint Conference on Pervasive and Ubiquitous Computing and Proceedings of the 2019 ACM International Symposium on Wearable Computers (UbiComp/ISWC '19 Adjunct)
+
+Published Year: 2019
+
+DOI: https://doi-org.lib-ezproxy.concordia.ca/10.1145/3341162.3343789
+
+Summary:
+
+The research paper titled "A Real-time and Robust Intrusion Detection System with Commodity Wi-Fi" presents a novel approach to enhance the security of pervasive and ubiquitous computing environments by introducing a real-time and robust Intrusion Detection System (IDS) utilizing commodity Wi-Fi devices. The proposed system aims to detect unauthorized and malicious activities in such environments, ensuring the privacy and integrity of user data and communications.
+
+Key Features of the Paper:
+
+Real-time Intrusion Detection: The paper emphasizes the importance of real-time detection to promptly identify and respond to potential security threats in pervasive and ubiquitous computing environments. The proposed IDS aims to provide immediate alerts upon detecting suspicious activities, allowing for timely mitigation.
+
+Utilization of Commodity Wi-Fi Devices: The IDS leverages commodity Wi-Fi devices, which are readily available and commonly used in everyday environments. This approach makes the system cost-effective and easy to deploy, as it does not require specialized or expensive hardware.
+
+Robustness in Diverse Environments: The IDS is designed to be robust and effective across various environments, accommodating different settings and scenarios commonly encountered in pervasive and ubiquitous computing. This adaptability ensures that the system can be applied in a wide range of real-world situations.
+
+Experimental Validation: The authors conducted experiments to evaluate the performance of the real-time and robust IDS in different scenarios using commodity Wi-Fi devices. The evaluation includes measuring the system's detection accuracy, false-positive rate, and response time. The experimental results demonstrate the effectiveness and reliability of the proposed approach.
+
+Analysis:
+
+The paper addresses a significant concern in pervasive and ubiquitous computing by proposing a real-time and robust Intrusion Detection System with commodity Wi-Fi devices. The emphasis on real-time detection is crucial, as timely responses are essential to prevent security breaches and unauthorized access in dynamic and rapidly changing environments.
+
+The utilization of commodity Wi-Fi devices is a key strength of the research, as it provides a practical and cost-effective solution for intrusion detection in everyday environments. This approach makes the proposed system easily deployable, making it accessible to a wider range of users and scenarios.
+
+The robustness of the IDS in diverse environments is commendable, as pervasive and ubiquitous computing environments can be highly dynamic and heterogeneous. The ability of the system to adapt to different settings ensures its applicability in various real-world situations, enhancing its practicality and effectiveness.
+
+The experimental validation provides valuable empirical evidence supporting the effectiveness and reliability of the proposed IDS. The use of commodity Wi-Fi devices and real-world scenarios in the evaluation enhances the credibility of the results, demonstrating the system's ability to accurately detect intrusions and minimize false-positive alerts.
+
+However, the paper could be further improved by providing more detailed insights into the technical aspects of the real-time and robust IDS, including the specific techniques and algorithms used in intrusion detection. Additionally, discussing potential limitations and challenges faced during the experiments would strengthen the paper's contribution to the field.
+
+In conclusion, "A Real-time and Robust Intrusion Detection System with Commodity Wi-Fi" offers a significant contribution to the realm of pervasive and ubiquitous computing security. The real-time detection capabilities, utilization of commodity Wi-Fi devices, and adaptability to diverse environments make the proposed IDS a promising solution for enhancing security in such environments. The experimental validation further validates the paper's findings, reinforcing its relevance and potential impact in the domain of pervasive and ubiquitous computing research.
