@@ -75,3 +75,42 @@ The experimental evaluation is an essential aspect of the paper, as it provides 
 However, the paper could be further improved by providing more details on the implementation of the Hybrid IDS and discussing potential challenges or limitations faced during the experiments. Additionally, offering insights into how the proposed method compares to other state-of-the-art vulnerability detection techniques would strengthen the paper's contribution to the field.
 
 In conclusion, "OWADIS: Rapid Discovery of OWASP10 Vulnerability based on Hybrid IDS" presents a valuable contribution to web application security. By combining signature-based and anomaly-based detection methods, the proposed Hybrid IDS offers an efficient and effective solution for identifying critical vulnerabilities quickly. The paper's practical approach and experimental evaluation make it a relevant and promising addition to the field of web application security research.
+
+3.
+Title: Lightweight Intrusion Detection System (L-IDS) for the Internet of Things
+
+Authors: D. D. Priya, A. Kiran, P. Purushotham
+
+Conference: 2022 International Conference on Advancements in Smart, Secure, and Intelligent Computing (ASSIC), Bhubaneswar, India
+
+Published Year: 2022
+
+DOI: 10.1109/ASSIC55218.2022.10088328
+
+Summary:
+
+The research paper titled "Lightweight Intrusion Detection System (L-IDS) for the Internet of Things" introduces a novel approach to enhance the security of Internet of Things (IoT) devices by proposing a lightweight Intrusion Detection System (IDS). The primary goal of the L-IDS is to detect and mitigate potential threats and attacks within resource-constrained IoT environments, where traditional IDS solutions may be unsuitable due to their computational and memory requirements.
+
+Key Features of the Paper:
+
+Lightweight Design: The paper emphasizes the lightweight nature of the proposed Intrusion Detection System, making it well-suited for IoT devices with limited processing power, memory, and energy resources. By optimizing the algorithm and reducing computational overhead, the L-IDS aims to minimize the impact on the performance of IoT devices while ensuring effective security monitoring.
+
+IoT-Specific Threat Detection: The L-IDS is specifically designed to address security challenges unique to IoT environments. It focuses on detecting intrusion attempts and malicious activities that may compromise the confidentiality, integrity, or availability of IoT devices and data. The system employs specialized techniques to identify patterns and anomalies associated with IoT-specific threats.
+
+Resource Efficiency: One of the key strengths of the L-IDS is its resource efficiency. By leveraging lightweight algorithms and techniques, the system efficiently utilizes the limited resources available on IoT devices. This ensures continuous monitoring and timely response to security incidents without significantly affecting the IoT device's normal operation.
+
+Experimental Validation: The authors conducted experiments to evaluate the performance of the L-IDS using real-world IoT datasets. The evaluation includes measuring the detection accuracy, false-positive rate, and resource consumption of the system. The experimental results demonstrate the effectiveness of the proposed approach in detecting intrusions while maintaining low resource utilization.
+
+Analysis:
+
+The paper addresses a critical concern in the realm of IoT security by proposing a Lightweight Intrusion Detection System tailored to the unique constraints of IoT devices. The focus on resource-constrained environments is highly relevant, as many IoT devices, such as sensors and actuators, have limited computational capabilities and power supply.
+
+The L-IDS's lightweight design is a key highlight of the research, as it offers a practical solution for deploying intrusion detection capabilities on IoT devices without negatively impacting their performance. The optimization of algorithms and resource utilization makes the proposed system an efficient and viable security solution for IoT applications.
+
+By tailoring the IDS to IoT-specific threats, the paper recognizes the distinctive security challenges faced by IoT ecosystems. These threats often differ from those encountered in traditional IT networks, making a specialized approach essential for effective intrusion detection and protection.
+
+The experimental validation is a valuable aspect of the paper, as it provides empirical evidence supporting the L-IDS's performance and resource efficiency. The use of real-world IoT datasets enhances the credibility of the results, demonstrating the system's ability to accurately detect intrusions while maintaining low resource consumption.
+
+However, the paper could be further improved by providing more comprehensive details about the proposed L-IDS's architecture and implementation. Additional information on the types of IoT-specific threats addressed and the techniques used for intrusion detection would enhance the readers' understanding of the system's capabilities.
+
+In conclusion, "Lightweight Intrusion Detection System (L-IDS) for the Internet of Things" offers a significant contribution to IoT security by introducing an efficient and tailored approach to intrusion detection in resource-constrained environments. The lightweight design and IoT-specific threat detection make the proposed L-IDS a practical and promising solution for safeguarding IoT devices and networks. The experimental validation further validates the paper's findings, supporting its relevance and potential impact in the domain of IoT security research.
