@@ -114,3 +114,42 @@ The experimental validation is a valuable aspect of the paper, as it provides em
 However, the paper could be further improved by providing more comprehensive details about the proposed L-IDS's architecture and implementation. Additional information on the types of IoT-specific threats addressed and the techniques used for intrusion detection would enhance the readers' understanding of the system's capabilities.
 
 In conclusion, "Lightweight Intrusion Detection System (L-IDS) for the Internet of Things" offers a significant contribution to IoT security by introducing an efficient and tailored approach to intrusion detection in resource-constrained environments. The lightweight design and IoT-specific threat detection make the proposed L-IDS a practical and promising solution for safeguarding IoT devices and networks. The experimental validation further validates the paper's findings, supporting its relevance and potential impact in the domain of IoT security research.
+
+4.
+Title: SIP Based Intrusion Detection System for VoIP based Applications
+
+Authors: Bela Shah and Kinjal Dave
+
+Conference: Second International Conference on Information and Communication Technology for Competitive Strategies (ICTCS '16)
+
+Published Year: 2016
+
+DOI: https://doi-org.lib-ezproxy.concordia.ca/10.1145/2905055.2905086
+
+Summary:
+
+The research paper titled "SIP Based Intrusion Detection System for VoIP based Applications" presents a novel approach to enhance the security of Voice over Internet Protocol (VoIP) based applications by introducing a Session Initiation Protocol (SIP) based Intrusion Detection System (IDS). The primary goal of the proposed IDS is to detect and prevent potential intrusion attempts and security threats in VoIP communications, safeguarding the confidentiality and integrity of voice data.
+
+Key Features of the Paper:
+
+SIP-based Intrusion Detection: The paper focuses on leveraging the Session Initiation Protocol (SIP) for detecting and mitigating intrusions in VoIP applications. SIP is a widely used signaling protocol for initiating, modifying, and terminating VoIP sessions, making it a suitable basis for developing an intrusion detection system tailored to VoIP environments.
+
+VoIP-specific Threat Detection: The IDS is designed to address security challenges unique to VoIP systems. It focuses on identifying and mitigating threats such as call eavesdropping, call spoofing, denial-of-service attacks, and other potential intrusions that may compromise the VoIP network and communication channels.
+
+Real-time Detection: A key strength of the proposed IDS is its ability to perform real-time intrusion detection. The system continuously monitors SIP traffic and voice data, allowing it to promptly detect and respond to any suspicious activities or anomalies, ensuring timely and effective threat mitigation.
+
+Experimental Validation: The authors conducted experiments to evaluate the performance of the SIP-based IDS using real-world VoIP traffic data. The evaluation includes measuring the system's detection accuracy, false-positive rate, and response time. The experimental results demonstrate the effectiveness of the proposed approach in detecting intrusions and securing VoIP-based applications.
+
+Analysis:
+
+The paper addresses a crucial aspect of VoIP security by proposing a SIP-based Intrusion Detection System tailored to the unique requirements of VoIP applications. The focus on leveraging SIP as the basis for intrusion detection is relevant, as it aligns with the core protocol used in VoIP communications.
+
+The VoIP-specific threat detection aspect of the research recognizes the specialized security challenges faced by VoIP systems. These threats differ from those encountered in traditional data networks, making it essential to develop an IDS that is specifically designed to detect and counteract VoIP-specific attacks.
+
+The emphasis on real-time detection is commendable, as it ensures the timely identification of potential intrusions and immediate response to security threats. Real-time detection is crucial for VoIP applications, where rapid action is required to prevent service disruptions or unauthorized access to sensitive voice data.
+
+The experimental validation provides valuable empirical evidence supporting the effectiveness of the SIP-based IDS. The use of real-world VoIP traffic data enhances the credibility of the results, demonstrating the system's ability to accurately detect intrusions while maintaining a low false-positive rate.
+
+However, the paper could be further improved by providing more detailed insights into the implementation of the SIP-based IDS and discussing the system's scalability and performance in handling large-scale VoIP networks. Additionally, exploring the system's ability to handle emerging or novel VoIP-specific threats would strengthen the paper's contribution to the field.
+
+In conclusion, "SIP Based Intrusion Detection System for VoIP based Applications" offers a significant contribution to VoIP security by introducing a tailored approach to intrusion detection in VoIP environments. The SIP-based IDS, with its real-time detection capabilities and focus on VoIP-specific threats, provides a promising solution for safeguarding VoIP-based applications. The experimental validation further confirms the paper's findings, reinforcing its relevance and potential impact in the domain of VoIP security research.
