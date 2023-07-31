@@ -271,3 +271,43 @@ However, the paper could be further improved by providing more detailed insights
 
 In conclusion, "Specification-based Intrusion Detection for Unmanned Aircraft Systems" offers a significant contribution to UAS security by introducing a formal and rigorous approach to intrusion detection. The specification-based IDS, tailored to the unique requirements of UAS, provides a promising solution for ensuring the integrity and safety of unmanned aerial operations. The experimental validation further reinforces the paper's findings, confirming its relevance and potential impact in the domain of UAS security research.
 
+8.
+Title: Host-Based Intrusion Detection System with System Calls: Review and Future Trends
+
+Authors: Ming Liu, Zhi Xue, Xianghua Xu, Changmin Zhong, and Jinjun Chen
+
+Journal: ACM Computing Surveys
+
+Volume: 51, Issue 5
+
+Published Year: September 2019
+
+DOI: https://doi-org.lib-ezproxy.concordia.ca/10.1145/3214304
+
+Summary:
+
+The research paper titled "Host-Based Intrusion Detection System with System Calls: Review and Future Trends" provides an extensive review of host-based intrusion detection systems (HIDS) that utilize system call analysis as a key method for detecting potential security threats and attacks. The paper presents an in-depth analysis of various techniques, methodologies, and tools used in HIDS with a focus on system call-based approaches. Additionally, the paper explores future trends and challenges in this area of research.
+
+Key Features of the Paper:
+
+Host-Based Intrusion Detection Systems: The paper focuses on host-based intrusion detection systems that are specifically designed to monitor and protect individual hosts or endpoints. HIDS analyze system activities and events locally on the host to detect any suspicious or malicious behavior.
+
+System Call Analysis: The paper highlights the significance of system call analysis as a key technique in HIDS. System calls are essential for interactions between user-level applications and the operating system. Analyzing system calls helps detect anomalous behaviors and potential intrusion attempts.
+
+Comprehensive Review: The paper provides a comprehensive review of various existing HIDS techniques, methodologies, and tools that utilize system call analysis. It discusses both signature-based and anomaly-based approaches, outlining their strengths and weaknesses in detecting intrusions.
+
+Future Trends and Challenges: The authors explore future trends and challenges in the domain of HIDS with system call analysis. They discuss potential research directions, advancements in machine learning and artificial intelligence for intrusion detection, and ways to enhance the accuracy and efficiency of HIDS.
+
+Analysis:
+
+The paper addresses a critical aspect of cybersecurity by focusing on host-based intrusion detection systems that utilize system call analysis. The focus on HIDS is relevant, as these systems play a vital role in protecting individual hosts and endpoints from security threats.
+
+The emphasis on system call analysis as a primary technique in HIDS is a key strength of the research. Analyzing system calls allows for fine-grained monitoring of application behavior and interactions with the operating system, making it a powerful method for detecting abnormal activities.
+
+The comprehensive review of existing HIDS techniques and tools offers valuable insights into the current state of research in this area. The discussion of both signature-based and anomaly-based approaches provides a well-rounded understanding of different detection methods and their applicability.
+
+The exploration of future trends and challenges provides valuable guidance for researchers and practitioners. Identifying potential research directions and advancements in machine learning for intrusion detection emphasizes the importance of continual innovation to keep pace with evolving cyber threats.
+
+However, the paper could be further improved by providing more specific examples and case studies of successful system call-based intrusion detection in real-world scenarios. Additionally, discussing potential limitations and obstacles faced by HIDS with system call analysis would strengthen the paper's contribution to the field.
+
+In conclusion, "Host-Based Intrusion Detection System with System Calls: Review and Future Trends" offers a significant contribution to the field of intrusion detection and cybersecurity. The in-depth review of HIDS techniques and methodologies, with a focus on system call analysis, provides a comprehensive overview of current research efforts. The exploration of future trends and challenges underscores the importance of continuous research and innovation in developing effective intrusion detection systems. The paper serves as a valuable resource for researchers and practitioners in the domain of host-based intrusion detection.
