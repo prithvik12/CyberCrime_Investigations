@@ -1,1 +1,19 @@
+Title: Intrusion Detection System in Cloud Environment: Literature Survey & Future Research Directions
+Authors: Lata, S. and Singh, D.
+Journal: International Journal of Information Management Data Insights
+Volume: 2
+Issue: 2
+Page: 100134
+Publication Year: 2022
+DOI: 10.1016/j.jjimei.2022.100134
 
+Summary:
+The paper titled "Intrusion Detection System in Cloud Environment: Literature Survey & Future Research Directions" presents a comprehensive survey of existing research on Intrusion Detection Systems (IDS) specifically focusing on cloud computing environments. The study aims to explore the current state of intrusion detection approaches and identify potential areas for future research in the context of cloud-based systems.
+
+The authors start by discussing the significance of IDS in cloud environments, considering the unique security challenges and threats posed by the cloud's distributed and virtualized nature. They highlight the importance of safeguarding cloud resources and data against unauthorized access and malicious activities.
+
+The literature survey presents an overview of various IDS techniques and methodologies employed in the cloud context, including signature-based detection, anomaly-based detection, machine learning-based approaches, and hybrid methods. The authors examine the strengths and limitations of each technique, shedding light on their effectiveness and applicability in cloud environments.
+
+Furthermore, the paper identifies the key research gaps and challenges in the existing approaches for intrusion detection in the cloud. These gaps serve as the basis for proposing future research directions. The authors suggest exploring advanced machine learning algorithms, incorporating big data analytics, and leveraging artificial intelligence to enhance the accuracy and efficiency of IDS in cloud settings.
+
+In conclusion, the paper provides a valuable resource for researchers and practitioners working in the field of cloud security and intrusion detection. By consolidating and analyzing the existing literature, the authors offer insights into the current state of the art and encourage further exploration to address the evolving security concerns in cloud environments.
