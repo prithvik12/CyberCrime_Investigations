@@ -132,3 +132,101 @@ Furthermore, the authors describe the implementation and evaluation of the H-NID
 
 In conclusion, the paper presents a novel Hybrid-Network Intrusion Detection System (H-NIDS) that effectively addresses the challenges posed by Cloud computing environments. By combining multiple detection methods, the H-NIDS offers a more comprehensive and adaptive security solution, enhancing the protection of cloud-based systems against emerging cyber threats.
 
+
+Title: Integrating Intrusion Detection and Network Management
+Authors: Qin, Xinzhou, Lee, Wenke, Lewis L., and Cabrera, J. B. D.
+Conference: NOMS 2002. IEEE/IFIP Network Operations and Management Symposium. 'Management Solutions for the New Communications World'
+Location: Florence, Italy
+Publication Year: 2002
+Pages: 329-344
+DOI: 10.1109/NOMS.2002.1015591
+
+Summary:
+The paper titled "Integrating Intrusion Detection and Network Management" explores the integration of Intrusion Detection Systems (IDS) with Network Management Systems (NMS) to enhance the overall security and manageability of computer networks. The study aims to demonstrate the benefits of combining these two functionalities to create a more comprehensive approach for maintaining network security and efficiency.
+
+The authors highlight the increasing importance of both intrusion detection and network management in today's complex and interconnected networks. While intrusion detection focuses on identifying and responding to security threats and attacks, network management is responsible for maintaining the network's performance, configuration, and resource allocation.
+
+The paper proposes integrating IDS and NMS to create a collaborative system that shares information and collaborates in detecting and mitigating network anomalies and intrusions. By combining these functionalities, the integrated system can provide real-time insights into both security-related events and network performance, resulting in a more efficient and proactive approach to network management.
+
+One key advantage of this integration is the ability to correlate security events with network performance data. For example, abnormal network traffic patterns may indicate a potential security breach or Distributed Denial of Service (DDoS) attack. By linking IDS alerts with NMS data, network administrators can promptly detect and respond to security incidents and take necessary actions to maintain network integrity.
+
+Moreover, the paper discusses the challenges and considerations involved in integrating IDS and NMS effectively. These challenges include data volume, alert correlation, false positives, and ensuring that security and management functions do not interfere with each other.
+
+The authors also present a framework for the integrated system and demonstrate its effectiveness through experimental evaluations. The results show that the collaborative approach of IDS and NMS can improve network security while efficiently managing network resources.
+
+In conclusion, the paper highlights the importance of integrating intrusion detection and network management to create a more robust and proactive approach to network security and performance. The proposed framework serves as a valuable contribution to the field of network operations and management, offering insights into the potential benefits of this collaborative approach.
+
+Title: Machine Learning-Based Intrusion Detection System for Software Defined Networks
+Authors: Abubakar, A., and Pranggono, B.
+Conference: 2017 Seventh International Conference on Emerging Security Technologies (EST)
+Location: Canterbury, UK
+Publication Year: 2017
+Pages: 138-143
+DOI: 10.1109/EST.2017.8090413
+
+Summary:
+The paper titled "Machine Learning-Based Intrusion Detection System for Software Defined Networks" introduces a novel approach to intrusion detection in Software Defined Networks (SDNs) using machine learning techniques. The study aims to enhance the security of SDNs by developing an intelligent system that can effectively detect and respond to various types of network intrusions.
+
+The authors emphasize the growing popularity of SDNs, which offer centralized control and programmability for network management. However, the dynamic nature of SDNs and their reliance on software-based controllers create new security challenges that traditional intrusion detection methods may not adequately address.
+
+To address these challenges, the paper proposes a machine learning-based Intrusion Detection System (IDS) specifically designed for SDNs. Machine learning algorithms can adapt to changing network conditions and learn from historical data to improve the accuracy of intrusion detection.
+
+The machine learning-based IDS leverages features extracted from network traffic and controller data to classify network activities as normal or anomalous. By training the machine learning model on labeled datasets, the system can identify patterns associated with different types of network intrusions.
+
+One significant advantage of using machine learning in this context is its ability to detect novel and previously unknown attacks based on learned patterns, offering a proactive defense mechanism against emerging threats.
+
+The paper discusses the implementation and evaluation of the machine learning-based IDS for SDNs, considering factors such as detection accuracy, false positive rates, and computational efficiency. Experimental results demonstrate the effectiveness of the proposed approach in accurately detecting intrusions and minimizing false alarms.
+
+In conclusion, the paper presents a machine learning-based Intrusion Detection System tailored for Software Defined Networks. By leveraging machine learning techniques, the system provides a more adaptive and intelligent defense against network intrusions, making it suitable for the dynamic and programmable nature of SDNs.
+
+Title: Multi-Layer Integrated Anomaly Intrusion Detection System for Mobile Adhoc Networks
+Authors: Bose, S., Bharathimurugan, S., and Kannan, A.
+Conference: 2007 International Conference on Signal Processing, Communications, and Networking
+Location: Chennai, India
+Publication Year: 2007
+Pages: 360-365
+DOI: 10.1109/ICSCN.2007.350763
+
+Summary:
+The paper titled "Multi-Layer Integrated Anomaly Intrusion Detection System for Mobile Adhoc Networks" introduces a comprehensive Intrusion Detection System (IDS) designed specifically for Mobile Adhoc Networks (MANETs). The study presents an integrated approach that leverages multiple layers of defense to detect and mitigate anomalous activities and potential security threats in MANETs.
+
+The authors emphasize the unique characteristics of MANETs, where nodes communicate in a decentralized manner, without relying on a fixed infrastructure. The dynamic and self-configuring nature of MANETs poses significant challenges for intrusion detection, necessitating innovative and adaptable security mechanisms.
+
+The proposed Multi-Layer Integrated Anomaly Intrusion Detection System (MLI-AIDS) incorporates several layers of defense to enhance the detection and prevention of intrusions in MANETs. Each layer is specialized to address specific aspects of network security.
+
+The first layer involves anomaly detection at the node level. Nodes monitor their own behavior and the activities of their neighboring nodes to detect deviations from normal behavior. Anomaly detection techniques, such as statistical analysis and machine learning algorithms, are used to identify suspicious patterns.
+
+The second layer focuses on anomaly detection at the group or cluster level. MANET nodes organize themselves into clusters, and the second layer examines interactions between clusters to identify anomalous group behaviors.
+
+The third layer involves traffic analysis and anomaly detection at the network level. This layer analyzes the overall traffic patterns and communication behavior of the entire MANET to detect global anomalies or coordinated attacks.
+
+The integrated approach ensures that the MLI-AIDS can effectively detect various types of intrusion attempts, including insider attacks, external intrusions, and collaborative attacks.
+
+The paper discusses the implementation and evaluation of the MLI-AIDS using simulation experiments. The results demonstrate the effectiveness of the proposed approach in improving the security of MANETs by accurately detecting intrusions while minimizing false positives.
+
+In conclusion, the paper presents a Multi-Layer Integrated Anomaly Intrusion Detection System (MLI-AIDS) tailored for Mobile Adhoc Networks. The proposed system offers a comprehensive and adaptable defense against potential security threats, making it suitable for the dynamic and self-configuring nature of MANETs.
+
+Title: The Network Management Design Integrated with the Intrusion Detection System
+Authors: Zhang, Xin-You, Li, Cheng-Zhong, and Hu, Qing-Gui
+Conference: Proceedings of 2004 International Conference on Machine Learning and Cybernetics (IEEE Cat. No.04EX826)
+Location: Shanghai, China
+Publication Year: 2004
+Pages: 257-262 vol.1
+DOI: 10.1109/ICMLC.2004.1380672
+
+Summary:
+The paper titled "The Network Management Design Integrated with the Intrusion Detection System" presents a comprehensive design that combines Network Management System (NMS) and Intrusion Detection System (IDS) functionalities. The study aims to create an integrated system that leverages the strengths of both components to enhance network security, manageability, and performance.
+
+The authors emphasize the critical role of network management in ensuring the reliable and efficient operation of modern computer networks. At the same time, the growing frequency and sophistication of network attacks necessitate effective intrusion detection mechanisms to safeguard network assets.
+
+The proposed integrated design involves integrating the functionalities of NMS and IDS to create a collaborative system. The NMS component is responsible for monitoring and managing network performance, configuration, and resource allocation. On the other hand, the IDS component focuses on detecting and responding to potential security threats and intrusions.
+
+By combining these two functionalities, the integrated system can provide a comprehensive view of the network's health and security posture. The NMS can collect data from various network devices and provide real-time insights into network performance and resource utilization.
+
+Meanwhile, the IDS component continuously analyzes network traffic and data to detect anomalies and potential intrusion attempts. When suspicious activities are identified, the integrated system can trigger appropriate responses, such as generating alerts, blocking malicious traffic, or taking other security measures.
+
+The paper discusses the benefits of this integrated approach, including improved incident response times and the ability to correlate security events with network performance data. The integrated system enables network administrators to proactively detect and respond to security incidents while efficiently managing network resources.
+
+The authors also present the implementation and evaluation of the integrated system, considering factors such as detection accuracy, false positive rates, and computational efficiency. Experimental results demonstrate the effectiveness of the proposed approach in enhancing network security and management.
+
+In conclusion, the paper highlights the significance of integrating Network Management System and Intrusion Detection System functionalities to create a more robust and proactive approach to network security and performance management. The proposed integrated design offers valuable insights into the potential benefits of this collaborative approach.
