@@ -49,6 +49,29 @@ Furthermore, the paper identifies the key research gaps and challenges in the ex
 
 In conclusion, the paper provides a valuable resource for researchers and practitioners working in the field of cloud security and intrusion detection. By consolidating and analyzing the existing literature, the authors offer insights into the current state of the art and encourage further exploration to address the evolving security concerns in cloud environments.
 
+Key points:
+These key points emphasize the benefits of integrating an Intrusion Detection System with network monitoring to strengthen overall network security and respond effectively to cyber threats.
+
+1.Importance of Network Security: The paper highlights the increasing significance of robust network security measures due to the rising number of cyber threats.
+
+2.Limitations of Traditional Network Monitoring: The authors identify the shortcomings of conventional network monitoring techniques in detecting sophisticated and evolving cyber attacks.
+
+3.Integration of IDS and Network Monitoring: The research proposes the integration of an Intrusion Detection System (IDS) alongside network monitoring tools to enhance the effectiveness of security measures.
+
+4.Real-time Monitoring: The integrated system allows for real-time monitoring of network traffic, enabling prompt threat detection and response.
+
+5.Anomaly Detection: The IDS component is capable of identifying abnormal patterns in network activity, signaling potential security breaches.
+
+6.Signature-based Detection: The IDS can recognize known attack signatures, aiding in the identification of common cyber threats.
+
+7.Early Threat Detection: The integrated approach facilitates early detection of intrusions, minimizing the risk of successful cyber attacks.
+
+8.Minimizing False Positives: Proper configuration and coordination between the IDS and network monitoring components are crucial to reducing false positive alerts.
+
+9.Enhanced Network Analysis: The combination of IDS and network monitoring provides administrators with valuable insights into network behavior and potential vulnerabilities.
+
+10.Mitigation of Security Breaches: By enabling proactive detection and response, the integrated system helps minimize the impact of security breaches on the network.
+
 
 Title: Integrating Intrusion Detection System with Network Monitoring
 Authors: Jayakumar, Naveenkumar, Angral, Sheetal, Sharma, Rohan
