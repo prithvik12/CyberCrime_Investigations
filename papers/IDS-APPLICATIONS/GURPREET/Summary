@@ -230,3 +230,4 @@ The paper discusses the benefits of this integrated approach, including improved
 The authors also present the implementation and evaluation of the integrated system, considering factors such as detection accuracy, false positive rates, and computational efficiency. Experimental results demonstrate the effectiveness of the proposed approach in enhancing network security and management.
 
 In conclusion, the paper highlights the significance of integrating Network Management System and Intrusion Detection System functionalities to create a more robust and proactive approach to network security and performance management. The proposed integrated design offers valuable insights into the potential benefits of this collaborative approach.
+
