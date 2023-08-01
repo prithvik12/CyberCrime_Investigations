@@ -449,3 +449,26 @@ The authors also present the implementation and evaluation of the integrated sys
 
 In conclusion, the paper highlights the significance of integrating Network Management System and Intrusion Detection System functionalities to create a more robust and proactive approach to network security and performance management. The proposed integrated design offers valuable insights into the potential benefits of this collaborative approach.
 
+Key Points:(The proposed integrated approach of network management and an intrusion detection system offers a cohesive solution to strengthen network security and management. By combining the capabilities of both systems, the integrated design provides network administrators with valuable insights into network behavior and potential security threats, enabling timely and effective responses to security incidents.
+)
+
+1.Objective: The paper aims to develop an integrated network management design that incorporates an intrusion detection system to address the security challenges in networked environments.
+
+2.Network Management: The authors discuss the role of network management in monitoring and controlling network operations, ensuring reliable and efficient network performance.
+
+3.Intrusion Detection System (IDS): The research outlines the purpose and capabilities of an IDS, which is designed to detect and respond to security breaches and malicious activities within the network.
+
+4.Integration Approach: The paper presents a design that integrates the functionalities of network management and the IDS, enabling seamless cooperation and information exchange.
+
+5.Real-time Monitoring: The integrated approach enables real-time monitoring of network traffic and security events, facilitating prompt detection of potential intrusions.
+
+6.Event Correlation: The authors explore the importance of event correlation between network management and the IDS, enabling a more accurate understanding of security incidents.
+
+7.Alarm Generation and Response: The integrated design generates alarms and triggers appropriate responses for detected security threats, helping network administrators to take timely action.
+
+8.Performance Optimization: The paper addresses the optimization of system performance, ensuring that the integrated approach operates efficiently and without causing significant overhead.
+
+9.Practical Implementation: The research discusses practical aspects of implementing the integrated design, showcasing its effectiveness in real-world network environments.
+
+10.Benefits of Integration: The authors highlight the advantages of integrating network management and an IDS, including improved security, faster incident response, and enhanced network performance.
+
