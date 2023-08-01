@@ -17,3 +17,118 @@ The literature survey presents an overview of various IDS techniques and methodo
 Furthermore, the paper identifies the key research gaps and challenges in the existing approaches for intrusion detection in the cloud. These gaps serve as the basis for proposing future research directions. The authors suggest exploring advanced machine learning algorithms, incorporating big data analytics, and leveraging artificial intelligence to enhance the accuracy and efficiency of IDS in cloud settings.
 
 In conclusion, the paper provides a valuable resource for researchers and practitioners working in the field of cloud security and intrusion detection. By consolidating and analyzing the existing literature, the authors offer insights into the current state of the art and encourage further exploration to address the evolving security concerns in cloud environments.
+
+
+Title: Integrating Intrusion Detection System with Network Monitoring
+Authors: Jayakumar, Naveenkumar, Angral, Sheetal, Sharma, Rohan
+Journal: International Journal of Scientific and Research Publications
+Volume: 4
+Pages: 1-4
+Publication Year: 2014
+
+Summary:
+The paper titled "Integrating Intrusion Detection System with Network Monitoring" explores the integration of Intrusion Detection System (IDS) with network monitoring to enhance the security of computer networks. The study aims to provide a comprehensive framework that combines the capabilities of both IDS and network monitoring tools to improve the detection and mitigation of security threats.
+
+The authors first emphasize the importance of ensuring network security due to the increasing frequency and sophistication of cyberattacks. Traditional network monitoring tools are valuable in providing real-time insights into network traffic and performance but may not be sufficient to detect and respond to emerging security threats effectively.
+
+To address this limitation, the paper proposes integrating IDS with existing network monitoring infrastructure. By doing so, the combined system can leverage the strengths of both components. Network monitoring tools continuously gather and analyze network traffic data, while the IDS component can identify patterns and anomalies indicative of potential intrusions or security breaches.
+
+The integration process involves configuring the network monitoring tool to feed its data into the IDS for analysis. The IDS, in turn, applies various detection techniques such as signature-based detection, anomaly detection, or behavioral analysis to identify potential security incidents. When a suspicious activity is detected, the integrated system can trigger appropriate responses, such as generating alerts, blocking malicious traffic, or launching additional security measures.
+
+By combining these two functionalities, organizations can enhance their ability to detect and respond to various types of security threats, including intrusions, malware, and unauthorized access attempts. The integrated approach provides a more comprehensive and proactive security posture, enabling network administrators to identify potential security incidents in real-time and take prompt action to mitigate risks.
+
+Overall, the paper highlights the significance of integrating IDS with network monitoring tools as a valuable strategy to strengthen network security and protect against evolving cyber threats.
+
+
+Title: Research Trends in Network-Based Intrusion Detection Systems: A Review
+Authors: Kumar, S., Gupta, S., and Arora, S.
+Journal: IEEE Access
+Volume: 9
+Pages: 157761-157779
+Publication Year: 2021
+DOI: 10.1109/ACCESS.2021.3129775
+
+Summary:
+The paper titled "Research Trends in Network-Based Intrusion Detection Systems: A Review" provides an extensive review of the current research trends and advancements in the field of Network-Based Intrusion Detection Systems (NIDS). The study aims to analyze recent developments in NIDS methodologies, techniques, and applications, providing valuable insights for researchers and practitioners in the field of network security.
+
+The authors begin by emphasizing the critical role of NIDS in safeguarding computer networks against sophisticated cyber threats and intrusions. As network attacks continue to evolve, it becomes imperative to assess the state-of-the-art techniques and methodologies used in NIDS to stay ahead of potential threats.
+
+The literature review presents a comprehensive overview of various NIDS approaches, including signature-based detection, anomaly-based detection, behavior-based detection, and machine learning-based techniques. The authors analyze the strengths and limitations of each approach and explore how they have evolved over time to tackle new challenges in network security.
+
+Furthermore, the paper identifies emerging trends and research directions in NIDS. These may include the integration of Artificial Intelligence (AI) and Machine Learning (ML) algorithms to enhance the accuracy and efficiency of intrusion detection, the use of Big Data analytics to handle the vast amount of network data, and the application of deep learning techniques for more sophisticated threat detection.
+
+The review also discusses the challenges faced by NIDS implementations, such as dealing with encrypted traffic, reducing false positives, and ensuring scalability in large-scale networks. Understanding these challenges can help researchers focus on finding solutions that cater to the specific needs of modern network environments.
+
+In conclusion, the paper provides a valuable resource for researchers, security professionals, and network administrators by summarizing the current state of research in NIDS and shedding light on the promising directions for future advancements. The comprehensive review contributes to the continuous improvement of NIDS technologies and aids in building robust defense mechanisms against evolving network threats.
+
+Title: A Collaborative Framework for Intrusion Detection (C-NIDS) in Cloud Computing
+Authors: Haddad, Z. A., Hanoune, M., and Mamouni, A.
+Conference: 2016 2nd International Conference on Cloud Computing Technologies and Applications (CloudTech)
+Location: Marrakech, Morocco
+Publication Year: 2016
+Pages: 261-265
+DOI: 10.1109/CloudTech.2016.7847708
+
+Summary:
+The paper titled "A Collaborative Framework for Intrusion Detection (C-NIDS) in Cloud Computing" introduces a collaborative intrusion detection framework designed specifically for Cloud computing environments. The study presents a novel approach to enhancing security in cloud-based systems by leveraging multiple intrusion detection mechanisms working together to identify and respond to potential threats effectively.
+
+The authors emphasize the significance of addressing security challenges in Cloud computing due to its distributed and virtualized nature. Traditional intrusion detection systems may struggle to cope with the dynamic and diverse characteristics of cloud environments, making it essential to develop a more comprehensive and adaptive security solution.
+
+The proposed framework, known as Collaborative Network-Based Intrusion Detection System (C-NIDS), integrates multiple intrusion detection components to create a collaborative defense mechanism. These components may include signature-based detection, anomaly-based detection, behavior-based detection, and other specialized detection techniques. By combining various detection methods, the C-NIDS can improve accuracy and enhance the detection of diverse attack vectors.
+
+The collaborative nature of the framework enables the participating detection components to share information and insights about potential security threats. This collaborative approach empowers the C-NIDS to correlate and analyze data from different sources, providing a more comprehensive view of the network's security posture.
+
+Moreover, the C-NIDS framework addresses the scalability challenges of cloud environments by distributing the detection components across the cloud infrastructure. This ensures that the intrusion detection process can efficiently scale with the expanding network and increasing data volume.
+
+The paper also discusses the implementation and evaluation of the C-NIDS framework, including its performance and effectiveness in detecting various types of intrusions in a cloud environment. The experimental results demonstrate the advantages of the collaborative approach over traditional single-method intrusion detection systems.
+
+In conclusion, the paper presents a collaborative framework (C-NIDS) that leverages the strengths of multiple intrusion detection techniques to enhance security in Cloud computing. The proposed approach provides valuable insights for researchers and practitioners interested in developing effective and adaptive security solutions tailored to the unique challenges of cloud-based systems.
+
+Title: Intrusion Detection System in Cloud Computing: Challenges and Opportunities
+Authors: Mehmood, Y., Shibli, M. A., Habiba, U., and Masood, R.
+Conference: 2013 2nd National Conference on Information Assurance (NCIA)
+Location: Rawalpindi, Pakistan
+Publication Year: 2013
+Pages: 59-66
+DOI: 10.1109/NCIA.2013.6725325
+
+Summary:
+The paper titled "Intrusion Detection System in Cloud Computing: Challenges and Opportunities" delves into the specific challenges and opportunities surrounding the implementation of Intrusion Detection Systems (IDS) in the context of Cloud computing. The study aims to identify and address the unique security concerns related to cloud-based environments and explore potential avenues for enhancing intrusion detection capabilities.
+
+The authors highlight the increasing adoption of Cloud computing, which has resulted in the centralization of data and services in shared, virtualized environments. This shift introduces new security challenges, as cloud systems are exposed to various threats, including data breaches, unauthorized access, and insider attacks.
+
+The paper discusses the challenges faced by traditional IDS when deployed in Cloud computing settings. Cloud environments exhibit distinct characteristics, such as multi-tenancy, rapid scalability, and dynamic resource allocation, which necessitate the development of IDS solutions tailored to these unique attributes.
+
+One significant challenge is the handling of a massive volume of data generated by cloud services and applications. Efficiently processing and analyzing this large-scale data is crucial for timely detection of intrusions. Additionally, dealing with encrypted traffic in cloud networks poses another obstacle for intrusion detection mechanisms.
+
+The paper explores the potential opportunities for improving IDS in the cloud context. This includes the integration of machine learning algorithms to create more adaptive and self-learning intrusion detection systems. Machine learning can assist in identifying complex attack patterns and evolving threats.
+
+Furthermore, the authors discuss the importance of collaborative approaches, where multiple cloud instances can work together to share threat intelligence and enhance detection accuracy. Such collaboration can lead to a more robust and comprehensive security posture for cloud-based systems.
+
+The paper also addresses the need for proactive security measures, emphasizing the importance of anomaly detection techniques to identify novel threats that may not be covered by signature-based methods.
+
+In conclusion, the paper sheds light on the challenges and opportunities surrounding Intrusion Detection Systems in Cloud computing. By identifying and understanding these issues, researchers and practitioners can develop more effective and tailored solutions to safeguard cloud-based infrastructures from emerging security threats.
+
+Title: A Novel Hybrid-Network Intrusion Detection System (H-NIDS) in Cloud Computing
+Authors: Modi, C. N., and Patel, D.
+Conference: 2013 IEEE Symposium on Computational Intelligence in Cyber Security (CICS)
+Location: Singapore
+Publication Year: 2013
+Pages: 23-30
+DOI: 10.1109/CICYBS.2013.6597201
+
+Summary:
+The paper titled "A Novel Hybrid-Network Intrusion Detection System (H-NIDS) in Cloud Computing" presents an innovative approach to Intrusion Detection System (IDS) design, specifically tailored for the unique challenges of Cloud computing environments. The study introduces a hybrid IDS that combines multiple detection techniques to achieve more effective and comprehensive security for cloud-based systems.
+
+The authors emphasize that traditional IDS may not be well-suited to handle the dynamic and distributed nature of Cloud computing, which calls for the development of more adaptable and robust security solutions.
+
+The proposed Hybrid-Network Intrusion Detection System (H-NIDS) integrates different types of intrusion detection mechanisms. This hybrid approach leverages the strengths of various detection methods, such as signature-based detection, anomaly-based detection, behavior-based detection, and possibly machine learning algorithms.
+
+By combining these diverse techniques, the H-NIDS aims to provide a more comprehensive view of potential security threats in cloud networks. Signature-based detection is effective in identifying known patterns of attacks, while anomaly-based detection can identify novel threats and deviations from normal behavior. Behavior-based detection can help in understanding the actions of users and systems to detect suspicious activities.
+
+The paper discusses the benefits of using a hybrid approach, as it allows for a more accurate and adaptive intrusion detection system. The hybrid model also enables better handling of encrypted network traffic, which is a critical concern in Cloud computing environments.
+
+Furthermore, the authors describe the implementation and evaluation of the H-NIDS in cloud scenarios. They assess the system's performance and effectiveness in detecting various types of intrusions, considering both known and previously unknown attack patterns.
+
+In conclusion, the paper presents a novel Hybrid-Network Intrusion Detection System (H-NIDS) that effectively addresses the challenges posed by Cloud computing environments. By combining multiple detection methods, the H-NIDS offers a more comprehensive and adaptive security solution, enhancing the protection of cloud-based systems against emerging cyber threats.
+
