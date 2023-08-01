@@ -13,6 +13,37 @@ The paper titled "Intrusion Detection System in Cloud Environment: Literature Su
 The authors start by discussing the significance of IDS in cloud environments, considering the unique security challenges and threats posed by the cloud's distributed and virtualized nature. They highlight the importance of safeguarding cloud resources and data against unauthorized access and malicious activities.
 
 The literature survey presents an overview of various IDS techniques and methodologies employed in the cloud context, including signature-based detection, anomaly-based detection, machine learning-based approaches, and hybrid methods. The authors examine the strengths and limitations of each technique, shedding light on their effectiveness and applicability in cloud environments.
+Signature-based IDS:
+•	Detects suspicious activities by comparing with known patterns or malicious instructions stored in a signature database.
+•	Popular method: Snort, with components like packet decoder, pre-processor, detection engine, logging, and alerting system.
+•	Regularly updated signature database needed to detect recent attacks.
+•	Alarm generated if a match is found between current packets and stored rules.
+•	Researchers proposed rule-based NIDS, cooperative intrusion detection framework, and mismatch policy for signature-based IDS.
+Anomaly-detection-based IDS:
+•	Analyzes user behavior to create a behavioral profile and identify deviations from normal behavior.
+•	Training phase constructs features and generates a behavioral model.
+•	Detection phase uses the model to detect intrusions and generate alarms.
+•	Different techniques used: machine learning, fuzzy logic, support vector machine, and data mining.
+•	Can detect novel attacks but requires more computational power.
+Virtual Machine Introspection (VMI)-based IDS:
+•	Monitors virtual machines from outside by placing the security tool at the hypervisor level.
+•	Uses methods like memory introspection, system events or process introspection, and I/O introspection to collect data from monitored VMs.
+•	Isolates the IDS from the monitored VM, preventing attacks on the IDS from within the VM.
+•	Techniques proposed for VMI-based IDS: hyper call authentication, process introspection, kernel file system monitoring, and more.
+Hypervisor Introspection (HVI)-based IDS:
+•	Examines data below the hypervisor level for a deeper analysis of control and non-control flow data, memory, hypercalls, and data structures related to the hypervisor.
+•	Detects attacks on the hypervisor itself, which could compromise the security of all virtual machines in the cloud.
+•	Techniques proposed for HVI-based IDS: nested virtualization-based security, HyperLock, Hyper-Verify, and more.
+•	Provides flexibility and security improvements by verifying data integrity and monitoring running programs within VMs.
+Hybrid Technique:
+•	A combination of different IDS techniques to create a robust defensive network.
+•	Each individual IDS technique has its strengths and weaknesses.
+•	Hybrid IDS combines signature-based IDS (e.g., Snort) for known attacks, anomaly detection for novel attacks, and other techniques like VMI or HVI for specific capabilities.
+•	Provides better coverage and accuracy in detecting a wide range of attacks in a cloud environment.
+•	Researchers have proposed various combinations, such as Snort and Back Propagation Neural Network, Snort and SVM, Snort and Decision Tree/Random Forest/Naive Bayes, and others.
+•	Some hybrids use Dempster-Shafer Theory (DST) or Genetic Algorithm (GA) to optimize results and feature selection.
+•	Hybrids can be deployed at different levels, such as on each processing server, control VM, or within individual VMs.
+•	Collaborative Intrusion Detection (CID) approaches involve cooperation between IDS deployed at different cloud clusters or on links joining them.
 
 Furthermore, the paper identifies the key research gaps and challenges in the existing approaches for intrusion detection in the cloud. These gaps serve as the basis for proposing future research directions. The authors suggest exploring advanced machine learning algorithms, incorporating big data analytics, and leveraging artificial intelligence to enhance the accuracy and efficiency of IDS in cloud settings.
 
