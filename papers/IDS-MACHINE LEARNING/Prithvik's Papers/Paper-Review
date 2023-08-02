@@ -137,7 +137,7 @@ Furthermore, the review emphasizes the potential of combining multiple machine l
 In conclusion, the paper offers an extensive review of Intrusion Detection and Prevention in networks using Machine Learning and Deep Learning approaches. The analysis of various algorithms and their performance on diverse datasets provides valuable insights into the effectiveness of each technique. The review serves as a valuable resource for researchers and practitioners seeking to implement state-of-the-art intrusion detection and prevention systems. The paper also highlights the significance of continued research and development in this domain, paving the way for innovative solutions to safeguard network infrastructures against evolving cyber threats.
 
 The algorithms used are:- Decision Trees, Random Forests, Support Vector Machines (SVM), k-Nearest Neighbors (k-NN), and Naive Bayes, as well as deep learning models, including Neural Networks and Deep Neural Networks. 
-Datasets used are:-
+The datasets used are:-
 
 *** Intelligent Intrusion Detection Systems Using Artificial Neural Networks ***
 
@@ -151,11 +151,13 @@ The research focuses on exploring different types of ANN architectures, includin
 
 The authors discuss the process of training ANNs using labelled datasets containing normal and intrusive network activities. Through this training process, the networks can learn to distinguish between normal and abnormal behaviour, enabling them to identify potential intrusions.
 
-The performance evaluation of the intelligent IDS is carried out using real-world datasets, and the paper highlights the effectiveness of ANNs in accurately detecting various types of network intrusions. The evaluation includes metrics such as accuracy, precision, recall, and F1-score, which demonstrate the high efficiency and reliability of the proposed approach.
-
 The paper also discusses the practical implications of implementing intelligent intrusion detection systems based on ANNs in real-world network environments. The adaptive nature of ANNs enables them to continuously learn and adapt to new types of cyber threats, making them well-suited for dynamic and rapidly evolving network infrastructures.
 
-In conclusion, the paper introduces the concept of Intelligent Intrusion Detection Systems using Artificial Neural Networks. By leveraging the capabilities of ANNs, the proposed approach offers a powerful and efficient solution for network security. The research highlights the significance of ANNs in enhancing the accuracy and adaptability of intrusion detection systems. Furthermore, it emphasizes the potential of ANNs in advancing the field of network security and protecting against sophisticated cyber threats. The findings provide valuable insights for researchers and practitioners seeking to implement intelligent IDS solutions in their network environments. Overall, the paper contributes to the advancement of artificial intelligence-driven network security and showcases the potential of ANNs in fortifying network infrastructures against modern cyber-attacks.
+In conclusion, The paper presents an intelligent intrusion detection system that improves on signature-based methods by using an artificial neural network classifier to identify shellcode patterns in network traffic. The ANN-based classifier demonstrates high sensitivity and precision, with a false positive rate of less than 2% on a large set of benign network traffic samples. The research focuses on offline shellcode detection and aims to integrate the approach into real-time intrusion detection systems, with further optimization for live network traffic. Additionally, the study suggests applying this intelligent approach to detect other network security threats, such as cross-site scripting and SQL injection attacks on web applications.
+
+The algorithms used are:- ANN.
+Note:- implemented offline to 
+
 
 *** Network intrusion detection system: A systematic study of machine learning and deep learning approaches ***
 
