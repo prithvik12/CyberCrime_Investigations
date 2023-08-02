@@ -12,6 +12,7 @@ The paper highlights the practical implications of implementing MLIDS in real-wo
 In conclusion, the researchers showcase the performance of three different algorithms: SVM, Naïve Bayes, and ANN. They evaluate these algorithms using various datasets and also test their performance in a real-time network environment. It provides valuable insights into the system's performance by utilizing a well-curated real-time network dataset and employing a range of machine-learning algorithms. The proposed approach demonstrates significant potential in enhancing network security and protecting against dynamic cyber threats. The findings contribute to the field of intrusion detection, offering valuable guidance for future research and practical applications in network security.
 
 Datasets that are considered in the paper:- NSL KDD CUP 1999 dataset is used. 
+Algorithm's Used:- NB, SVM, RF, ANN.
 
 
 *** Modified Naive Bayes Intrusion Detection System (MNBIDS) ***
