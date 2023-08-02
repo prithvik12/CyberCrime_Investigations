@@ -2,17 +2,17 @@
 
 Summary:-
 
-The paper titled "MLIDS: A Machine Learning Approach for Intrusion Detection for Real-Time Network Dataset" by M. D. Rokade and Y. K. Sharma, presented at the 2021 International Conference on Emerging Smart Computing and Informatics (ESCI) in Pune, India, introduces a novel Intrusion Detection System (IDS) that leverages machine learning techniques for real-time network intrusion detection. The authors emphasize the importance of timely detection and prevention of network intrusions to safeguard against evolving cyber threats. They curate an extensive real-time network dataset containing diverse network traffic data, including normal and malicious behaviour, to train and evaluate the proposed MLIDS models. Their main objective is to increase the detection rates of DOS, PROBE(Internal Wires), U2R(User to Root) and R2L(Remtote to user) for NIDS(Network) and HIDS(Host).
+The paper titled "MLIDS: A Machine Learning Approach for Intrusion Detection for Real-Time Network Dataset" by M. D. Rokade and Y. K. Sharma, presented at the 2021 International Conference on Emerging Smart Computing and Informatics (ESCI) in Pune, India, introduces a novel Intrusion Detection System (IDS) that leverages machine learning techniques for real-time network intrusion detection. The authors emphasize the importance of timely detection and prevention of network intrusions to safeguard against evolving cyber threats. They curate an extensive real-time network dataset containing diverse network traffic data, including normal and malicious behaviour, to train and evaluate the proposed MLIDS models. Their main objective is to increase the detection rates of DOS, PROBE(Internal Wires), U2R(User to Root) and R2L(Remote to user) for NIDS(Network) and HIDS(Host).
 
 The study explores various machine learning algorithms, such as Decision Trees, Random Forests, Support Vector Machines, Neural Networks, and Gradient Boosting, among others, to assess their effectiveness in intrusion detection. The authors meticulously conduct feature selection to identify the most relevant attributes that significantly impact the system's accuracy.
 The performance evaluation of MLIDS is thorough, involving comprehensive metrics such as accuracy, precision, recall, and F1-score. The results demonstrate the system's ability to achieve high accuracy and reliability in real-time intrusion detection, showcasing its potential to proactively detect and mitigate various types of network intrusions.
 
 The paper highlights the practical implications of implementing MLIDS in real-world network environments. The proposed system has the capability to address the immediate nature of cyber threats, responding promptly to potential intrusions and minimizing the risk of data breaches and damages.
 
-In conclusion, the researchers showcase the performance of three different algorithms: SVM, Naïve Bayes, and ANN. They evaluate these algorithms using various datasets and also test their performance in a real-time network environment. It provides valuable insights into the system's performance by utilizing a well-curated real-time network dataset and employing a range of machine-learning algorithms. The proposed approach demonstrates significant potential in enhancing network security and protecting against dynamic cyber threats. The findings contribute to the field of intrusion detection, offering valuable guidance for future research and practical applications in network security.
+In conclusion, the researchers showcase the performance of three different algorithms: SVM, Naïve Bayes, and ANN. They evaluate these algorithms using various datasets and also test their performance in a real-time network environment. It provides valuable insights into the system's performance by utilizing a well-curated real-time network dataset and employing a range of machine-learning algorithms. The proposed approach demonstrates significant potential in enhancing network security and protecting against dynamic cyber threats. The findings contribute to intrusion detection, offering valuable guidance for future research and practical applications in network security.
 
 Datasets that are considered in the paper:- NSL KDD CUP 1999 dataset is used. 
-Algorithm's Used:- NB, SVM, RF, ANN.
+Algorithms Used:- NB, SVM, RF, ANN.
 
 
 *** Modified Naive Bayes Intrusion Detection System (MNBIDS) ***
@@ -23,16 +23,16 @@ The paper titled "Modified Naive Bayes Intrusion Detection System (MNBIDS)" by K
 
 The paper begins by discussing the limitations of traditional Naive Bayes algorithms in handling network intrusion detection. To address these limitations, the authors propose modifications to the algorithm, incorporating additional features and refining the attribute selection process.
 
-MNBIDS is evaluated using a real-world dataset (KDD CUP 1999) containing diverse network traffic data, both normal and intrusive. The authors present a comprehensive performance analysis of the system, including accuracy, precision, recall, and F1-score metrics, to assess its effectiveness.
+MNBIDS is evaluated using a real-world dataset (KDD CUP 1999) containing diverse network traffic data, both normal and intrusive. The authors present a comprehensive system performance analysis, including accuracy, precision, recall, and F1-score metrics, to assess its effectiveness.
 
 The findings reveal that MNBIDS achieves promising results in terms of accuracy and efficiency, outperforming the traditional Naive Bayes algorithm and showcasing its potential as an effective intrusion detection solution.
 
 The paper also discusses the practical implications of MNBIDS implementation in real-world network environments. It highlights the system's capability to detect and prevent various types of network intrusions promptly, contributing to improved network security and minimized data breaches.
 
-In conclusion, the paper introduces MNBIDS, a Modified Naive Bayes-based Intrusion Detection System, designed to enhance the accuracy and efficiency of intrusion detection especially DDoS attacks in computer networks. By incorporating modifications to the traditional Naive Bayes algorithm and evaluating its performance on a real-world dataset, the authors demonstrate the system's potential to effectively detect network intrusions. The proposed approach offers valuable insights into the field of intrusion detection and may pave the way for future research and practical applications in network security.
+In conclusion, the paper introduces MNBIDS, a Modified Naive Bayes-based Intrusion Detection System, designed to enhance the accuracy and efficiency of intrusion detection, especially DDoS attacks in computer networks. By incorporating modifications to the traditional Naive Bayes algorithm and evaluating its performance on a real-world dataset, the authors demonstrate the system's potential to effectively detect network intrusions. The proposed approach offers valuable insights into intrusion detection and may pave the way for future research and practical applications in network security.
 
 Datasets that are considered in the paper:-  KDD CUP 1999 dataset is used. 
-Algorithm's Used:- SVM, CNN, KNN, ANN algorithms are used to compare it with the proposed Modified Naive Bayes.
+Algorithms Used:- SVM, CNN, KNN, and ANN algorithms are used to compare it with the proposed Modified Naive Bayes.
 
 
 *** Intrusion Detection System Based on Network Traffic Using Deep Neural Networks ***
@@ -41,7 +41,7 @@ Summary:-
 
 The paper titled "Intrusion Detection System Based on Network Traffic Using Deep Neural Networks" by Dimitra Chamou and colleagues, presented at the 2019 IEEE 24th International Workshop on Computer Aided Modeling and Design of Communication Links and Networks (CAMAD), introduces a cutting-edge Intrusion Detection System (IDS) that utilizes Deep Neural Networks (DNNs) for detecting and preventing network intrusions.
 
-The main focus of the paper is to address the challenges posed by complex and evolving cyber threats by leveraging the capabilities of DNNs in processing and analyzing large-scale network traffic data effectively.Detection of malicious activities, specifically DDoS and malware cyber-threats, is achieved through the application of deep learning techniques.
+The main focus of the paper is to address the challenges posed by complex and evolving cyber threats by leveraging the capabilities of DNNs in processing and analyzing large-scale network traffic data effectively. Detection of malicious activities, specifically DDoS and malware cyber-threats, is achieved through the application of deep learning techniques.
 
 The authors describe the architecture of the proposed IDS, which involves multiple layers of DNNs that can automatically learn intricate patterns and features from the network traffic data. The system is designed to detect anomalous activities and classify them as potential intrusions.
 
@@ -53,7 +53,7 @@ The paper also discusses the practical implications of implementing the DNN-base
 
 In conclusion, the paper introduces a state-of-the-art Intrusion Detection System that harnesses the power of Deep Neural Networks to effectively detect and prevent network intrusions. The utilization of DNNs allows the system to learn complex patterns in network traffic data, resulting in enhanced accuracy and efficiency in identifying anomalies. The findings from the performance evaluation underscore the significance of the proposed approach in bolstering network security. The paper's contributions offer valuable insights into the application of Deep Neural Networks in the field of intrusion detection, opening new avenues for advanced research and practical deployment of IDS solutions.
 
-Algorithm's Used:- DNN is being studied.
+Algorithm Used:- DNN is being studied.
 
 *** An Efficient Intrusion Detection Based on Decision Tree Classifier Using Feature Reduction ***
 
@@ -69,7 +69,11 @@ The results demonstrate that the Decision Tree-based IDS, with feature reduction
 
 The paper concludes by discussing the practical implications of the proposed IDS in real-world network environments. The efficient and accurate nature of the system makes it well-suited for deployment in various network infrastructures, where timely detection of intrusions is critical to prevent potential data breaches and cyber-attacks.
 
-In conclusion, the paper introduces an effective Intrusion Detection System based on a Decision Tree Classifier with feature reduction techniques. The system showcases high accuracy in detecting network intrusions while optimizing computational resources. The research contributes to the field of intrusion detection by providing a practical and efficient solution that can be deployed in real-world scenarios. The findings highlight the significance of feature reduction in improving the performance of IDS, paving the way for further research and advancements in network security.
+In conclusion, the paper introduces an effective Intrusion Detection System based on a Decision Tree Classifier with feature reduction techniques. In the study, four learning algorithms, namely J48, BavesNet, OneR, and NB, were evaluated for their effectiveness in intrusion detection. The results showed that J48 outperformed the other three algorithms significantly, achieving an accuracy rate of approximately 99% in detecting intrusions, as demonstrated in the conducted experiments. The research contributes to the field of intrusion detection by providing a practical and efficient solution that can be deployed in real-world scenarios. The findings highlight the significance of feature reduction in improving the performance of IDS, paving the way for further research and advancements in network security.
+
+Algorithm Used:- J48 (Decision Tree Classifier), BayesNet, OneR and NB are used.
+Dataset Used:- KDD 99 is used for implementing the datasets.
+
 
 *** Machine Learning to Improve the Performance of Anomaly-Based Network Intrusion Detection in Big Data ***
 
