@@ -155,7 +155,9 @@ PRITHVIK'S PAPERS:-
 
 54.   Alex Shenfield, David Day, Aladdin Ayesh, Intelligent intrusion detection systems using artificial neural networks, ICT Express, Volume 4, Issue 2, 2018, Pages 95-99,ISSN 2405-9595, https://doi.org/10.1016/j.icte.2018.04.003.
 
-55.   Ahmad Z, Shahid Khan A, Wai Shiang C, Abdullah J, Ahmad F. 2021. Network intrusion detection system: a systematic study of machine learning and deep learning approaches. Transactions on Emerging Telecommunications Technologies 32(1):e4150.
+55.   Mukkamala S, Janoski G, Sung A. Intrusion detection using neural networks and support vector machines. Paper presented at: Proceedings
+of the 2002 International Joint Conference on Neural Networks. IJCNN’02 (Cat. No. 02CH37290). Honolulu, HI, USA: IEEE; vol. 2,
+2002:1702-1707.
 
 56.   H. Du, S. Teng, M. Yang and Q. Zhu, "Intrusion Detection System Based on Improved SVM Incremental Learning," 2009 International Conference on Artificial Intelligence and Computational Intelligence, Shanghai, China, 2009, pp. 23-28, doi: 10.1109/AICI.2009.254.
 
