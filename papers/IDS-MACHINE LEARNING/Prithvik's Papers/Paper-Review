@@ -136,6 +136,8 @@ Furthermore, the review emphasizes the potential of combining multiple machine l
 
 In conclusion, the paper offers an extensive review of Intrusion Detection and Prevention in networks using Machine Learning and Deep Learning approaches. The analysis of various algorithms and their performance on diverse datasets provides valuable insights into the effectiveness of each technique. The review serves as a valuable resource for researchers and practitioners seeking to implement state-of-the-art intrusion detection and prevention systems. The paper also highlights the significance of continued research and development in this domain, paving the way for innovative solutions to safeguard network infrastructures against evolving cyber threats.
 
+The algorithms used are:- Decision Trees, Random Forests, Support Vector Machines (SVM), k-Nearest Neighbors (k-NN), and Naive Bayes, as well as deep learning models, including Neural Networks and Deep Neural Networks. 
+Datasets used are:-
 
 *** Intelligent Intrusion Detection Systems Using Artificial Neural Networks ***
 
