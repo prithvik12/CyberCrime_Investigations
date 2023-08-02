@@ -94,21 +94,28 @@ In conclusion, the paper emphasizes the significance of machine learning in augm
 The dataset used:- CSE-CIC-IDS-2018.
 The algorithms used are:- RF(for feature selection), LR(Linear Regression), KNN, CART(Classification and Regression Trees), Multi-Layer Perceptron (MLP), Bayes and XGBoost.
 
-*** A_Review_on_Intrusion_Detection_System_using_Machine_Learning_Techniques ***
+*** Implementation Of Machine Learning Algorithms For Detection Of Network Intrusion ***
 
 Summary:-
 
-The paper provides an in-depth review of Intrusion Detection Systems (IDS) that employ Machine Learning Techniques for enhancing network security. The main objective of the review is to assess the effectiveness and advancements of various machine learning approaches in the field of intrusion detection. The authors systematically analyze and compare a wide range of machine learning techniques utilized in IDS, focusing on their strengths, weaknesses, and applicability in different network environments.
+The research paper titled "Implementation Of Machine Learning Algorithms For Detection Of Network Intrusion" presents a study conducted by P. Raviteja and colleagues on the application of Machine Learning (ML) algorithms for detecting network intrusions. The main objective of the study is to explore the effectiveness of ML techniques in identifying and mitigating potential network threats.
 
-The review covers prominent machine learning algorithms such as Decision Trees, Random Forests, Support Vector Machines (SVM), Naive Bayes, k-Nearest Neighbors (k-NN), Neural Networks, and Deep Learning models. For each technique, the authors delve into their underlying principles and how they are utilized for intrusion detection. Additionally, the paper examines how feature selection and extraction methods are applied to optimize the performance of these machine learning-based IDS.
+The authors begin by providing an overview of the growing significance of network intrusion detection due to the escalating cyber threats and emphasize the need for robust detection mechanisms. They highlight the limitations of traditional rule-based intrusion detection systems and propose the application of ML algorithms as a promising alternative.
 
-The review incorporates a comprehensive analysis of the experimental studies and evaluations conducted on various datasets. By comparing the performance metrics, such as accuracy, precision, recall, F1-score, and detection rate, the authors aim to identify the most suitable machine-learning approaches for different types of network intrusions.
+To evaluate the performance of various ML algorithms in network intrusion detection, the researchers employ a diverse and comprehensive dataset comprising normal and intrusive network activities. They discuss the process of feature extraction, where relevant attributes are selected to build accurate and efficient intrusion detection models.
 
-The findings of the review indicate that machine learning-based IDS have exhibited significant advancements in accurately detecting network intrusions compared to traditional rule-based approaches. The ability of machine learning models to learn intricate patterns in network data and adapt to dynamic cyber threats makes them a preferred choice in modern network security.
+The study evaluates multiple ML algorithms, such as Decision Trees, Support Vector Machines (SVM), Random Forests, and k-Nearest Neighbors (k-NN), by comparing their detection accuracy, false-positive rates, and computational efficiency. The authors present detailed results and performance metrics to assess the efficacy of each algorithm.
 
-Moreover, the review highlights the importance of continuous research and development in the field of intrusion detection using machine learning. The authors identify areas for improvement, such as model interpretability, handling class imbalance, and dealing with noisy data, to further enhance the performance and reliability of IDS.
+The findings reveal that ML algorithms when suitably configured, show promising results in detecting network intrusions. The Decision Trees and Random Forests exhibit high accuracy in classification tasks, while the SVM demonstrates efficient boundary separation capabilities. The k-NN algorithm also performs reasonably well in certain scenarios. The study provides valuable insights into the strengths and limitations of each algorithm for network intrusion detection.
 
-In conclusion, the paper presents a comprehensive review of Intrusion Detection Systems employing Machine Learning Techniques. The analysis of various machine learning algorithms and their performance on different datasets offers valuable insights into the strengths and limitations of each approach. The review serves as a valuable resource for researchers and practitioners seeking to implement effective intrusion detection solutions and lays the groundwork for future advancements in machine learning-based IDS. Overall, the paper underscores the significance of machine learning in bolstering network security and its potential to proactively protect against evolving cyber threats.
+Additionally, the paper discusses the significance of model evaluation and parameter tuning to optimize the performance of ML algorithms. The authors highlight the importance of selecting appropriate hyperparameters to achieve optimal results.
+
+Overall, the research contributes to the field of network security by demonstrating the potential of ML algorithms for intrusion detection. The study's results showcase the effectiveness of these algorithms in accurately identifying network intrusions and highlighting their potential to bolster cybersecurity measures.
+
+In conclusion, P. Raviteja and colleagues' study presents a comprehensive analysis of the implementation of ML algorithms for network intrusion detection. The research provides valuable insights into the strengths and weaknesses of various algorithms and emphasizes the need for careful model evaluation and parameter tuning. By leveraging ML techniques, network security professionals can enhance their ability to detect and respond to evolving cyber threats effectively. The study's outcomes offer practical implications for the adoption of ML-based intrusion detection systems in real-world network environments.
+
+The algorithms used are:- DT, LR, RF, and SVM.
+Datasets that are used:- NSl-KDD dataset.
 
 
 *** Intrusion_Detection_and_Prevention_in_Networks_Using_Machine_Learning_and_Deep_Learning_Approaches_A_Review. ***
