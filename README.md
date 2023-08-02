@@ -65,6 +65,7 @@ Chris' Papers
 14. Pradhan, M., Nayak, C. K., & Pradhan, S. K. (2020). Intrusion detection system (IDS) and their types. In Securing the internet of things: Concepts, methodologies, tools, and applications (pp. 481-497). IGI Global.
 
 Shivendra's Papers 
+
 15. H. Saadat, A. Aboumadi, A. Mohamed, A. Erbad and M. Guizani, "Hierarchical Federated Learning for Collaborative IDS in IoT Applications," 2021 10th Mediterranean Conference on Embedded Computing (MECO), Budva, Montenegro, 2021, pp. 1-6, doi: 10.1109/MECO52532.2021.9460304.
 
 16. L. Wirz, A. Ketphet, N. Chiewnawintawat, R. Tanthanathewin and S. Fugkeaw, "OWADIS: Rapid Discovery of OWASP10 Vulnerability based on Hybrid IDS," 2023 15th International Conference on Knowledge and Smart Technology (KST), Phuket, Thailand, 2023, pp. 1-6, doi: 10.1109/KST57286.2023.10086878.
