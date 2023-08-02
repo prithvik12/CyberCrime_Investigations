@@ -41,7 +41,7 @@ Summary:-
 
 The paper titled "Intrusion Detection System Based on Network Traffic Using Deep Neural Networks" by Dimitra Chamou and colleagues, presented at the 2019 IEEE 24th International Workshop on Computer Aided Modeling and Design of Communication Links and Networks (CAMAD), introduces a cutting-edge Intrusion Detection System (IDS) that utilizes Deep Neural Networks (DNNs) for detecting and preventing network intrusions.
 
-The main focus of the paper is to address the challenges posed by complex and evolving cyber threats by leveraging the capabilities of DNNs in processing and analyzing large-scale network traffic data effectively.
+The main focus of the paper is to address the challenges posed by complex and evolving cyber threats by leveraging the capabilities of DNNs in processing and analyzing large-scale network traffic data effectively.Detection of malicious activities, specifically DDoS and malware cyber-threats, is achieved through the application of deep learning techniques.
 
 The authors describe the architecture of the proposed IDS, which involves multiple layers of DNNs that can automatically learn intricate patterns and features from the network traffic data. The system is designed to detect anomalous activities and classify them as potential intrusions.
 
@@ -52,6 +52,8 @@ The results demonstrate that the DNN-based IDS achieves high accuracy and reliab
 The paper also discusses the practical implications of implementing the DNN-based IDS in real-world network environments. It highlights the system's ability to adapt to emerging cyber threats and its potential to enhance network security by swiftly detecting and mitigating intrusions.
 
 In conclusion, the paper introduces a state-of-the-art Intrusion Detection System that harnesses the power of Deep Neural Networks to effectively detect and prevent network intrusions. The utilization of DNNs allows the system to learn complex patterns in network traffic data, resulting in enhanced accuracy and efficiency in identifying anomalies. The findings from the performance evaluation underscore the significance of the proposed approach in bolstering network security. The paper's contributions offer valuable insights into the application of Deep Neural Networks in the field of intrusion detection, opening new avenues for advanced research and practical deployment of IDS solutions.
+
+Algorithm's Used:- DNN is being studied.
 
 *** An Efficient Intrusion Detection Based on Decision Tree Classifier Using Feature Reduction ***
 
