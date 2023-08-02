@@ -19,17 +19,20 @@ Algorithm's Used:- NB, SVM, RF, ANN.
 
 Summary:-
 
-The paper titled "Modified Naive Bayes Intrusion Detection System (MNBIDS)" by Karuna S. Bhosale, Maria Nenova, and Georgi Iliev, presented at the 2018 International Conference on Computational Techniques Electronics and Mechanical Systems (CTEMS), introduces a novel Intrusion Detection System (IDS) called MNBIDS, which is based on a modified version of the Naive Bayes algorithm. The authors focus on enhancing the accuracy and efficiency of intrusion detection in computer networks.
+The paper titled "Modified Naive Bayes Intrusion Detection System (MNBIDS)" by Karuna S. Bhosale, Maria Nenova, and Georgi Iliev, presented at the 2018 International Conference on Computational Techniques Electronics and Mechanical Systems (CTEMS), introduces a novel Intrusion Detection System (IDS) called MNBIDS, which is based on a modified version of the Naive Bayes algorithm. The authors focus on enhancing the accuracy and efficiency of intrusion detection in computer networks. The main objective is to check for these attacks in general DoS.
 
 The paper begins by discussing the limitations of traditional Naive Bayes algorithms in handling network intrusion detection. To address these limitations, the authors propose modifications to the algorithm, incorporating additional features and refining the attribute selection process.
 
-MNBIDS is evaluated using a real-world dataset containing diverse network traffic data, both normal and intrusive. The authors present a comprehensive performance analysis of the system, including accuracy, precision, recall, and F1-score metrics, to assess its effectiveness.
+MNBIDS is evaluated using a real-world dataset (KDD CUP 1999) containing diverse network traffic data, both normal and intrusive. The authors present a comprehensive performance analysis of the system, including accuracy, precision, recall, and F1-score metrics, to assess its effectiveness.
 
 The findings reveal that MNBIDS achieves promising results in terms of accuracy and efficiency, outperforming the traditional Naive Bayes algorithm and showcasing its potential as an effective intrusion detection solution.
 
 The paper also discusses the practical implications of MNBIDS implementation in real-world network environments. It highlights the system's capability to detect and prevent various types of network intrusions promptly, contributing to improved network security and minimized data breaches.
 
-In conclusion, the paper introduces MNBIDS, a Modified Naive Bayes-based Intrusion Detection System, designed to enhance the accuracy and efficiency of intrusion detection in computer networks. By incorporating modifications to the traditional Naive Bayes algorithm and evaluating its performance on a real-world dataset, the authors demonstrate the system's potential to effectively detect network intrusions. The proposed approach offers valuable insights into the field of intrusion detection and may pave the way for future research and practical applications in network security.
+In conclusion, the paper introduces MNBIDS, a Modified Naive Bayes-based Intrusion Detection System, designed to enhance the accuracy and efficiency of intrusion detection especially DDoS attacks in computer networks. By incorporating modifications to the traditional Naive Bayes algorithm and evaluating its performance on a real-world dataset, the authors demonstrate the system's potential to effectively detect network intrusions. The proposed approach offers valuable insights into the field of intrusion detection and may pave the way for future research and practical applications in network security.
+
+Datasets that are considered in the paper:-  KDD CUP 1999 dataset is used. 
+Algorithm's Used:- SVM, CNN, KNN, ANN algorithms are used to compare it with the proposed Modified Naive Bayes.
 
 
 *** Intrusion Detection System Based on Network Traffic Using Deep Neural Networks ***
