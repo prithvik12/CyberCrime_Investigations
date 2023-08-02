@@ -156,7 +156,7 @@ The paper also discusses the practical implications of implementing intelligent 
 In conclusion, The paper presents an intelligent intrusion detection system that improves on signature-based methods by using an artificial neural network classifier to identify shellcode patterns in network traffic. The ANN-based classifier demonstrates high sensitivity and precision, with a false positive rate of less than 2% on a large set of benign network traffic samples. The research focuses on offline shellcode detection and aims to integrate the approach into real-time intrusion detection systems, with further optimization for live network traffic. Additionally, the study suggests applying this intelligent approach to detect other network security threats, such as cross-site scripting and SQL injection attacks on web applications.
 
 The algorithms used are:- ANN.
-Note:- implemented offline to 
+Note:- implemented offline.
 
 
 *** Network intrusion detection system: A systematic study of machine learning and deep learning approaches ***
