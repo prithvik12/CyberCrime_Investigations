@@ -7,7 +7,7 @@ The paper titled "MLIDS: A Machine Learning Approach for Intrusion Detection for
 The study explores various machine learning algorithms, such as Decision Trees, Random Forests, Support Vector Machines, Neural Networks, and Gradient Boosting, among others, to assess their effectiveness in intrusion detection. The authors meticulously conduct feature selection to identify the most relevant attributes that significantly impact the system's accuracy.
 The performance evaluation of MLIDS is thorough, involving comprehensive metrics such as accuracy, precision, recall, and F1-score. The results demonstrate the system's ability to achieve high accuracy and reliability in real-time intrusion detection, showcasing its potential to proactively detect and mitigate various types of network intrusions.
 
-The paper highlights the practical implications of implementing MLIDS in real-world network environments. The proposed system has the capability to address the immediate nature of cyber threats, responding promptly to potential intrusions and minimizing the risk of data breaches and damages.
+The paper highlights the practical implications of implementing MLIDS in real-world network environments. The proposed system can address the immediate nature of cyber threats, responding promptly to potential intrusions and minimizing the risk of data breaches and damages.
 
 In conclusion, the researchers showcase the performance of three different algorithms: SVM, Naïve Bayes, and ANN. They evaluate these algorithms using various datasets and also test their performance in a real-time network environment. It provides valuable insights into the system's performance by utilizing a well-curated real-time network dataset and employing a range of machine-learning algorithms. The proposed approach demonstrates significant potential in enhancing network security and protecting against dynamic cyber threats. The findings contribute to intrusion detection, offering valuable guidance for future research and practical applications in network security.
 
@@ -90,6 +90,9 @@ The results demonstrate that integrating machine learning with anomaly-based int
 The paper also discusses the practical implications of employing machine learning in big data intrusion detection. The use of advanced machine learning algorithms equips the system to handle the scale and complexity of big data, making it suitable for deployment in large and dynamic network infrastructures.
 
 In conclusion, the paper emphasizes the significance of machine learning in augmenting the performance of anomaly-based network intrusion detection in big data environments. The research showcases the potential of various machine learning techniques to efficiently process and analyze vast amounts of network data, leading to improved accuracy and real-time detection of anomalies. The findings highlight the relevance of machine learning in enhancing network security and fostering a proactive approach to mitigating cyber threats. The integration of machine learning with anomaly-based intrusion detection opens new possibilities for future research and practical applications in the field of network security and big data analytics.
+
+The dataset used:- CSE-CIC-IDS-2018.
+The algorithms used are:- RF(for feature selection), LR(Linear Regression), KNN, CART(Classification and Regression Trees), Multi-Layer Perceptron (MLP), Bayes and XGBoost.
 
 *** A_Review_on_Intrusion_Detection_System_using_Machine_Learning_Techniques ***
 
