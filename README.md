@@ -141,6 +141,8 @@ Yaswanth's Papers
 
 6. Hubballi, Neminath & Suryanarayanan, Vinoth. (2014). False Alarm Minimization Techniques in Signature-Based Intrusion Detection Systems: A Survey. Computer Communications. 49. 10.1016/j.comcom.2014.04.012.
 
+7. Otoum, Y., Nayak, A. AS-IDS: Anomaly and Signature Based IDS for the Internet of Things. J Netw Syst Manage 29, 23 (2021). https://doi.org/10.1007/s10922-021-09589-6
+
 Chris' Papers
 
 1. Liao, H. J., Richard Lin, C. H., Lin, Y. C., & Tung, K. Y. (2013, January). Intrusion detection system: A comprehensive review. Journal of Network and Computer Applications, 36(1), 16–24. https://doi.org/10.1016/j.jnca.2012.09.004
