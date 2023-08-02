@@ -181,3 +181,29 @@ ARJITH'S PAPERS
 5. Z. Wang, "Deep Learning-Based Intrusion Detection With Adversaries," in IEEE Access, vol. 6, pp. 38367-38384, 2018, doi: 10.1109/ACCESS.2018.2854599.
 
 6. M. Al-Qatf, Y. Lasheng, M. Al-Habib and K. Al-Sabahi, "Deep Learning Approach Combining Sparse Autoencoder With SVM for Network Intrusion Detection," in IEEE Access, vol. 6, pp. 52843-52856, 2018, doi: 10.1109/ACCESS.2018.2869577.
+
+VARUN'S PAPERS
+
+1.	K. Talty, J. Stockdale and N. D. Bastian, "A Sensitivity Analysis of Poisoning and Evasion Attacks in Network Intrusion Detection System Machine Learning Models," MILCOM 2021 - 2021 IEEE Military Communications Conference (MILCOM), San Diego, CA, USA, 2021, pp. 1011-1016, doi: 10.1109/MILCOM52596.2021.9652959.
+
+2.	J. Ashraf, N. Moustafa, A. D. Bukhshi and A. Javed, "Intrusion Detection System for SDN-enabled IoT Networks using Machine Learning Techniques," 2021 IEEE 25th International Enterprise Distributed Object Computing Workshop (EDOCW), Gold Coast, Australia, 2021, pp. 46-52, doi: 10.1109/EDOCW52865.2021.00031.
+
+3.	E. Viegas, A. O. Santin and V. Abreu Jr, "Machine Learning Intrusion Detection in Big Data Era: A Multi-Objective Approach for Longer Model Lifespans," in IEEE Transactions on Network Science and Engineering, vol. 8, no. 1, pp. 366-376, 1 Jan.-March 2021, doi: 10.1109/TNSE.2020.3038618.
+
+4.	S. Thirimanne, L. Jayawardana, P. Liyanaarachchi and L. Yasakethu, "Comparative Algorithm Analysis for Machine Learning Based Intrusion Detection System," 2021 10th International Conference on Information and Automation for Sustainability (ICIAfS), Negambo, Sri Lanka, 2021, pp. 191-196, doi: 10.1109/ICIAfS52090.2021.9605814.
+
+5.	Mendoza, Arjonel M., Rowell M. Hernandez, Ryndel V. Amorado, Myrna A. Coliat and Poul Isaac C. De Chavez. “Network Data Feature Selection in Detecting Network Intrusion using Supervised Machine Learning Techniques.” 2022 2nd Asian Conference on Innovation in Technology (ASIANCON) (2022): 1-6.
+
+6.	Zang, M., Yan, Y. and 2021 IEEE 93rd Vehicular Technology Conference (VTC2021-Spring) Helsinki, Finland 2021 April 25 - 2021 April 28 (2021) “2021 Ieee 93rd Vehicular Technology Conference (vtc2021-Spring),” in Machine Learning-Based Intrusion Detection System for Big Data Analytics in Vanet. IEEE, pp. 1–5. doi: 10.1109/VTC2021-Spring51267.2021.9448878.
+
+7.	Shi, J. et al. (2021) “2021 Ieee 94th Vehicular Technology Conference (vtc2021-Fall),” in A Hybrid Intrusion Detection System Based on Machine Learning Under Differential Privacy Protection. IEEE, pp. 1–6. doi: 10.1109/VTC2021-Fall52928.2021.9625540.
+
+8.	J. Gao, S. Chai, C. Zhang, B. Zhang and L. Cui, "A Novel Intrusion Detection System based on Extreme Machine Learning and Multi-Voting Technology," 2019 Chinese Control Conference (CCC), Guangzhou, China, 2019, pp. 8909-8914, doi: 10.23919/ChiCC.2019.8865258.
+
+9.	T. N. Varunram, M. B. Shivaprasad, K. H. Aishwarya, A. Balraj, S. V. Savish and S. Ullas, "Analysis of Different Dimensionality Reduction Techniques and Machine Learning Algorithms for an Intrusion Detection System," 2021 IEEE 6th International Conference on Computing, Communication and Automation (ICCCA), Arad, Romania, 2021, pp. 237-242, doi: 10.1109/ICCCA52192.2021.9666265.
+
+10.	Gustavo De Carvalho Bertoli et al. (2021) “An End-To-End Framework for Machine Learning-Based Network Intrusion Detection System,” 9, pp. 106790–106805. doi: 10.1109/ACCESS.2021.3101188.
+
+![image](https://github.com/prithvik12/INSE6610-2023-Project-Group7/assets/123041369/724377e3-2807-459a-8edc-60e3d0afd2e4)
+
+
