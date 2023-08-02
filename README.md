@@ -204,6 +204,5 @@ VARUN'S PAPERS
 
 10.	Gustavo De Carvalho Bertoli et al. (2021) “An End-To-End Framework for Machine Learning-Based Network Intrusion Detection System,” 9, pp. 106790–106805. doi: 10.1109/ACCESS.2021.3101188.
 
-![image](https://github.com/prithvik12/INSE6610-2023-Project-Group7/assets/123041369/724377e3-2807-459a-8edc-60e3d0afd2e4)
 
 
