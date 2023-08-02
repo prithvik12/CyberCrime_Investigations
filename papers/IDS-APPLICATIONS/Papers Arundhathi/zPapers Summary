@@ -29,3 +29,59 @@ Summary:
 The paragraph discusses the increasing severity of cyber attacks and the importance of Host Intrusion Detection Systems (HIDS) in detecting such attacks. To compare different HIDS and test their effectiveness, publicly accessible and up-to-date data sets are necessary. However, existing data sets have significant problems, prompting the introduction of a new data set to address these limitations.
 The dependency of society on IT infrastructure is growing, while cyber attacks are becoming more sophisticated and professional, leading to an increased potential for damage. Intrusion Detection Systems (IDS) are a crucial defense against these attacks, with HIDS recording data from the system under monitoring. Promising publications have shown successful use of system calls from host machines for attack identification, often using anomaly detection methods, even for previously unknown attacks. Analyzing system call sequences has been a common approach, but some methods focus on call frequencies or call parameters. Research combining sequence and parameter analysis is particularly promising.
 Although several data sets have been published for testing and comparing HIDS in the past, each of them has critical drawbacks. As a result, the paragraph introduces a new data set to overcome these issues, enabling more effective and comparable research in the field of host-based intrusion detection.
+
+5) Context-aware Intrusion Detection in Automotive Control Systems
+
+Summary: 
+The paper presents an innovative context-aware intrusion detection system (CAID) framework specifically designed to detect manipulations in automotive control systems. With the increasing reliance on software-based solutions in the automotive industry, there is a growing concern about potential cyberattacks that could compromise the safety and security of vehicles.
+CAID operates by using sensor data to create reference models of the physical system, which are then used to evaluate the current sensor data for any anomalies in the controller's behavior. By integrating a physical model into the intrusion detection engine, CAID improves the capabilities of existing cyber physical intrusion detection systems (IDS).
+To assess the effectiveness of CAID, the researchers conducted experiments on a test vehicle, gathering telemetry data. The test vehicle was subjected to manipulations using a commercially available chip-tuning tool to simulate potential attacks. The results showed that CAID was highly successful in identifying chip tuning using an unsupervised Artificial Neural Network (ANN).
+Overall, the paper highlights the promise of CAID in fortifying current automotive IDS and its potential to safeguard safety-critical systems in vehicles from future cyber threats.
+
+6) A survey of intrusion detection on industrial control systems
+
+Summary:
+This survey focuses on the increasing connectivity of modern industrial control systems to the corporate Internet, which makes them more susceptible to cyber attacks. In response, the survey emphasizes the critical role of intrusion detection technology in securing these systems effectively. It delves into the characteristics and new security requirements of industrial control systems, providing a novel taxonomy for intrusion detection systems based on different techniques: protocol analysis, traffic mining, and control process analysis.
+Through a comprehensive analysis, the survey evaluates the strengths and weaknesses of each intrusion detection system category. Furthermore, it explores potential future advancements in intrusion detection technology for industrial control systems. The ultimate aim is to inspire further research in this field and bolster the security of industrial control systems against cyber threats.
+
+7) iFinger: Intrusion Detection in Industrial Control Systems via Register-Based Fingerprinting
+
+Summary:
+This paper introduces iFinger, a novel detection approach designed to mitigate cyber attacks on industrial control systems (ICS) in critical infrastructures like the power grid. ICS devices are vulnerable to malicious users, and even subtle changes can cause significant damage to industrial manufacturing. iFinger leverages an important insight that industrial protocol packets include register status values reflecting the physical characteristics of ICS controllers.
+The approach uses boolean logic and deterministic finite automaton (DFA) to generate ICS fingerprints based on register states, representing the stable and invariant characteristics of ICS devices over time. Two detection approaches are proposed: passive detection, which gathers register values from network traces, and active detection, which sends crafted packets to obtain register values. Subtle attacks are identified based on differences in register state sequences in the device's DFA.
+Experiments with a prototype of iFinger show an impressive 97.1% F1 score in ICS device identification. Additionally, two typical ICS attacks (replacement and code modification) were simulated, and iFinger successfully detected them with a 98.0% recall rate in industrial networks.
+The contributions of this work include the novel fingerprint generation approach using register states, the utilization of both visible and invisible registers for attack detection, and the real-world experimental validation of iFinger's effectiveness in identifying ICS devices and detecting subtle attacks.  
+
+8) Analysis of Host-Based and Network-Based Intrusion Detection System
+
+Summary: 
+This paper discusses the importance and functioning of Intrusion Detection Systems (IDS) in protecting computer systems and networks from cyber attacks. IDS can be categorized into Network-Based IDS (NIDS) and Host-Based IDS (HIDS). The paper covers the characteristics and scope of both types and compares the results obtained from each.
+The authors focus on two specific IDS tools: OSSEC, which is a free and open-source HIDS, and Snort, a lightweight NIDS. OSSEC performs various tasks like log analysis, integrity checking, rootkit detection, and real-time alerting, while Snort can log and analyze network packets to detect potential attacks.
+The paper explains different types of attacks that IDS aim to detect, such as scanning attacks, denial of service attacks, and penetration attacks. It also emphasizes the importance of IDS over traditional firewalls for dealing with complex attacks and their dynamic nature.
+The authors analyze the effectiveness and characteristics of HIDS and NIDS, and they also discuss hybrid intrusion detection systems that combine both approaches for enhanced security. They further categorize IDS into misuse-based and anomaly-based detection systems.
+The main focus of the paper is on the comparison between NIDS (Snort) and HIDS (OSSEC) by discussing their architecture and capabilities. The authors highlight the advantages and limitations of each type and present an experimental analysis to validate their performance.
+In conclusion, the paper provides valua ble insights into the different types of IDS, their strengths, and potential future research directions in the field of intrusion detection.
+
+9) On Cyber Attacks and Signature Based Intrusion Detection for Modbus Based Industrial Control Systems
+
+Summary: 
+This paper focuses on the vulnerabilities of industrial control system communication networks, particularly those that use the MODBUS application layer network protocol. The paper presents 28 cyber attacks against these industrial control systems, which are categorized into reconnaissance, response injection, command injection, and denial of service attacks. These attacks can lead to severe consequences, including system failure, financial loss, and safety issues for users of critical infrastructure services.
+The paper emphasizes the importance of detecting and mitigating these cyber attacks promptly. It introduces a state-based signature intrusion detection system designed to detect and alert for each of the 28 cyber attacks. The intrusion detection system was validated in a laboratory environment, and the paper provides detection accuracy results.
+Overall, the paper provides valuable insights into the vulnerabilities of industrial control systems, the potential cyber attacks they may face, and the importance of implementing effective intrusion detection systems to safeguard critical infrastructure from such threats.
+
+10) SCADA-specific Intrusion Detection/Prevention Systems: A Survey and Taxonomy
+
+Summary: 
+This paper discusses the challenges associated with implementing intrusion detection techniques for Supervisory Control and Data Acquisition (SCADA) systems, which are now vulnerable to cyber attacks due to standardization and connectivity to the Internet. SCADA systems were not originally designed with cyber security in mind, making it challenging to adapt conventional Information Technology (IT) intrusion detection techniques to suit SCADA's unique requirements.
+To address this challenge, the paper introduces a taxonomy and a set of metrics for SCADA-specific intrusion detection techniques. The taxonomy categorizes various IDS strategies proposed for SCADA systems, allowing control engineers and researchers to understand the problem space better. The paper emphasizes that in the early stages of SCADA-specific intrusion detection, strict exclusiveness among components may not be suitable, and a more flexible approach is needed.
+The authors draw upon discussions to identify deficits and gaps in current research related to SCADA-specific intrusion detection. They also present a prototype of their efforts towards this goal. The objective of the taxonomy is not only to describe the relevant universe of intrusion detection techniques but also to gain insights into solving the specific problem at hand.
+In conclusion, the paper emphasizes the importance of developing SCADA-specific intrusion detection techniques to protect critical infrastructure from cyber threats. It highlights the need for a flexible and insightful taxonomy to address the evolving and complex challenges in this field.
+
+11) Sequence-aware Intrusion Detection in Industrial Control Systems
+
+Summary: 
+This paper addresses the threats posed to cyber-physical systems, specifically industrial control systems (ICS) operating on critical infrastructures, by semantic attacks, particularly "sequence attacks." Unlike typical malicious events, sequence attacks involve a specific series of permitted operations that, when arranged strategically, can cause damage to an infrastructure while eluding standard intrusion detection systems.
+The paper emphasizes that modern ICSs are more interconnected and remotely accessible, making them vulnerable to cyber threats. Semantic attacks, such as Stuxnet, exploit knowledge about control processes and physical systems to maximize damage. The paper focuses on sequence attacks, where the order of "valid" events can lead to faults and failures in the targeted devices.
+To detect sequence attacks, the paper proposes a sequence-aware intrusion detection system (S-IDS) based on discrete-time Markov chains (DTMCs) to model ICS device operations and their semantic meanings over time. The S-IDS uses a weighted-distance computation among Markov chain states to identify patterns of ICS network events.
+The paper presents a reference architecture for the S-IDS and discusses its implementation. Real-world data and communication traces from ICS infrastructures are used to test the S-IDS.
+In conclusion, the paper highlights the significance of developing specific intrusion detection techniques, like the S-IDS, to protect critical infrastructures from semantic attacks. The proposed approach provides insights into identifying sequence attacks and mitigating their impact on industrial control systems.
