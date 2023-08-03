@@ -1,4 +1,4 @@
-*** MLIDS: A Machine Learning Approach for Intrusion Detection for Real-Time Network Dataset ***
+*** Paper-1:- MLIDS: A Machine Learning Approach for Intrusion Detection for Real-Time Network Dataset ***
 
 Summary:-
 
@@ -15,7 +15,7 @@ Datasets that are considered in the paper:- NSL KDD CUP 1999 dataset is used.
 Algorithms Used:- NB, SVM, RF, ANN.
 
 
-*** Modified Naive Bayes Intrusion Detection System (MNBIDS) ***
+*** Paper-2:- Modified Naive Bayes Intrusion Detection System (MNBIDS) ***
 
 Summary:-
 
@@ -35,7 +35,7 @@ Datasets that are considered in the paper:-  KDD CUP 1999 dataset is used.
 Algorithms Used:- SVM, CNN, KNN, and ANN algorithms are used to compare it with the proposed Modified Naive Bayes.
 
 
-*** Intrusion Detection System Based on Network Traffic Using Deep Neural Networks ***
+*** Paper-3:-Intrusion Detection System Based on Network Traffic Using Deep Neural Networks ***
 
 Summary:-
 
@@ -55,7 +55,7 @@ In conclusion, the paper introduces a state-of-the-art Intrusion Detection Syste
 
 Algorithm Used:- DNN is being studied.
 
-*** An Efficient Intrusion Detection Based on Decision Tree Classifier Using Feature Reduction ***
+*** Paper-4:-An Efficient Intrusion Detection Based on Decision Tree Classifier Using Feature Reduction ***
 
 Summary:-
 
@@ -75,7 +75,7 @@ Algorithm Used:- J48 (Decision Tree Classifier), BayesNet, OneR and NB are used.
 Dataset Used:- KDD 99 is used for implementing the datasets.
 
 
-*** Machine Learning to Improve the Performance of Anomaly-Based Network Intrusion Detection in Big Data ***
+*** Paper-5:-Machine Learning to Improve the Performance of Anomaly-Based Network Intrusion Detection in Big Data ***
 
 Summary:-
 
@@ -94,7 +94,7 @@ In conclusion, the paper emphasizes the significance of machine learning in augm
 The dataset used:- CSE-CIC-IDS-2018.
 The algorithms used are:- RF(for feature selection), LR(Linear Regression), KNN, CART(Classification and Regression Trees), Multi-Layer Perceptron (MLP), Bayes and XGBoost.
 
-*** Implementation Of Machine Learning Algorithms For Detection Of Network Intrusion ***
+*** Paper-6:-Implementation Of Machine Learning Algorithms For Detection Of Network Intrusion ***
 
 Summary:-
 
@@ -118,7 +118,7 @@ The algorithms used are:- DT, LR, RF, and SVM.
 Datasets that are used:- NSl-KDD dataset.
 
 
-*** Intrusion_Detection_and_Prevention_in_Networks_Using_Machine_Learning_and_Deep_Learning_Approaches_A_Review. ***
+*** Paper-7:-Intrusion_Detection_and_Prevention_in_Networks_Using_Machine_Learning_and_Deep_Learning_Approaches_A_Review. ***
 
 Summary:-
 
@@ -139,7 +139,7 @@ In conclusion, the paper offers an extensive review of Intrusion Detection and P
 The algorithms used are:- Decision Trees, Random Forests, Support Vector Machines (SVM), k-Nearest Neighbors (k-NN), and Naive Bayes, as well as deep learning models, including Neural Networks and Deep Neural Networks. 
 The datasets used are:- DARPA but they suggested to use other latest datasets.
 
-*** Intelligent Intrusion Detection Systems Using Artificial Neural Networks ***
+*** Paper-8:-Intelligent Intrusion Detection Systems Using Artificial Neural Networks ***
 
 Summary:-
 
@@ -159,7 +159,7 @@ The algorithms used are:- ANN.
 Note:- implemented offline.
 
 
-*** Network intrusion detection system: A systematic study of machine learning and deep learning approaches ***
+*** Paper-9:-Network intrusion detection system: A systematic study of machine learning and deep learning approaches ***
 
 Summary:-
 
@@ -181,7 +181,7 @@ In conclusion, the paper contributes to the advancement of Network Intrusion Det
 
 Dataset used:- DARPA
 
-*** Intrusion_Detection_System_Based_on_Improved_SVM_Incremental_Learning ***
+*** Paper-10:-Intrusion_Detection_System_Based_on_Improved_SVM_Incremental_Learning ***
 
 Summary:-
 
@@ -200,5 +200,5 @@ The paper also discusses the practical implications of implementing the improved
 In conclusion, the paper introduces an innovative Intrusion Detection System based on an improved SVM incremental learning approach. The research showcases the significance of incremental learning in creating more adaptive and efficient IDS solutions. The findings highlight the potential of the proposed approach in enhancing network security, ensuring timely detection and mitigation of network intrusions. The paper's contributions offer valuable insights for researchers and practitioners seeking to implement dynamic and adaptive IDS solutions in their network environments. Overall, the improved SVM incremental learning-based IDS represents a promising advancement in intrusion detection technology, paving the way for more proactive and robust network defence mechanisms.
 
 
-algorithms used:- Support Vector Machine with clustering algorithm.
-Dataset used :- KDD CUP 1999 
+algorithms used:- Support Vector Machine with a clustering algorithm.
+Dataset used:- KDD CUP 1999 
