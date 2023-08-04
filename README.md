@@ -134,82 +134,81 @@ Arundhathi's Papers
 
 46. Agarwal, Nancy, and Syed Zeeshan Hussain. "A closer look at intrusion detection system for web applications." Security and Communication Networks 2018 (2018).
 
+VARUN'S PAPERS
+
+47.	K. Talty, J. Stockdale and N. D. Bastian, "A Sensitivity Analysis of Poisoning and Evasion Attacks in Network Intrusion Detection System Machine Learning Models," MILCOM 2021 - 2021 IEEE Military Communications Conference (MILCOM), San Diego, CA, USA, 2021, pp. 1011-1016, doi: 10.1109/MILCOM52596.2021.9652959.
+
+48.	J. Ashraf, N. Moustafa, A. D. Bukhshi and A. Javed, "Intrusion Detection System for SDN-enabled IoT Networks using Machine Learning Techniques," 2021 IEEE 25th International Enterprise Distributed Object Computing Workshop (EDOCW), Gold Coast, Australia, 2021, pp. 46-52, doi: 10.1109/EDOCW52865.2021.00031.
+
+49.	E. Viegas, A. O. Santin and V. Abreu Jr, "Machine Learning Intrusion Detection in Big Data Era: A Multi-Objective Approach for Longer Model Lifespans," in IEEE Transactions on Network Science and Engineering, vol. 8, no. 1, pp. 366-376, 1 Jan.-March 2021, doi: 10.1109/TNSE.2020.3038618.
+
+50.	S. Thirimanne, L. Jayawardana, P. Liyanaarachchi and L. Yasakethu, "Comparative Algorithm Analysis for Machine Learning Based Intrusion Detection System," 2021 10th International Conference on Information and Automation for Sustainability (ICIAfS), Negambo, Sri Lanka, 2021, pp. 191-196, doi: 10.1109/ICIAfS52090.2021.9605814.
+
+51.	Mendoza, Arjonel M., Rowell M. Hernandez, Ryndel V. Amorado, Myrna A. Coliat and Poul Isaac C. De Chavez. “Network Data Feature Selection in Detecting Network Intrusion using Supervised Machine Learning Techniques.” 2022 2nd Asian Conference on Innovation in Technology (ASIANCON) (2022): 1-6.
+
+52.	Zang, M., Yan, Y. and 2021 IEEE 93rd Vehicular Technology Conference (VTC2021-Spring) Helsinki, Finland 2021 April 25 - 2021 April 28 (2021) “2021 Ieee 93rd Vehicular Technology Conference (vtc2021-Spring),” in Machine Learning-Based Intrusion Detection System for Big Data Analytics in Vanet. IEEE, pp. 1–5. doi: 10.1109/VTC2021-Spring51267.2021.9448878. 
+53.	Shi, J. et al. (2021) “2021 Ieee 94th Vehicular Technology Conference (vtc2021-Fall),” in A Hybrid Intrusion Detection System Based on Machine Learning Under Differential Privacy Protection. IEEE, pp. 1–6. doi: 10.1109/VTC2021-Fall52928.2021.9625540.
+
+54.	J. Gao, S. Chai, C. Zhang, B. Zhang and L. Cui, "A Novel Intrusion Detection System based on Extreme Machine Learning and Multi-Voting Technology," 2019 Chinese Control Conference (CCC), Guangzhou, China, 2019, pp. 8909-8914, doi: 10.23919/ChiCC.2019.8865258.
+
+55.	T. N. Varunram, M. B. Shivaprasad, K. H. Aishwarya, A. Balraj, S. V. Savish and S. Ullas, "Analysis of Different Dimensionality Reduction Techniques and Machine Learning Algorithms for an Intrusion Detection System," 2021 IEEE 6th International Conference on Computing, Communication and Automation (ICCCA), Arad, Romania, 2021, pp. 237-242, doi: 10.1109/ICCCA52192.2021.9666265.
+
+56.	Gustavo De Carvalho Bertoli et al. (2021) “An End-To-End Framework for Machine Learning-Based Network Intrusion Detection System,” 9, pp. 106790–106805. doi: 10.1109/ACCESS.2021.3101188.
+
+ARJITH'S PAPERS
+
+57. C. Yin, Y. Zhu, J. Fei and X. He, "A Deep Learning Approach for Intrusion Detection Using Recurrent Neural Networks," in IEEE Access, vol. 5, pp. 21954-21961, 2017, doi: 10.1109/ACCESS.2017.2762418.
+
+58. X. Gao, C. Shan, C. Hu, Z. Niu and Z. Liu, "An Adaptive Ensemble Machine Learning Model for Intrusion Detection," in IEEE Access, vol. 7, pp. 82512-82521, 2019, doi: 10.1109/ACCESS.2019.2923640.
+
+59. R. Vinayakumar, M. Alazab, K. P. Soman, P. Poornachandran, A. Al-Nemrat and S. Venkatraman, "Deep Learning Approach for Intelligent Intrusion Detection System," in IEEE Access, vol. 7, pp. 41525-41550, 2019, doi: 10.1109/ACCESS.2019.2895334.
+
+60. Y. Xin et al., "Machine Learning and Deep Learning Methods for Cybersecurity," in IEEE Access, vol. 6, pp. 35365-35381, 2018, doi: 10.1109/ACCESS.2018.2836950.
+
+61. Z. Wang, "Deep Learning-Based Intrusion Detection With Adversaries," in IEEE Access, vol. 6, pp. 38367-38384, 2018, doi: 10.1109/ACCESS.2018.2854599.
+
+62. M. Al-Qatf, Y. Lasheng, M. Al-Habib and K. Al-Sabahi, "Deep Learning Approach Combining Sparse Autoencoder With SVM for Network Intrusion Detection," in IEEE Access, vol. 6, pp. 52843-52856, 2018, doi: 10.1109/ACCESS.2018.2869577.
+
 
 PRITHVIK'S PAPERS:-
 
 
-47.   M. D. Rokade and Y. K. Sharma, "MLIDS: A Machine Learning Approach for Intrusion Detection for Real-Time Network Dataset," 2021 International Conference on Emerging Smart Computing and Informatics (ESCI), Pune, India, 2021, pp. 533-536, doi: 10.1109/ESCI50559.2021.9396829.
+63.   M. D. Rokade and Y. K. Sharma, "MLIDS: A Machine Learning Approach for Intrusion Detection for Real-Time Network Dataset," 2021 International Conference on Emerging Smart Computing and Informatics (ESCI), Pune, India, 2021, pp. 533-536, doi: 10.1109/ESCI50559.2021.9396829.
 
-48.   Karuna S. Bhosale, Maria Nenova and Georgi Iliev, "Modified Naive Bayes Intrusion Detection System (MNBIDS)", 2018 International Conference on Computational Techniques Electronics and Mechanical Systems (CTEMS), 2018.
+64.   Karuna S. Bhosale, Maria Nenova and Georgi Iliev, "Modified Naive Bayes Intrusion Detection System (MNBIDS)", 2018 International Conference on Computational Techniques Electronics and Mechanical Systems (CTEMS), 2018.
 
-49.   Dimitra Chamou et al., "Intrusion Detection System Based on Network Traffic Using Deep Neural Networks", 2019 IEEE 24th International Workshop on Computer Aided Modeling and Design of Communication Links and Networks (CAMAD), 2019.
+65.   Dimitra Chamou et al., "Intrusion Detection System Based on Network Traffic Using Deep Neural Networks", 2019 IEEE 24th International Workshop on Computer Aided Modeling and Design of Communication Links and Networks (CAMAD), 2019.
 
-50.   Yogendra Kumar Jain and Upendra, “An Efficient Intrusion Detection Based on Decision Tree Classifier Using Feature Reduction”, International Journal of Engineering Research and Development e-ISSN: 2278-067X, p-ISSN: 2278-800X, www.ijerd.com Volume 8, Issue 2
+66.   Yogendra Kumar Jain and Upendra, “An Efficient Intrusion Detection Based on Decision Tree Classifier Using Feature Reduction”, International Journal of Engineering Research and Development e-ISSN: 2278-067X, p-ISSN: 2278-800X, www.ijerd.com Volume 8, Issue 2
 (August 2013), PP. 23-38.
 
-51.   Siriporn Chimphlee and Witcha Chimphlee, "Machine learning to improve the performance of anomaly-based network intrusion detection in big data",Indonesian Journal of Electrical Engineering and Computer Science Vol. 30, No. 2, May 2023, pp. 1106~1119 ISSN: 2502-4752, DOI: 10.11591/ijeecs.v30.i2.pp1106-1119.
+67.   Siriporn Chimphlee and Witcha Chimphlee, "Machine learning to improve the performance of anomaly-based network intrusion detection in big data",Indonesian Journal of Electrical Engineering and Computer Science Vol. 30, No. 2, May 2023, pp. 1106~1119 ISSN: 2502-4752, DOI: 10.11591/ijeecs.v30.i2.pp1106-1119.
 
-52.   P. Raviteja et al., “Implementation Of Machine Learning Algorithms For Detection Of Network Intrusion,” vol. 8, no. 2, pp. 163–169, 2020.
+68.   P. Raviteja et al., “Implementation Of Machine Learning Algorithms For Detection Of Network Intrusion,” vol. 8, no. 2, pp. 163–169, 2020.
 
-53.   J. A. Abraham and V. R. Bindu, "Intrusion Detection and Prevention in Networks Using Machine Learning and Deep Learning Approaches: A Review," 2021 International Conference on Advancements in Electrical, Electronics, Communication, Computing and Automation (ICAECA), Coimbatore, India, 2021, pp. 1-4, doi: 10.1109/ICAECA52838.2021.9675595.
+69.   J. A. Abraham and V. R. Bindu, "Intrusion Detection and Prevention in Networks Using Machine Learning and Deep Learning Approaches: A Review," 2021 International Conference on Advancements in Electrical, Electronics, Communication, Computing and Automation (ICAECA), Coimbatore, India, 2021, pp. 1-4, doi: 10.1109/ICAECA52838.2021.9675595.
 
-54.   Alex Shenfield, David Day, Aladdin Ayesh, Intelligent intrusion detection systems using artificial neural networks, ICT Express, Volume 4, Issue 2, 2018, Pages 95-99,ISSN 2405-9595, https://doi.org/10.1016/j.icte.2018.04.003.
+70.   Alex Shenfield, David Day, Aladdin Ayesh, Intelligent intrusion detection systems using artificial neural networks, ICT Express, Volume 4, Issue 2, 2018, Pages 95-99,ISSN 2405-9595, https://doi.org/10.1016/j.icte.2018.04.003.
 
-55.   Mukkamala S, Janoski G, Sung A. Intrusion detection using neural networks and support vector machines. Paper presented at: Proceedings
+71.   Mukkamala S, Janoski G, Sung A. Intrusion detection using neural networks and support vector machines. Paper presented at: Proceedings
 of the 2002 International Joint Conference on Neural Networks. IJCNN’02 (Cat. No. 02CH37290). Honolulu, HI, USA: IEEE; vol. 2,
 2002:1702-1707.
 
-56.   H. Du, S. Teng, M. Yang and Q. Zhu, "Intrusion Detection System Based on Improved SVM Incremental Learning," 2009 International Conference on Artificial Intelligence and Computational Intelligence, Shanghai, China, 2009, pp. 23-28, doi: 10.1109/AICI.2009.254.
+72.   H. Du, S. Teng, M. Yang and Q. Zhu, "Intrusion Detection System Based on Improved SVM Incremental Learning," 2009 International Conference on Artificial Intelligence and Computational Intelligence, Shanghai, China, 2009, pp. 23-28, doi: 10.1109/AICI.2009.254.
 
 ADNAAN'S PAPERS
 
-57.  Li Xiangmei   Qin Zhi “The Application of Hybrid Neural Network Algorithms in Intrusion Detection System “978-1-4244-8694-6/11 ©2011 IEEE.
+73.  Li Xiangmei   Qin Zhi “The Application of Hybrid Neural Network Algorithms in Intrusion Detection System “978-1-4244-8694-6/11 ©2011 IEEE.
 
-58.  R. Patgiri, U. Varshney, T. Akutota and R. Kunde, "An Investigation on Intrusion Detection System Using Machine Learning," 2018 IEEE Symposium Series on Computational Intelligence (SSCI), Bangalore, India, 2018, pp. 1684-1691, doi: 10.1109/SSCI.2018.8628676.
+74.  R. Patgiri, U. Varshney, T. Akutota and R. Kunde, "An Investigation on Intrusion Detection System Using Machine Learning," 2018 IEEE Symposium Series on Computational Intelligence (SSCI), Bangalore, India, 2018, pp. 1684-1691, doi: 10.1109/SSCI.2018.8628676.
 
-59.  U. S. K. Perera Miriya Thanthrige, J. Samarabandu and X. Wang, "Machine learning techniques for intrusion detection on public dataset," 2016 IEEE Canadian Conference on Electrical and Computer Engineering (CCECE), Vancouver, BC, Canada, 2016, pp. 1-4, doi: 10.1109/CCECE.2016.7726677.
+75.  U. S. K. Perera Miriya Thanthrige, J. Samarabandu and X. Wang, "Machine learning techniques for intrusion detection on public dataset," 2016 IEEE Canadian Conference on Electrical and Computer Engineering (CCECE), Vancouver, BC, Canada, 2016, pp. 1-4, doi: 10.1109/CCECE.2016.7726677.
 
-60.  K. Alrawashdeh and C. Purdy, "Toward an Online Anomaly Intrusion Detection System Based on Deep Learning," 2016 15th IEEE International Conference on Machine Learning and Applications (ICMLA), Anaheim, CA, USA, 2016, pp. 195-200, doi: 10.1109/ICMLA.2016.0040.
+76.  K. Alrawashdeh and C. Purdy, "Toward an Online Anomaly Intrusion Detection System Based on Deep Learning," 2016 15th IEEE International Conference on Machine Learning and Applications (ICMLA), Anaheim, CA, USA, 2016, pp. 195-200, doi: 10.1109/ICMLA.2016.0040.
 
-61.  U. S. K. P. M. Thanthrige, J. Samarabandu and X. Wang, "Machine learning techniques for intrusion detection on public dataset", 2016 IEEE Canadian Conference on Electrical and Computer Engineering (CCECE), pp. 1-4, May 2016.
+77.  U. S. K. P. M. Thanthrige, J. Samarabandu and X. Wang, "Machine learning techniques for intrusion detection on public dataset", 2016 IEEE Canadian Conference on Electrical and Computer Engineering (CCECE), pp. 1-4, May 2016.
 
-62.  M. J. Fadaeieslam, B. Minaei-Bidgoli, M. Fathy and M. Soryani, "Comparison of two feature selection methods in intrusion detection systems", Computer and Information Technology 2007. CIT 2007. 7th IEEE International Conference on, pp. 83-86, 2007.
-
-ARJITH'S PAPERS
-
-63. C. Yin, Y. Zhu, J. Fei and X. He, "A Deep Learning Approach for Intrusion Detection Using Recurrent Neural Networks," in IEEE Access, vol. 5, pp. 21954-21961, 2017, doi: 10.1109/ACCESS.2017.2762418.
-
-64. X. Gao, C. Shan, C. Hu, Z. Niu and Z. Liu, "An Adaptive Ensemble Machine Learning Model for Intrusion Detection," in IEEE Access, vol. 7, pp. 82512-82521, 2019, doi: 10.1109/ACCESS.2019.2923640.
-
-65. R. Vinayakumar, M. Alazab, K. P. Soman, P. Poornachandran, A. Al-Nemrat and S. Venkatraman, "Deep Learning Approach for Intelligent Intrusion Detection System," in IEEE Access, vol. 7, pp. 41525-41550, 2019, doi: 10.1109/ACCESS.2019.2895334.
-
-66. Y. Xin et al., "Machine Learning and Deep Learning Methods for Cybersecurity," in IEEE Access, vol. 6, pp. 35365-35381, 2018, doi: 10.1109/ACCESS.2018.2836950.
-
-67. Z. Wang, "Deep Learning-Based Intrusion Detection With Adversaries," in IEEE Access, vol. 6, pp. 38367-38384, 2018, doi: 10.1109/ACCESS.2018.2854599.
-
-68. M. Al-Qatf, Y. Lasheng, M. Al-Habib and K. Al-Sabahi, "Deep Learning Approach Combining Sparse Autoencoder With SVM for Network Intrusion Detection," in IEEE Access, vol. 6, pp. 52843-52856, 2018, doi: 10.1109/ACCESS.2018.2869577.
-
-VARUN'S PAPERS
-
-69.	K. Talty, J. Stockdale and N. D. Bastian, "A Sensitivity Analysis of Poisoning and Evasion Attacks in Network Intrusion Detection System Machine Learning Models," MILCOM 2021 - 2021 IEEE Military Communications Conference (MILCOM), San Diego, CA, USA, 2021, pp. 1011-1016, doi: 10.1109/MILCOM52596.2021.9652959.
-
-70.	J. Ashraf, N. Moustafa, A. D. Bukhshi and A. Javed, "Intrusion Detection System for SDN-enabled IoT Networks using Machine Learning Techniques," 2021 IEEE 25th International Enterprise Distributed Object Computing Workshop (EDOCW), Gold Coast, Australia, 2021, pp. 46-52, doi: 10.1109/EDOCW52865.2021.00031.
-
-71.	E. Viegas, A. O. Santin and V. Abreu Jr, "Machine Learning Intrusion Detection in Big Data Era: A Multi-Objective Approach for Longer Model Lifespans," in IEEE Transactions on Network Science and Engineering, vol. 8, no. 1, pp. 366-376, 1 Jan.-March 2021, doi: 10.1109/TNSE.2020.3038618.
-
-72.	S. Thirimanne, L. Jayawardana, P. Liyanaarachchi and L. Yasakethu, "Comparative Algorithm Analysis for Machine Learning Based Intrusion Detection System," 2021 10th International Conference on Information and Automation for Sustainability (ICIAfS), Negambo, Sri Lanka, 2021, pp. 191-196, doi: 10.1109/ICIAfS52090.2021.9605814.
-
-73.	Mendoza, Arjonel M., Rowell M. Hernandez, Ryndel V. Amorado, Myrna A. Coliat and Poul Isaac C. De Chavez. “Network Data Feature Selection in Detecting Network Intrusion using Supervised Machine Learning Techniques.” 2022 2nd Asian Conference on Innovation in Technology (ASIANCON) (2022): 1-6.
-
-74.	Zang, M., Yan, Y. and 2021 IEEE 93rd Vehicular Technology Conference (VTC2021-Spring) Helsinki, Finland 2021 April 25 - 2021 April 28 (2021) “2021 Ieee 93rd Vehicular Technology Conference (vtc2021-Spring),” in Machine Learning-Based Intrusion Detection System for Big Data Analytics in Vanet. IEEE, pp. 1–5. doi: 10.1109/VTC2021-Spring51267.2021.9448878.
-
-75.	Shi, J. et al. (2021) “2021 Ieee 94th Vehicular Technology Conference (vtc2021-Fall),” in A Hybrid Intrusion Detection System Based on Machine Learning Under Differential Privacy Protection. IEEE, pp. 1–6. doi: 10.1109/VTC2021-Fall52928.2021.9625540.
-
-76.	J. Gao, S. Chai, C. Zhang, B. Zhang and L. Cui, "A Novel Intrusion Detection System based on Extreme Machine Learning and Multi-Voting Technology," 2019 Chinese Control Conference (CCC), Guangzhou, China, 2019, pp. 8909-8914, doi: 10.23919/ChiCC.2019.8865258.
-
-77.	T. N. Varunram, M. B. Shivaprasad, K. H. Aishwarya, A. Balraj, S. V. Savish and S. Ullas, "Analysis of Different Dimensionality Reduction Techniques and Machine Learning Algorithms for an Intrusion Detection System," 2021 IEEE 6th International Conference on Computing, Communication and Automation (ICCCA), Arad, Romania, 2021, pp. 237-242, doi: 10.1109/ICCCA52192.2021.9666265.
-
-78.	Gustavo De Carvalho Bertoli et al. (2021) “An End-To-End Framework for Machine Learning-Based Network Intrusion Detection System,” 9, pp. 106790–106805. doi: 10.1109/ACCESS.2021.3101188.
+78.  M. J. Fadaeieslam, B. Minaei-Bidgoli, M. Fathy and M. Soryani, "Comparison of two feature selection methods in intrusion detection systems", Computer and Information Technology 2007. CIT 2007. 7th IEEE International Conference on, pp. 83-86, 2007.
 
 GAYATHRI'S PAPERS:-
 79.  E. Guillen, D. Padilla and Y. Colorado, "Weaknesses and strengths analysis over network-based intrusion detection and prevention systems," 2009 IEEE Latin-American Conference on Communications, Medellin, Colombia, 2009, pp. 1-5, doi: 10.1109/LATINCOM.2009.5305047.
@@ -225,8 +224,3 @@ GAYATHRI'S PAPERS:-
 84. Wang, Z.Q., Zhang, D.K., 2012. HIDS and NIDS Hybrid Intrusion Detection System Model Design. AEF 6–7, 991–994. https://doi.org/10.4028/www.scientific.net/aef.6-7.991 (https://doi.org/10.4028/www.scientific.net/aef.6-7.991)
 
 85. Y. -j. Ou, Y. Lin, Y. Zhang and Y. -j. Ou, "The Design and Implementation of Host-Based Intrusion Detection System," 2010 Third International Symposium on Intelligent Information Technology and Security Informatics, Jian, China, 2010, pp. 595-598, doi: 10.1109/IITSI.2010.127.
-
-86. Ming Liu, Zhi Xue, Xianghua Xu, Changmin Zhong, and Jinjun Chen. 2018. Host-Based Intrusion Detection System with System Calls: Review and Future Trends. ACM Comput. Surv. 51, 5, Article 98 (Se
-ptember 2019), 36 pages. 
-
-
