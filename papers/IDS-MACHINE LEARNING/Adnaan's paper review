@@ -1,0 +1,64 @@
+Adnaan's paper reviews
+
+A. A. Yilmaz, "Intrusion Detection in Computer Networks using Optimized Machine Learning Algorithms," 2022 3rd International Informatics and Software Engineering Conference (IISEC), Ankara, Turkey, 2022, pp. 1-5, doi: 10.1109/IISEC56263.2022.9998258.
+
+Summary:
+The paper discusses the use of machine learning algorithms for intrusion detection in computer networks. The authors first review the different types of intrusion detection systems (IDSs) that exist, and then discuss the advantages of using machine learning for IDS. They then present a case study in which they used three different machine learning algorithms to detect intrusions in a computer network. The algorithms they used were:
+•	Support vector machines (SVMs)
+•	Random forests
+•	XGBoost
+The authors found that the XGBoost algorithm performed the best in their case study, with a detection rate of 99% and a false alarm rate of 1%. They conclude that machine learning is a promising approach for intrusion detection, and that the XGBoost algorithm is a good choice for this task.
+
+Here are some of the key points from the paper:
+•	Machine learning can be used to detect intrusions in computer networks.
+•	There are a number of different machine learning algorithms that can be used for intrusion detection.
+•	The XGBoost algorithm is a good choice for intrusion detection.
+•	The detection rate and false alarm rate of machine learning algorithms can be improved by optimizing the hyperparameters of the algorithms.
+
+1.	U. S. Musa, S. Chakraborty, M. M. Abdullahi and T. Maini, "A Review on Intrusion Detection System using Machine Learning Techniques," 2021 International Conference on Computing, Communication, and Intelligent Systems (ICCCIS), Greater Noida, India, 2021, pp. 541-549, doi: 10.1109/ICCCIS51004.2021.9397121
+
+Summary: 
+
+This paper reviews research from 2015-2020 on using machine learning techniques for network intrusion detection systems (IDS). IDS help identify unauthorized network access and cyberattacks. The paper looks at using single classifiers like SVM, neural networks, decision trees, and Naive Bayes, as well as hybrid and ensemble classifiers which combine multiple algorithms. Many of the studies used older datasets like KDD Cup 99 and NSL-KDD which lack up-to-date attack types. Results show ensemble classifiers tend to have higher accuracy and detection rates compared to single classifiers. However, issues remain around slow detection, high false positives, and evaluating on limited datasets.
+Here are some of the key features discussed in this paper review on using machine learning for network intrusion detection systems:
+
+- Single classifiers examined include SVM, neural networks, decision trees, Naive Bayes
+
+- Hybrid classifiers combine multiple machine learning models together
+
+- Ensemble classifiers aggregate outputs from multiple "weak" learners
+
+- Most studies relied on outdated datasets like KDD Cup 99 rather than more recent options
+
+- Ensemble classifiers tended to have higher accuracy and detection rates than single classifiers
+
+- Key limitations identified include slow detection, high false positives, lack of recent dataset options
+
+- Recommendations for future work include using more hybrid/ensemble approaches, applying feature selection, evaluating on newer dataset options, improving detection rate and false positives
+
+- Machine learning has introduced new IDS techniques but further refinement is needed around accuracy, speed, handling modern attacks, and testing on diverse datasets
+
+2.	Alex Shenfield, David Day, Aladdin Ayesh, Intelligent intrusion detection systems using artificial neural networks, ICT Express, Volume 4, Issue 2, 2018, Pages 95-99,ISSN 2405-9595, https://doi.org/10.1016/j.icte.2018.04.003.
+Summary:
+ 
+This paper proposes a novel approach for detecting malicious network traffic and shellcode using artificial neural networks. The motivation stems from the high false positive rates and inability to detect unknown threats in traditional signature-based intrusion detection systems. The authors extract byte-level data from network traffic, convert it to integer values, and use these as inputs to a multilayer perceptron neural network. The neural network is trained on both benign and malicious files, using repeated 10-fold cross-validation.
+The results demonstrate that the neural network classifier achieves excellent performance in distinguishing between benign and malicious files. It obtains an average accuracy of 98%, AUCROC of 0.98, and false positive rate below 2% across all experiments. The approach exhibits near perfect detection of shellcode with no false positives when tested on unseen data. The authors propose this intelligent learning method could significantly enhance intrusion detection systems for both conventional networks and cyber-physical systems. Overall, the key innovations are the byte-level feature extraction and use of a neural network classifier to accurately detect shellcode patterns.
+
+3.	Ahmad Z, Shahid Khan A, Wai Shiang C, Abdullah J, Ahmad F. 2021. Network intrusion detection system: a systematic study of machine learning and deep learning approaches. Transactions on Emerging Telecommunications Technologies 32(1):e4150
+Summary:
+
+This paper provides a comprehensive review of recent advances in machine learning (ML) and deep learning (DL) techniques for network intrusion detection systems (NIDS). The paper first explains the concept of NIDS and its classification methods. It then provides details on common ML algorithms like decision trees, SVM, neural networks, etc. and DL algorithms like convolutional and recurrent neural networks, autoencoders, etc. that are used for NIDS. The authors systematically reviewed recent journal papers from 2017-2020 that propose new AI-based NIDS solutions. They analyzed each paper based on the methodology, strengths, weaknesses, datasets used, and evaluation metrics.
+The key observations are: 1) DL techniques are preferred over ML due to ability to learn from raw data, 2) Autoencoders and deep neural nets are most commonly used DL methods, 3) Most solutions still use old datasets like KDD Cup 99 rather than recent ones, 4) Lower detection accuracy for minority attack classes is an issue, 5) Complex DL models have high compute requirements. The authors discuss research challenges like lack of updated datasets, class imbalance, real-world performance, model complexity etc. and provide future research directions like efficient NIDS frameworks, reducing model complexity, using advanced DL methods, and lightweight IDS for IoT networks. 
+
+4.	H. Du, S. Teng, M. Yang and Q. Zhu, "Intrusion Detection System Based on Improved SVM Incremental Learning," 2009 International Conference on Artificial Intelligence and Computational Intelligence, Shanghai, China, 2009, pp. 23-28, doi: 10.1109/AICI.2009.254.
+Summary:
+
+This paper proposes a new intrusion detection method based on an improved support vector machine (SVM) incremental learning algorithm. The key idea is to combine SVM with a clustering algorithm to address issues with traditional incremental SVM learning. In the proposed method, the training data is first clustered using an unsupervised clustering algorithm. The cluster centers are then used to create a new condensed training set, which is used to train an SVM model. For new incoming data, samples that violate the KKT conditions are identified and added to the training set, while samples satisfying KKT conditions are discarded. This retains important boundary samples while reducing training data size.
+The proposed intrusion detection method uses this improved incremental SVM learning approach. Experiments on the KDD Cup 1999 dataset show the method reduces SVM training and classification time while improving detection accuracy compared to traditional incremental SVM and direct SVM approaches. Key advantages are higher detection rates and faster training with new data streams while retaining generalization capability. The results demonstrate the proposed incremental learning algorithm is more suitable for online intrusion detection applications.
+
+5.	J. A. Abraham and V. R. Bindu, "Intrusion Detection and Prevention in Networks Using Machine Learning and Deep Learning Approaches: A Review," 2021 International Conference on Advancements in Electrical, Electronics, Communication, Computing and Automation (ICAECA), Coimbatore, India, 2021, pp. 1-4, doi: 10.1109/ICAECA52838.2021.9675595
+
+This paper proposes a machine learning based methodology for intrusion detection in computer networks. The method has four main phases - preprocessing, feature selection, parameter optimization, and classification. In the preprocessing phase, the dataset is cleaned to remove irrelevant features. Correlation Based Feature Selection is used to select the most significant features. Parameter optimization is done using Particle Swarm Optimization to tune the parameters of the machine learning algorithms. For classification, algorithms like Random Tree, AdaBoost, K-Nearest Neighbor, and Support Vector Machine are used.
+The key features of the proposed method are: 1) Use of Correlation Based Feature Selection for reducing the dimensionality of the dataset and selecting relevant features 2) Parameter optimization of the ML algorithms using Particle Swarm Optimization 3) Testing on two large datasets - NSL-KDD and CIC-DDoS2019 4) Achieving high detection rates (99%+) and low false positive rates, outperforming other ML techniques. The results demonstrate that the proposed optimized machine learning approach effectively detects intrusions in networks.
+
+
