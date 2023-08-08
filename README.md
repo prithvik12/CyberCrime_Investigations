@@ -40,7 +40,7 @@ Yaswanth'papers
 
 3. Wang, Z. and Li, X., 2013. Intrusion prevention system design. In Proceedings of the International Conference on Information Engineering and Applications (IEA) 2012: Volume 3 (pp. 375-382). Springer London.
 
-4. R. Samrin and D. Vasumathi, "Review on anomaly based network intrusion detection system," 2017 International Conference on Electrical, Electronics, Communication, Computer, and Optimization Techniques (ICEECCOT), Mysuru, India, 2017, pp. 141-147, doi: 10.1109/ICEECCOT.2017.8284655.
+4. Kunal and M. Dua, "Machine Learning Approach to IDS: A Comprehensive Review," 2019 3rd International conference on Electronics, Communication and Aerospace Technology (ICECA), Coimbatore, India, 2019, pp. 117-121, doi: 10.1109/ICECA.2019.8822120.
 
 5. R. Lalduhsaka, A. Khan and A. K. Roy, "Issues and Challenges in Building a Model for Intrusion Detection System," 2021 5th International Conference on Information Systems and Computer Networks (ISCON), Mathura, India, 2021, pp. 1-5, doi: 10.1109/ISCON52037.2021.9702322.
 
@@ -224,3 +224,10 @@ GAYATHRI'S PAPERS:-
 84. Wang, Z.Q., Zhang, D.K., 2012. HIDS and NIDS Hybrid Intrusion Detection System Model Design. AEF 6–7, 991–994. https://doi.org/10.4028/www.scientific.net/aef.6-7.991 (https://doi.org/10.4028/www.scientific.net/aef.6-7.991)
 
 85. Y. -j. Ou, Y. Lin, Y. Zhang and Y. -j. Ou, "The Design and Implementation of Host-Based Intrusion Detection System," 2010 Third International Symposium on Intelligent Information Technology and Security Informatics, Jian, China, 2010, pp. 595-598, doi: 10.1109/IITSI.2010.127.
+
+Additional Papers
+
+86. Nguyen Thanh Van, Tran Ngoc Thinh and Le Thanh Sach, "An anomaly-based network intrusion detection system using Deep learning," 2017 International Conference on System Science and Engineering (ICSSE), Ho Chi Minh City, Vietnam, 2017, pp. 210-214, doi: 10.1109/ICSSE.2017.8030867.
+
+87. Khraisat, Ansam & Gondal, Iqbal & Vamplew, Peter & Kamruzzaman, Joarder. (2019). Survey of intrusion detection systems: techniques, datasets and challenges. Cybersecurity. 2. 10.1186/s42400-019-0038-7.
+
